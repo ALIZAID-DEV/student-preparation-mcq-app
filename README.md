@@ -11,6 +11,14 @@ A Flutter-based MCQ practice app for students preparing for NTS, STS/SIBA, Sindh
 - Admin panel for question management
 - Offline study support
 
+## App Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="200" />
+  <img src="assets/screenshots/quiz.png" width="200" />
+  <img src="assets/screenshots/result.png" width="200" />
+</p>
+
 ## Tech Stack
 - Flutter & Dart
 - Firebase Authentication
