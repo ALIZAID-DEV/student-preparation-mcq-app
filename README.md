@@ -28,15 +28,7 @@ A Flutter-based MCQ practice app for students preparing for NTS, STS/SIBA, Sindh
 
 ## Purpose
 Built to help students prepare in a more organised and practical way through topic-based practice and performance tracking.
-## Featured Project
 
-### Student Preparation — MCQ Practice App
-A Flutter + Firebase app for NTS, STS/SIBA, Sindh High Court, university entry-test, and semester-exam preparation.
-
-- Firebase Authentication, Firestore & Realtime Database
-- Timed MCQ quizzes, result review, leaderboard, and admin panel
-- [View the project on GitHub](https://github.com/ALIZAID-DEV/student-preparation-mcq-app)
-  
 ## Developer
 **Ali Zaid** — Flutter Developer  
 - Portfolio: https://my-portfolio-lyart-ten-kdzq0c293d.vercel.app/
