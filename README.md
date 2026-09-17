@@ -1,17 +1,28 @@
-# student_preparation_app
+# Student Preparation — MCQ Practice App
 
-A new Flutter project.
+A Flutter-based MCQ practice app for students preparing for NTS, STS/SIBA, Sindh High Court, university entry tests, and semester exams.
 
-## Getting Started
+## Features
+- Category-wise MCQ practice
+- Timed quizzes and result review
+- Firebase Authentication
+- Firebase Realtime Database / Firestore integration
+- Leaderboard and progress history
+- Admin panel for question management
+- Offline study support
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter & Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Realtime Database
+- Google Mobile Ads (AdMob)
 
-A few resources to get you started if this is your first Flutter project:
+## Purpose
+Built to help students prepare in a more organised and practical way through topic-based practice and performance tracking.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+**Ali Zaid** — Flutter Developer  
+- Portfolio: https://my-portfolio-lyart-ten-kdzq0c293d.vercel.app/
+- GitHub: https://github.com/ALIZAID-DEV
+- Email: alizaid0096@gmail.com
