@@ -1,0 +1,4608 @@
+[
+  {
+    "id": "sts_gk_001",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which barrage is the oldest major barrage in Sindh on the Indus River?",
+    "options": [
+      "Guddu Barrage",
+      "Kotri Barrage",
+      "Sukkur Barrage",
+      "Chashma Barrage"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sukkur Barrage was completed in 1932 and is the oldest major barrage in Sindh."
+  },
+  {
+    "id": "sts_gk_002",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Muhammad bin Qasim conquered Sindh in which year?",
+    "options": [
+      "710 AD",
+      "712 AD",
+      "715 AD",
+      "720 AD"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Muhammad bin Qasim conquered Sindh in 712 AD."
+  },
+  {
+    "id": "sts_gk_003",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Ranikot Fort, often called the Great Wall of Sindh, is located in which district?",
+    "options": [
+      "Thatta",
+      "Hyderabad",
+      "Jamshoro",
+      "Dadu"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ranikot Fort is situated in Jamshoro district."
+  },
+  {
+    "id": "sts_gk_004",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Sindh was separated from the Bombay Presidency on:",
+    "options": [
+      "14 August 1947",
+      "1 April 1936",
+      "23 March 1940",
+      "14 August 1940"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sindh became a separate province on 1 April 1936."
+  },
+  {
+    "id": "sts_gk_005",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The shrine of Hazrat Lal Shahbaz Qalandar is in:",
+    "options": [
+      "Hyderabad",
+      "Sehwan Sharif",
+      "Thatta",
+      "Larkana"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The shrine is in Sehwan Sharif, Jamshoro district."
+  },
+  {
+    "id": "sts_gk_006",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which desert is mainly found in Tharparkar district of Sindh?",
+    "options": [
+      "Cholistan",
+      "Thal",
+      "Thar",
+      "Kharan"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Thar Desert covers much of Tharparkar and adjoining areas."
+  },
+  {
+    "id": "sts_gk_007",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Haleji Lake is situated in which district of Sindh?",
+    "options": [
+      "Thatta",
+      "Jamshoro",
+      "Hyderabad",
+      "Badin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Haleji Lake is in Thatta district and is an important bird sanctuary."
+  },
+  {
+    "id": "sts_gk_008",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Kotri Barrage is located near which city?",
+    "options": [
+      "Sukkur",
+      "Hyderabad",
+      "Larkana",
+      "Mirpurkhas"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kotri Barrage is near Hyderabad on the Indus River."
+  },
+  {
+    "id": "sts_gk_009",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The capital of Sindh province is:",
+    "options": [
+      "Hyderabad",
+      "Sukkur",
+      "Karachi",
+      "Larkana"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Karachi is the provincial capital of Sindh."
+  },
+  {
+    "id": "sts_gk_010",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Mohenjo-daro is located in which district of Sindh?",
+    "options": [
+      "Larkana",
+      "Sukkur",
+      "Thatta",
+      "Khairpur"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mohenjo-daro archaeological site is in Larkana district."
+  },
+  {
+    "id": "sts_gk_011",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which river is called the lifeline of Sindh?",
+    "options": [
+      "Ravi",
+      "Chenab",
+      "Indus",
+      "Jhelum"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Indus River is the main source of irrigation and water for Sindh."
+  },
+  {
+    "id": "sts_gk_012",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Shah Abdul Latif Bhittai's shrine is located at:",
+    "options": [
+      "Bhit Shah",
+      "Sehwan",
+      "Rohri",
+      "Hala"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shah Abdul Latif Bhittai is buried at Bhit Shah, Matiari."
+  },
+  {
+    "id": "sts_gk_013",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which city of Sindh is historically known as the city of saints (Madinat-ul-Aulia)?",
+    "options": [
+      "Thatta",
+      "Multan",
+      "Hyderabad",
+      "Sehwan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thatta has long been associated with many Sufi saints and historic tombs."
+  },
+  {
+    "id": "sts_gk_014",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Makli Necropolis, a UNESCO World Heritage Site, is near:",
+    "options": [
+      "Hyderabad",
+      "Thatta",
+      "Sukkur",
+      "Nawabshah"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Makli Necropolis is near Thatta."
+  },
+  {
+    "id": "sts_gk_015",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Guddu Barrage is located in which district?",
+    "options": [
+      "Kashmore",
+      "Ghotki",
+      "Sukkur",
+      "Jacobabad"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Guddu Barrage is in Kashmore district on the Indus."
+  },
+  {
+    "id": "sts_gk_016",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which is the largest district of Sindh by area?",
+    "options": [
+      "Tharparkar",
+      "Sanghar",
+      "Khairpur",
+      "Daddu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Tharparkar is the largest district of Sindh by area."
+  },
+  {
+    "id": "sts_gk_017",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Hyderabad city was founded by:",
+    "options": [
+      "Mir Fateh Ali Khan Talpur",
+      "Ghulam Shah Kalhoro",
+      "Mian Ghulam Shah Kalhoro",
+      "Charles Napier"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hyderabad was founded by Mian Ghulam Shah Kalhoro in 1768."
+  },
+  {
+    "id": "sts_gk_018",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The famous Pacco Qillo (Pakka Qila) is located in:",
+    "options": [
+      "Sukkur",
+      "Hyderabad",
+      "Thatta",
+      "Larkana"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pakka Qila is a historic fort in Hyderabad."
+  },
+  {
+    "id": "sts_gk_019",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Keenjhar Lake is also known as:",
+    "options": [
+      "Manchar Lake",
+      "Kalri Lake",
+      "Haleji Lake",
+      "Hub Lake"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Keenjhar Lake is also called Kalri Lake and is in Thatta district."
+  },
+  {
+    "id": "sts_gk_020",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Manchar Lake, one of Pakistan's largest freshwater lakes, is in:",
+    "options": [
+      "Daddu / Jamshoro area",
+      "Thatta",
+      "Badin",
+      "Umerkot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Manchar Lake lies mainly in Dadu and Jamshoro districts."
+  },
+  {
+    "id": "sts_gk_021",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Sindhi New Year is commonly known as:",
+    "options": [
+      "Basant",
+      "Cheti Chand",
+      "Navroz only",
+      "Eid-e-Milad"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cheti Chand is celebrated as Sindhi New Year, especially by Sindhi Hindus."
+  },
+  {
+    "id": "sts_gk_022",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which airport serves Hyderabad city area?",
+    "options": [
+      "Jinnah International",
+      "Shaikh Zayed Airport",
+      "Hyderabad Airport",
+      "Sukkur Airport only"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hyderabad has its own airport (currently limited commercial operations historically)."
+  },
+  {
+    "id": "sts_gk_023",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The provincial assembly of Sindh is located in:",
+    "options": [
+      "Hyderabad",
+      "Karachi",
+      "Sukkur",
+      "Larkana"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sindh Assembly building is in Karachi."
+  },
+  {
+    "id": "sts_gk_024",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which crop is most associated with Sindh's agriculture?",
+    "options": [
+      "Tea",
+      "Cotton and wheat",
+      "Apple",
+      "Saffron"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cotton, wheat, rice and sugarcane are major crops of Sindh."
+  },
+  {
+    "id": "sts_gk_025",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Umerkot is historically important because:",
+    "options": [
+      "It has Pakistan's tallest mountain",
+      "Emperor Akbar was born there",
+      "It is Pakistan's capital",
+      "It has no fort"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mughal Emperor Akbar was born at Umerkot."
+  },
+  {
+    "id": "sts_gk_026",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Lansdowne Bridge connects Rohri with:",
+    "options": [
+      "Hyderabad",
+      "Sukkur",
+      "Jacobabad",
+      "Khairpur"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Lansdowne Bridge links Rohri and Sukkur across the Indus."
+  },
+  {
+    "id": "sts_gk_027",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The tomb of Quaid-e-Azam Muhammad Ali Jinnah is in:",
+    "options": [
+      "Islamabad",
+      "Lahore",
+      "Karachi",
+      "Hyderabad"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Mazar-e-Quaid is in Karachi, Sindh."
+  },
+  {
+    "id": "sts_gk_028",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which university is located in Jamshoro near Hyderabad?",
+    "options": [
+      "LUMS",
+      "Mehran University (MUET)",
+      "NUST",
+      "GIKI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mehran University of Engineering and Technology is in Jamshoro."
+  },
+  {
+    "id": "sts_gk_029",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "University of Sindh is mainly based at:",
+    "options": [
+      "Karachi",
+      "Jamshoro",
+      "Sukkur",
+      "Larkana"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "University of Sindh's main campus is at Jamshoro."
+  },
+  {
+    "id": "sts_gk_030",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The Indus Delta is mainly in which part of Sindh?",
+    "options": [
+      "Northern Sindh",
+      "Southern Sindh (Thatta/Sujawal area)",
+      "Western Balochistan",
+      "Punjab border only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Indus Delta spreads across southern Sindh near the Arabian Sea."
+  },
+  {
+    "id": "sts_gk_031",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which language is the official provincial language of Sindh along with Urdu?",
+    "options": [
+      "Punjabi",
+      "Sindhi",
+      "Pashto",
+      "Balochi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sindhi is the provincial language of Sindh."
+  },
+  {
+    "id": "sts_gk_032",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Shah Jo Risalo is a famous poetry collection of:",
+    "options": [
+      "Sachal Sarmast",
+      "Shah Abdul Latif Bhittai",
+      "Bedil",
+      "Shaikh Ayaz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Shah Jo Risalo is the poetry of Shah Abdul Latif Bhittai."
+  },
+  {
+    "id": "sts_gk_033",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Sachal Sarmast's shrine is located in:",
+    "options": [
+      "Daraza Sharif (Khairpur)",
+      "Bhit Shah",
+      "Sehwan",
+      "Thatta"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sachal Sarmast is buried at Daraza Sharif in Khairpur."
+  },
+  {
+    "id": "sts_gk_034",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which sea borders southern Sindh?",
+    "options": [
+      "Caspian Sea",
+      "Red Sea",
+      "Arabian Sea",
+      "Mediterranean Sea"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Southern Sindh borders the Arabian Sea."
+  },
+  {
+    "id": "sts_gk_035",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Port Qasim and Karachi Port are important for:",
+    "options": [
+      "Only tourism",
+      "Pakistan's sea trade",
+      "Only fishing",
+      "Only navy drills"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "These ports handle a large share of Pakistan's maritime trade."
+  },
+  {
+    "id": "sts_gk_036",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which district is famous for date production in Sindh?",
+    "options": [
+      "Khairpur",
+      "Thatta",
+      "Badin",
+      "Karachi"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Khairpur is well known for high-quality dates (khajoor)."
+  },
+  {
+    "id": "sts_gk_037",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The historic city of Brahmanabad / Mansura ruins are related to:",
+    "options": [
+      "Ancient Sindh / Arab period history",
+      "British railways only",
+      "Only Mughal gardens",
+      "Only modern industry"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mansura was an important historic capital in Sindh."
+  },
+  {
+    "id": "sts_gk_038",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which city is called the twin city / sister city historically linked closely with Hyderabad in lower Sindh trade?",
+    "options": [
+      "Peshawar",
+      "Kotri",
+      "Quetta",
+      "Gilgit"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kotri lies across the Indus from Hyderabad and is closely linked with it."
+  },
+  {
+    "id": "sts_gk_039",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Nawabshah city is now officially known as:",
+    "options": [
+      "Shaheed Benazirabad",
+      "Tando Adam",
+      "Mirpur Mathelo",
+      "Dadu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Nawabshah district/city is officially Shaheed Benazirabad."
+  },
+  {
+    "id": "sts_gk_040",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which fort is in Hyderabad and associated with Talpur rulers?",
+    "options": [
+      "Ranikot",
+      "Pakka Qila",
+      "Rohtas",
+      "Lahore Fort"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pakka Qila in Hyderabad is associated with Kalhora/Talpur periods."
+  },
+  {
+    "id": "sts_gk_041",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The British annexed Sindh in which year?",
+    "options": [
+      "1839",
+      "1843",
+      "1857",
+      "1947"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sindh was annexed by the British after the Battle of Miani in 1843."
+  },
+  {
+    "id": "sts_gk_042",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Battle of Miani (1843) was fought near:",
+    "options": [
+      "Hyderabad",
+      "Lahore",
+      "Delhi",
+      "Peshawar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Battle of Miani was fought near Hyderabad between Talpurs and British forces."
+  },
+  {
+    "id": "sts_gk_043",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Who led the British forces in the conquest of Sindh (1843)?",
+    "options": [
+      "Lord Curzon",
+      "Charles Napier",
+      "Robert Clive",
+      "Mountbatten"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sir Charles Napier led the British conquest of Sindh."
+  },
+  {
+    "id": "sts_gk_044",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which wildlife sanctuary/lake in Sindh is famous for migratory birds?",
+    "options": [
+      "Haleji Lake",
+      "Attabad Lake",
+      "Saiful Muluk",
+      "Kund Malir only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Haleji Lake is an important wetland for migratory birds."
+  },
+  {
+    "id": "sts_gk_045",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Kirthar National Park is located in:",
+    "options": [
+      "Sindh",
+      "Punjab only",
+      "KP only",
+      "Gilgit-Baltistan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kirthar National Park is in Sindh."
+  },
+  {
+    "id": "sts_gk_046",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which mineral/resource is notably associated with Thar region?",
+    "options": [
+      "Coal",
+      "Gold mines of Australia",
+      "Diamond only",
+      "Tea estates"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thar Coalfield is one of the world's large coal reserves."
+  },
+  {
+    "id": "sts_gk_047",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The famous shrine of Shah Jeewana is associated with Sindh's Sufi culture in:",
+    "options": [
+      "Northern areas only",
+      "Sindh",
+      "Bangladesh",
+      "Iran"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sindh is known as a land of Sufi saints and shrines."
+  },
+  {
+    "id": "sts_gk_048",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which canal system is fed mainly by Sukkur Barrage?",
+    "options": [
+      "Only Kabul River canals",
+      "Lloyd Barrage canal system (Sukkur)",
+      "Only Mangla canals",
+      "Only Tarbela tunnels"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sukkur Barrage (Lloyd Barrage) feeds a vast canal network in Sindh."
+  },
+  {
+    "id": "sts_gk_049",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Tando Allahyar is famous for:",
+    "options": [
+      "Heavy snowfall",
+      "Agriculture / mango and farming belt",
+      "Ski resorts",
+      "Ship breaking only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tando Allahyar is an important agricultural district near Hyderabad."
+  },
+  {
+    "id": "sts_gk_050",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Mirpurkhas is especially famous for which fruit?",
+    "options": [
+      "Apple",
+      "Mango",
+      "Cherry",
+      "Olive"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mirpurkhas is renowned for mangoes."
+  },
+  {
+    "id": "sts_gk_051",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Nitrogen makes up about 78% of the atmosphere."
+  },
+  {
+    "id": "sts_gk_052",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "How many bones are there in an adult human body?",
+    "options": [
+      "196",
+      "206",
+      "216",
+      "300"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "An adult human skeleton has 206 bones."
+  },
+  {
+    "id": "sts_gk_053",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The chemical formula of water is:",
+    "options": [
+      "CO2",
+      "H2O",
+      "NaCl",
+      "O2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Water is H2O — two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "id": "sts_gk_054",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mars appears reddish due to iron oxide on its surface."
+  },
+  {
+    "id": "sts_gk_055",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Vitamin C is also known as:",
+    "options": [
+      "Ascorbic acid",
+      "Retinol",
+      "Thiamine",
+      "Riboflavin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin C is ascorbic acid."
+  },
+  {
+    "id": "sts_gk_056",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Photosynthesis in plants mainly occurs in:",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Flowers only",
+      "Seeds only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Chlorophyll in leaves helps plants make food by photosynthesis."
+  },
+  {
+    "id": "sts_gk_057",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The SI unit of electric current is:",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Watt"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Electric current is measured in ampere (A)."
+  },
+  {
+    "id": "sts_gk_058",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which blood group is called the universal donor?",
+    "options": [
+      "A+",
+      "AB+",
+      "O-",
+      "B+"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "O negative is generally considered the universal donor."
+  },
+  {
+    "id": "sts_gk_059",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The hardest natural substance is:",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Silver"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Diamond is the hardest naturally occurring substance."
+  },
+  {
+    "id": "sts_gk_060",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Sound cannot travel through:",
+    "options": [
+      "Air",
+      "Water",
+      "Vacuum",
+      "Steel"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sound needs a medium; it cannot travel in vacuum."
+  },
+  {
+    "id": "sts_gk_061",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The boiling point of water at standard pressure is:",
+    "options": [
+      "50°C",
+      "100°C",
+      "0°C",
+      "212°C only in Celsius"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Water boils at 100°C at standard atmospheric pressure."
+  },
+  {
+    "id": "sts_gk_062",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which organ purifies blood in the human body?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Stomach"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kidneys filter waste from blood."
+  },
+  {
+    "id": "sts_gk_063",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Ozone layer protects Earth from:",
+    "options": [
+      "Earthquakes",
+      "Harmful ultraviolet rays",
+      "Rain",
+      "Gravity"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ozone absorbs much of the Sun's harmful UV radiation."
+  },
+  {
+    "id": "sts_gk_064",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which vitamin is produced in human skin with sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Sunlight helps the body synthesize Vitamin D."
+  },
+  {
+    "id": "sts_gk_065",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The center of our solar system is:",
+    "options": [
+      "Earth",
+      "Moon",
+      "Sun",
+      "Mars"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Planets revolve around the Sun."
+  },
+  {
+    "id": "sts_gk_066",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which gas do plants absorb for photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Plants take in CO2 and release oxygen during photosynthesis."
+  },
+  {
+    "id": "sts_gk_067",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Speed of light is approximately:",
+    "options": [
+      "3 x 10^8 m/s",
+      "3 x 10^5 m/s",
+      "300 m/s",
+      "30 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Speed of light in vacuum is about 3 × 10^8 meters per second."
+  },
+  {
+    "id": "sts_gk_068",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which acid is present in lemon?",
+    "options": [
+      "Sulphuric acid",
+      "Citric acid",
+      "Nitric acid",
+      "Hydrochloric acid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Lemons contain citric acid."
+  },
+  {
+    "id": "sts_gk_069",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The smallest unit of life is:",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "Atom"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The cell is the basic structural and functional unit of life."
+  },
+  {
+    "id": "sts_gk_070",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Mercury",
+      "Aluminium",
+      "Copper"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mercury is liquid at room temperature."
+  },
+  {
+    "id": "sts_gk_071",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "DNA stands for:",
+    "options": [
+      "Deoxyribonucleic Acid",
+      "Dynamic Nuclear Atom",
+      "Double Nitrogen Acid",
+      "Direct Nerve Action"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "DNA is Deoxyribonucleic Acid."
+  },
+  {
+    "id": "sts_gk_072",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which instrument is used to measure temperature?",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Hygrometer",
+      "Ammeter"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A thermometer measures temperature."
+  },
+  {
+    "id": "sts_gk_073",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "A barometer is used to measure:",
+    "options": [
+      "Temperature",
+      "Atmospheric pressure",
+      "Electric current",
+      "Humidity only in soil"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Barometers measure atmospheric pressure."
+  },
+  {
+    "id": "sts_gk_074",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which part of the plant conducts water from roots to leaves?",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Stomata only",
+      "Petal"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Xylem transports water and minerals upward."
+  },
+  {
+    "id": "sts_gk_075",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The process of conversion of water vapor into liquid is called:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Condensation is vapor turning into liquid."
+  },
+  {
+    "id": "sts_gk_076",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which disease is caused by deficiency of Vitamin D?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Night blindness",
+      "Beriberi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Rickets is linked to Vitamin D deficiency."
+  },
+  {
+    "id": "sts_gk_077",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Night blindness is caused by deficiency of:",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin B12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin A deficiency can cause night blindness."
+  },
+  {
+    "id": "sts_gk_078",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The chemical symbol of sodium is:",
+    "options": [
+      "S",
+      "So",
+      "Na",
+      "Sd"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sodium's symbol is Na (from Latin natrium)."
+  },
+  {
+    "id": "sts_gk_079",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Mercury is the closest planet to the Sun."
+  },
+  {
+    "id": "sts_gk_080",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Human blood is red mainly because of:",
+    "options": [
+      "Chlorophyll",
+      "Haemoglobin",
+      "Insulin",
+      "Glucose only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Haemoglobin in red blood cells gives blood its red color."
+  },
+  {
+    "id": "sts_gk_081",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which device converts sound into electrical signals in a microphone?",
+    "options": [
+      "Transducer principle (microphone)",
+      "Only a diode",
+      "Only a transformer",
+      "Only a resistor"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A microphone converts sound energy into electrical signals."
+  },
+  {
+    "id": "sts_gk_082",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The freezing point of water is:",
+    "options": [
+      "100°C",
+      "0°C",
+      "32°C",
+      "-100°C"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Water freezes at 0°C at standard pressure."
+  },
+  {
+    "id": "sts_gk_083",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which is a non-renewable energy source?",
+    "options": [
+      "Solar",
+      "Wind",
+      "Coal",
+      "Hydro"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Coal is a fossil fuel and non-renewable."
+  },
+  {
+    "id": "sts_gk_084",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Insects have how many pairs of legs?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Insects have three pairs of legs (six legs)."
+  },
+  {
+    "id": "sts_gk_085",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The largest organ of the human body is:",
+    "options": [
+      "Liver",
+      "Skin",
+      "Heart",
+      "Brain"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Skin is the largest organ of the human body."
+  },
+  {
+    "id": "sts_gk_086",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which gas is used by divers in deep-sea diving mixtures often with oxygen?",
+    "options": [
+      "Chlorine",
+      "Helium",
+      "Ammonia",
+      "Ozone"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Helium is used in deep diving gas mixtures to reduce nitrogen narcosis risks."
+  },
+  {
+    "id": "sts_gk_087",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "pH value 7 indicates:",
+    "options": [
+      "Acid",
+      "Base",
+      "Neutral",
+      "Salt only"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "pH 7 is neutral (pure water)."
+  },
+  {
+    "id": "sts_gk_088",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which scientist proposed the three laws of motion?",
+    "options": [
+      "Einstein",
+      "Newton",
+      "Faraday",
+      "Edison"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sir Isaac Newton formulated the laws of motion."
+  },
+  {
+    "id": "sts_gk_089",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The unit of power is:",
+    "options": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Power is measured in watts."
+  },
+  {
+    "id": "sts_gk_090",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which blood cells help in clotting?",
+    "options": [
+      "RBC",
+      "WBC",
+      "Platelets",
+      "Plasma only"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Platelets help in blood clotting."
+  },
+  {
+    "id": "sts_gk_091",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Sindh Day is observed every year on:",
+    "options": [
+      "23 March",
+      "1 April",
+      "14 August",
+      "6 September"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sindh Day commemorates Sindh's separation as a province on 1 April 1936."
+  },
+  {
+    "id": "sts_gk_092",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which city is the second largest of Sindh after Karachi by population?",
+    "options": [
+      "Larkana",
+      "Hyderabad",
+      "Sukkur",
+      "Mirpurkhas"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hyderabad is generally regarded as Sindh's second largest city."
+  },
+  {
+    "id": "sts_gk_093",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The Indus River empties into the:",
+    "options": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Caspian Sea",
+      "Red Sea"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Indus flows into the Arabian Sea near the Indus Delta."
+  },
+  {
+    "id": "sts_gk_094",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which of the following is a district of Sindh?",
+    "options": [
+      "Swat",
+      "Chitral",
+      "Badin",
+      "Hunza"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Badin is a district in southern Sindh."
+  },
+  {
+    "id": "sts_gk_095",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Ghulam Muhammad Barrage is another name associated with:",
+    "options": [
+      "Kotri Barrage",
+      "Warsak Dam",
+      "Mangla Dam",
+      "Hub Dam only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kotri Barrage is also known as Ghulam Muhammad Barrage."
+  },
+  {
+    "id": "sts_gk_096",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which archaeological civilization is Mohenjo-daro part of?",
+    "options": [
+      "Mesopotamian only",
+      "Indus Valley Civilization",
+      "Roman Empire",
+      "Ottoman Empire"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mohenjo-daro is a major site of the Indus Valley Civilization."
+  },
+  {
+    "id": "sts_gk_097",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The first capital of Pakistan was:",
+    "options": [
+      "Islamabad",
+      "Lahore",
+      "Karachi",
+      "Rawalpindi"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Karachi was Pakistan's first capital."
+  },
+  {
+    "id": "sts_gk_098",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which bird is the national bird of Pakistan?",
+    "options": [
+      "Eagle",
+      "Chukar (Chakor)",
+      "Sparrow",
+      "Peacock"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Chukar partridge (Chakor) is the national bird of Pakistan."
+  },
+  {
+    "id": "sts_gk_099",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The national animal of Pakistan is:",
+    "options": [
+      "Tiger",
+      "Markhor",
+      "Lion",
+      "Elephant"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Markhor is the national animal of Pakistan."
+  },
+  {
+    "id": "sts_gk_100",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Scurvy is caused by Vitamin C deficiency."
+  },
+  {
+    "id": "sts_gk_101",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Hala is famous in Sindh for:",
+    "options": [
+      "Ski sports",
+      "Handicrafts / pottery and ajrak culture nearby",
+      "Ship breaking",
+      "Ice hockey"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hala is known for traditional crafts and pottery in Sindh."
+  },
+  {
+    "id": "sts_gk_102",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Ajrak is a traditional Sindhi:",
+    "options": [
+      "Sweet dish",
+      "Block-printed shawl / textile",
+      "Dance only",
+      "Weapon"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ajrak is a traditional Sindhi block-printed cloth."
+  },
+  {
+    "id": "sts_gk_103",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which is the hottest commonly reported city area often associated with northern Sindh summers?",
+    "options": [
+      "Murree",
+      "Jacobabad",
+      "Swat",
+      "Gilgit"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jacobabad is famous for extremely high summer temperatures."
+  },
+  {
+    "id": "sts_gk_104",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "The Rann of Kutch lies towards which side of Sindh?",
+    "options": [
+      "North-west",
+      "South-east border area",
+      "Only China border",
+      "Only Afghanistan border"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Rann of Kutch is towards the south-eastern border region of Sindh."
+  },
+  {
+    "id": "sts_gk_105",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_gk",
+    "question": "Which gas is essential for human respiration?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon monoxide",
+      "Helium"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Humans need oxygen to breathe and produce energy."
+  },
+  {
+    "id": "sts_math_101",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "5 + 12 = ?",
+    "options": [
+      "17",
+      "60",
+      "7",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "5+12=17"
+  },
+  {
+    "id": "sts_math_102",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "6 + 13 = ?",
+    "options": [
+      "19",
+      "78",
+      "7",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "6+13=19"
+  },
+  {
+    "id": "sts_math_103",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "7 + 14 = ?",
+    "options": [
+      "21",
+      "98",
+      "7",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "7+14=21"
+  },
+  {
+    "id": "sts_math_104",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "8 + 15 = ?",
+    "options": [
+      "23",
+      "120",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "8+15=23"
+  },
+  {
+    "id": "sts_math_105",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "9 + 16 = ?",
+    "options": [
+      "25",
+      "144",
+      "7",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "9+16=25"
+  },
+  {
+    "id": "sts_math_106",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "10 + 17 = ?",
+    "options": [
+      "27",
+      "170",
+      "7",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "10+17=27"
+  },
+  {
+    "id": "sts_math_107",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "11 + 18 = ?",
+    "options": [
+      "29",
+      "198",
+      "7",
+      "11"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "11+18=29"
+  },
+  {
+    "id": "sts_math_108",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "12 + 19 = ?",
+    "options": [
+      "31",
+      "228",
+      "7",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "12+19=31"
+  },
+  {
+    "id": "sts_math_109",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "13 + 20 = ?",
+    "options": [
+      "33",
+      "260",
+      "7",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "13+20=33"
+  },
+  {
+    "id": "sts_math_110",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "14 + 21 = ?",
+    "options": [
+      "35",
+      "294",
+      "7",
+      "14"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "14+21=35"
+  },
+  {
+    "id": "sts_math_111",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "15 + 22 = ?",
+    "options": [
+      "37",
+      "330",
+      "7",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "15+22=37"
+  },
+  {
+    "id": "sts_math_112",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "16 + 23 = ?",
+    "options": [
+      "39",
+      "368",
+      "7",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "16+23=39"
+  },
+  {
+    "id": "sts_math_113",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "17 + 24 = ?",
+    "options": [
+      "41",
+      "408",
+      "7",
+      "17"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "17+24=41"
+  },
+  {
+    "id": "sts_math_114",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "18 + 25 = ?",
+    "options": [
+      "43",
+      "450",
+      "7",
+      "18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "18+25=43"
+  },
+  {
+    "id": "sts_math_115",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "19 + 26 = ?",
+    "options": [
+      "45",
+      "494",
+      "7",
+      "19"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "19+26=45"
+  },
+  {
+    "id": "sts_math_116",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "20 + 27 = ?",
+    "options": [
+      "47",
+      "540",
+      "7",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "20+27=47"
+  },
+  {
+    "id": "sts_math_117",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "21 + 28 = ?",
+    "options": [
+      "49",
+      "588",
+      "7",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "21+28=49"
+  },
+  {
+    "id": "sts_math_118",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "22 + 29 = ?",
+    "options": [
+      "51",
+      "638",
+      "7",
+      "22"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "22+29=51"
+  },
+  {
+    "id": "sts_math_119",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "23 + 30 = ?",
+    "options": [
+      "53",
+      "690",
+      "7",
+      "23"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "23+30=53"
+  },
+  {
+    "id": "sts_math_120",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "24 + 31 = ?",
+    "options": [
+      "55",
+      "744",
+      "7",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "24+31=55"
+  },
+  {
+    "id": "sts_math_121",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "25 + 32 = ?",
+    "options": [
+      "57",
+      "800",
+      "7",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "25+32=57"
+  },
+  {
+    "id": "sts_math_122",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "26 + 33 = ?",
+    "options": [
+      "59",
+      "858",
+      "7",
+      "26"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "26+33=59"
+  },
+  {
+    "id": "sts_math_123",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "27 + 34 = ?",
+    "options": [
+      "61",
+      "918",
+      "7",
+      "27"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "27+34=61"
+  },
+  {
+    "id": "sts_math_124",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "28 + 35 = ?",
+    "options": [
+      "63",
+      "980",
+      "7",
+      "28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "28+35=63"
+  },
+  {
+    "id": "sts_math_125",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "29 + 36 = ?",
+    "options": [
+      "65",
+      "1044",
+      "7",
+      "29"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "29+36=65"
+  },
+  {
+    "id": "sts_math_126",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "30 + 37 = ?",
+    "options": [
+      "67",
+      "1110",
+      "7",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "30+37=67"
+  },
+  {
+    "id": "sts_math_127",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "31 + 38 = ?",
+    "options": [
+      "69",
+      "1178",
+      "7",
+      "31"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "31+38=69"
+  },
+  {
+    "id": "sts_math_128",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "32 + 39 = ?",
+    "options": [
+      "71",
+      "1248",
+      "7",
+      "32"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "32+39=71"
+  },
+  {
+    "id": "sts_math_129",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "33 + 40 = ?",
+    "options": [
+      "73",
+      "1320",
+      "7",
+      "33"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "33+40=73"
+  },
+  {
+    "id": "sts_math_130",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "34 + 41 = ?",
+    "options": [
+      "75",
+      "1394",
+      "7",
+      "34"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "34+41=75"
+  },
+  {
+    "id": "sts_math_131",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "35 + 42 = ?",
+    "options": [
+      "77",
+      "1470",
+      "7",
+      "35"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "35+42=77"
+  },
+  {
+    "id": "sts_math_132",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "36 + 43 = ?",
+    "options": [
+      "79",
+      "1548",
+      "7",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "36+43=79"
+  },
+  {
+    "id": "sts_math_133",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "37 + 44 = ?",
+    "options": [
+      "81",
+      "1628",
+      "7",
+      "37"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "37+44=81"
+  },
+  {
+    "id": "sts_math_134",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "38 + 45 = ?",
+    "options": [
+      "83",
+      "1710",
+      "7",
+      "38"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "38+45=83"
+  },
+  {
+    "id": "sts_math_135",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "39 + 46 = ?",
+    "options": [
+      "85",
+      "1794",
+      "7",
+      "39"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "39+46=85"
+  },
+  {
+    "id": "sts_math_136",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "40 + 47 = ?",
+    "options": [
+      "87",
+      "1880",
+      "7",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "40+47=87"
+  },
+  {
+    "id": "sts_math_137",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "41 + 48 = ?",
+    "options": [
+      "89",
+      "1968",
+      "7",
+      "41"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "41+48=89"
+  },
+  {
+    "id": "sts_math_138",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "42 + 49 = ?",
+    "options": [
+      "91",
+      "2058",
+      "7",
+      "42"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "42+49=91"
+  },
+  {
+    "id": "sts_math_139",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "43 + 50 = ?",
+    "options": [
+      "93",
+      "2150",
+      "7",
+      "43"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "43+50=93"
+  },
+  {
+    "id": "sts_math_140",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "44 + 51 = ?",
+    "options": [
+      "95",
+      "2244",
+      "7",
+      "44"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "44+51=95"
+  },
+  {
+    "id": "sts_math_141",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "45 + 52 = ?",
+    "options": [
+      "97",
+      "2340",
+      "7",
+      "45"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "45+52=97"
+  },
+  {
+    "id": "sts_math_142",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "46 + 53 = ?",
+    "options": [
+      "99",
+      "2438",
+      "7",
+      "46"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "46+53=99"
+  },
+  {
+    "id": "sts_math_143",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "47 + 54 = ?",
+    "options": [
+      "101",
+      "2538",
+      "7",
+      "47"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "47+54=101"
+  },
+  {
+    "id": "sts_math_144",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "48 + 55 = ?",
+    "options": [
+      "103",
+      "2640",
+      "7",
+      "48"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "48+55=103"
+  },
+  {
+    "id": "sts_math_145",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "49 + 56 = ?",
+    "options": [
+      "105",
+      "2744",
+      "7",
+      "49"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "49+56=105"
+  },
+  {
+    "id": "sts_math_146",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "50 + 57 = ?",
+    "options": [
+      "107",
+      "2850",
+      "7",
+      "50"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "50+57=107"
+  },
+  {
+    "id": "sts_math_147",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "51 + 58 = ?",
+    "options": [
+      "109",
+      "2958",
+      "7",
+      "51"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "51+58=109"
+  },
+  {
+    "id": "sts_math_148",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "52 + 59 = ?",
+    "options": [
+      "111",
+      "3068",
+      "7",
+      "52"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "52+59=111"
+  },
+  {
+    "id": "sts_math_149",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "53 + 60 = ?",
+    "options": [
+      "113",
+      "3180",
+      "7",
+      "53"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "53+60=113"
+  },
+  {
+    "id": "sts_math_150",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "54 + 61 = ?",
+    "options": [
+      "115",
+      "3294",
+      "7",
+      "54"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "54+61=115"
+  },
+  {
+    "id": "sts_math_151",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "2 × 5 = ?",
+    "options": [
+      "10",
+      "7",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "10"
+  },
+  {
+    "id": "sts_math_152",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "3 × 5 = ?",
+    "options": [
+      "15",
+      "8",
+      "6",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "15"
+  },
+  {
+    "id": "sts_math_153",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "4 × 5 = ?",
+    "options": [
+      "20",
+      "9",
+      "8",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "20"
+  },
+  {
+    "id": "sts_math_154",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "5 × 5 = ?",
+    "options": [
+      "25",
+      "10",
+      "10",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "25"
+  },
+  {
+    "id": "sts_math_155",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "6 × 5 = ?",
+    "options": [
+      "30",
+      "11",
+      "12",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "30"
+  },
+  {
+    "id": "sts_math_156",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "7 × 5 = ?",
+    "options": [
+      "35",
+      "12",
+      "14",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "35"
+  },
+  {
+    "id": "sts_math_157",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "8 × 5 = ?",
+    "options": [
+      "40",
+      "13",
+      "16",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "40"
+  },
+  {
+    "id": "sts_math_158",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "9 × 5 = ?",
+    "options": [
+      "45",
+      "14",
+      "18",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "45"
+  },
+  {
+    "id": "sts_math_159",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "10 × 5 = ?",
+    "options": [
+      "50",
+      "15",
+      "20",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "50"
+  },
+  {
+    "id": "sts_math_160",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "11 × 5 = ?",
+    "options": [
+      "55",
+      "16",
+      "22",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "55"
+  },
+  {
+    "id": "sts_math_161",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "12 × 5 = ?",
+    "options": [
+      "60",
+      "17",
+      "24",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "60"
+  },
+  {
+    "id": "sts_math_162",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "13 × 5 = ?",
+    "options": [
+      "65",
+      "18",
+      "26",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "65"
+  },
+  {
+    "id": "sts_math_163",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "14 × 5 = ?",
+    "options": [
+      "70",
+      "19",
+      "28",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "70"
+  },
+  {
+    "id": "sts_math_164",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "15 × 5 = ?",
+    "options": [
+      "75",
+      "20",
+      "30",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "75"
+  },
+  {
+    "id": "sts_math_165",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "16 × 5 = ?",
+    "options": [
+      "80",
+      "21",
+      "32",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "80"
+  },
+  {
+    "id": "sts_math_166",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "17 × 5 = ?",
+    "options": [
+      "85",
+      "22",
+      "34",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "85"
+  },
+  {
+    "id": "sts_math_167",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "18 × 5 = ?",
+    "options": [
+      "90",
+      "23",
+      "36",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "90"
+  },
+  {
+    "id": "sts_math_168",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "19 × 5 = ?",
+    "options": [
+      "95",
+      "24",
+      "38",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "95"
+  },
+  {
+    "id": "sts_math_169",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "20 × 5 = ?",
+    "options": [
+      "100",
+      "25",
+      "40",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "100"
+  },
+  {
+    "id": "sts_math_170",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "21 × 5 = ?",
+    "options": [
+      "105",
+      "26",
+      "42",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "105"
+  },
+  {
+    "id": "sts_math_171",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "22 × 5 = ?",
+    "options": [
+      "110",
+      "27",
+      "44",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "110"
+  },
+  {
+    "id": "sts_math_172",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "23 × 5 = ?",
+    "options": [
+      "115",
+      "28",
+      "46",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "115"
+  },
+  {
+    "id": "sts_math_173",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "24 × 5 = ?",
+    "options": [
+      "120",
+      "29",
+      "48",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "120"
+  },
+  {
+    "id": "sts_math_174",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "10% of 100 = ?",
+    "options": [
+      "10",
+      "20",
+      "90",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "10% of 100 = 10"
+  },
+  {
+    "id": "sts_math_175",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "15% of 100 = ?",
+    "options": [
+      "15",
+      "30",
+      "85",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "15% of 100 = 15"
+  },
+  {
+    "id": "sts_math_176",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "20% of 100 = ?",
+    "options": [
+      "20",
+      "40",
+      "80",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "20% of 100 = 20"
+  },
+  {
+    "id": "sts_math_177",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "25% of 100 = ?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "25% of 100 = 25"
+  },
+  {
+    "id": "sts_math_178",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "30% of 100 = ?",
+    "options": [
+      "30",
+      "60",
+      "70",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "30% of 100 = 30"
+  },
+  {
+    "id": "sts_math_179",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "35% of 100 = ?",
+    "options": [
+      "35",
+      "70",
+      "65",
+      "17"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "35% of 100 = 35"
+  },
+  {
+    "id": "sts_math_180",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "40% of 100 = ?",
+    "options": [
+      "40",
+      "80",
+      "60",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "40% of 100 = 40"
+  },
+  {
+    "id": "sts_math_181",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "45% of 100 = ?",
+    "options": [
+      "45",
+      "90",
+      "55",
+      "22"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "45% of 100 = 45"
+  },
+  {
+    "id": "sts_math_182",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "50% of 100 = ?",
+    "options": [
+      "50",
+      "100",
+      "50",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "50% of 100 = 50"
+  },
+  {
+    "id": "sts_math_183",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "55% of 100 = ?",
+    "options": [
+      "55",
+      "110",
+      "45",
+      "27"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "55% of 100 = 55"
+  },
+  {
+    "id": "sts_math_184",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "15 ÷ 5 = ?",
+    "options": [
+      "3",
+      "10",
+      "20",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "15/5=3"
+  },
+  {
+    "id": "sts_math_185",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "21 ÷ 7 = ?",
+    "options": [
+      "3",
+      "14",
+      "28",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "21/7=3"
+  },
+  {
+    "id": "sts_math_186",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "27 ÷ 9 = ?",
+    "options": [
+      "3",
+      "18",
+      "36",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "27/9=3"
+  },
+  {
+    "id": "sts_math_187",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "32 ÷ 8 = ?",
+    "options": [
+      "4",
+      "24",
+      "40",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "32/8=4"
+  },
+  {
+    "id": "sts_math_188",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "45 ÷ 9 = ?",
+    "options": [
+      "5",
+      "36",
+      "54",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "45/9=5"
+  },
+  {
+    "id": "sts_math_189",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "56 ÷ 7 = ?",
+    "options": [
+      "8",
+      "49",
+      "63",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "56/7=8"
+  },
+  {
+    "id": "sts_math_190",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "63 ÷ 9 = ?",
+    "options": [
+      "7",
+      "54",
+      "72",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "63/9=7"
+  },
+  {
+    "id": "sts_math_191",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "72 ÷ 8 = ?",
+    "options": [
+      "9",
+      "64",
+      "80",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "72/8=9"
+  },
+  {
+    "id": "sts_math_192",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "81 ÷ 9 = ?",
+    "options": [
+      "9",
+      "72",
+      "90",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "81/9=9"
+  },
+  {
+    "id": "sts_math_193",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "96 ÷ 12 = ?",
+    "options": [
+      "8",
+      "84",
+      "108",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "96/12=8"
+  },
+  {
+    "id": "sts_math_194",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "LCM of 3 and 5 is:",
+    "options": [
+      "8",
+      "15",
+      "1",
+      "2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "15"
+  },
+  {
+    "id": "sts_math_195",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "HCF of 8 and 12 is:",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "24"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "4"
+  },
+  {
+    "id": "sts_math_196",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Square of 12 is:",
+    "options": [
+      "24",
+      "144",
+      "120",
+      "132"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "144"
+  },
+  {
+    "id": "sts_math_197",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Cube of 3 is:",
+    "options": [
+      "6",
+      "9",
+      "27",
+      "81"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "27"
+  },
+  {
+    "id": "sts_math_198",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "0.5 as fraction is:",
+    "options": [
+      "1/2",
+      "1/5",
+      "5/1",
+      "2/5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1/2"
+  },
+  {
+    "id": "sts_math_199",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "1/4 as percent is:",
+    "options": [
+      "4%",
+      "25%",
+      "40%",
+      "14%"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "25%"
+  },
+  {
+    "id": "sts_math_200",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Average of 10 and 20 is:",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "30"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "15"
+  },
+  {
+    "id": "sts_math_201",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "If cost=80, profit=20, SP=?",
+    "options": [
+      "60",
+      "100",
+      "80",
+      "20"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "SP=100"
+  },
+  {
+    "id": "sts_math_202",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Simple interest formula is:",
+    "options": [
+      "PRT/100",
+      "P+R+T",
+      "PR/T",
+      "P/RT"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "SI=PRT/100"
+  },
+  {
+    "id": "sts_math_203",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Perimeter of square side 5:",
+    "options": [
+      "10",
+      "20",
+      "25",
+      "15"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "4×5=20"
+  },
+  {
+    "id": "sts_math_204",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Area of square side 6:",
+    "options": [
+      "12",
+      "24",
+      "36",
+      "18"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "36"
+  },
+  {
+    "id": "sts_math_205",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Area of rectangle 8×3:",
+    "options": [
+      "11",
+      "24",
+      "16",
+      "32"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "24"
+  },
+  {
+    "id": "sts_math_206",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "2³ = ?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "8"
+  },
+  {
+    "id": "sts_math_207",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "√81 = ?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "81"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "9"
+  },
+  {
+    "id": "sts_math_208",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "3² + 4² = ?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "25"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "9+16=25"
+  },
+  {
+    "id": "sts_math_209",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Next prime after 7:",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "11"
+  },
+  {
+    "id": "sts_math_210",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Even number among:",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "16"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "16"
+  },
+  {
+    "id": "sts_math_211",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Odd number among:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "9"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "9"
+  },
+  {
+    "id": "sts_math_212",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "10² = ?",
+    "options": [
+      "20",
+      "100",
+      "50",
+      "110"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "100"
+  },
+  {
+    "id": "sts_math_213",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "Convert 2 hours to minutes:",
+    "options": [
+      "60",
+      "90",
+      "120",
+      "150"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "120"
+  },
+  {
+    "id": "sts_math_214",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_math",
+    "question": "If 15 men can complete a work in 6 days, how many days will 10 men take?",
+    "options": [
+      "7 days",
+      "8 days",
+      "9 days",
+      "10 days"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "(15 × 6) / 10 = 9 days."
+  },
+  {
+    "id": "sts_en_001",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Choose correct spelling:",
+    "options": [
+      "Seperate",
+      "Separate",
+      "Seperete",
+      "Separrete"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Separate."
+  },
+  {
+    "id": "sts_en_003",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Plural of ‘leaf’:",
+    "options": [
+      "leafs",
+      "leaves",
+      "leafes",
+      "leave"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Leaves."
+  },
+  {
+    "id": "sts_en_004",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Plural of ‘knife’:",
+    "options": [
+      "knifes",
+      "knives",
+      "knife",
+      "knivess"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Knives."
+  },
+  {
+    "id": "sts_en_005",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Past of ‘teach’:",
+    "options": [
+      "teached",
+      "taught",
+      "tought",
+      "teaching"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Taught."
+  },
+  {
+    "id": "sts_en_006",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Past of ‘buy’:",
+    "options": [
+      "buyed",
+      "bought",
+      "boughted",
+      "buying"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Bought."
+  },
+  {
+    "id": "sts_en_007",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She is taller ___ Ali.",
+    "options": [
+      "then",
+      "than",
+      "that",
+      "to"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Than for comparison."
+  },
+  {
+    "id": "sts_en_008",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I prefer coffee ___ tea.",
+    "options": [
+      "than",
+      "to",
+      "from",
+      "for"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Prefer to."
+  },
+  {
+    "id": "sts_en_009",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He has lived here ___ 2018.",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "at"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Since + year."
+  },
+  {
+    "id": "sts_en_010",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "We stayed ___ a week.",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "at"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "For + duration."
+  },
+  {
+    "id": "sts_en_011",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Synonym of ‘Difficult’:",
+    "options": [
+      "Hard",
+      "Easy",
+      "Simple",
+      "Light"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hard."
+  },
+  {
+    "id": "sts_en_012",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Synonym of ‘End’:",
+    "options": [
+      "Finish",
+      "Start",
+      "Begin",
+      "Open"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finish."
+  },
+  {
+    "id": "sts_en_013",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Antonym of ‘Open’:",
+    "options": [
+      "Close",
+      "Start",
+      "Begin",
+      "Free"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Close."
+  },
+  {
+    "id": "sts_en_014",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Antonym of ‘Empty’:",
+    "options": [
+      "Full",
+      "Vacant",
+      "Hollow",
+      "Blank"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Full."
+  },
+  {
+    "id": "sts_en_015",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Article: ___ apple a day.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "An apple."
+  },
+  {
+    "id": "sts_en_016",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Article: ___ Earth moves.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Earth."
+  },
+  {
+    "id": "sts_en_017",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He ___ TV when I called.",
+    "options": [
+      "watch",
+      "was watching",
+      "watches",
+      "watched always"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Past continuous."
+  },
+  {
+    "id": "sts_en_018",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "They ___ to Lahore yesterday.",
+    "options": [
+      "go",
+      "went",
+      "gone",
+      "going"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Past simple."
+  },
+  {
+    "id": "sts_en_019",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "If it rains, we ___ home.",
+    "options": [
+      "will stay",
+      "stayed",
+      "staying",
+      "stay always past"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1st conditional."
+  },
+  {
+    "id": "sts_en_020",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "The letter was ___ by Ali.",
+    "options": [
+      "write",
+      "wrote",
+      "written",
+      "writing"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Passive past participle."
+  },
+  {
+    "id": "sts_en_021",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Neither of them ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Neither → singular often."
+  },
+  {
+    "id": "sts_en_022",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "A lot of sugar ___ needed.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Uncountable singular."
+  },
+  {
+    "id": "sts_en_023",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Furniture ___ expensive.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Uncountable."
+  },
+  {
+    "id": "sts_en_024",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Scissors ___ on the table.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Plural tool."
+  },
+  {
+    "id": "sts_en_025",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He congratulated me ___ my success.",
+    "options": [
+      "for",
+      "on",
+      "at",
+      "with"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Congratulate on."
+  },
+  {
+    "id": "sts_en_026",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She is senior ___ me.",
+    "options": [
+      "than",
+      "to",
+      "from",
+      "of"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Senior to."
+  },
+  {
+    "id": "sts_en_027",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He died ___ cancer.",
+    "options": [
+      "from",
+      "of",
+      "with",
+      "by"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Died of."
+  },
+  {
+    "id": "sts_en_028",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Belong ___ this club.",
+    "options": [
+      "in",
+      "to",
+      "at",
+      "with"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Belong to."
+  },
+  {
+    "id": "sts_en_029",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Famous ___ his novels.",
+    "options": [
+      "to",
+      "for",
+      "in",
+      "at"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Famous for."
+  },
+  {
+    "id": "sts_en_030",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Guilty ___ murder.",
+    "options": [
+      "for",
+      "of",
+      "to",
+      "with"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Guilty of."
+  },
+  {
+    "id": "sts_en_031",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Keen ___ music.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Keen on."
+  },
+  {
+    "id": "sts_en_032",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Tired ___ work.",
+    "options": [
+      "of",
+      "from",
+      "with",
+      "at"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Tired of."
+  },
+  {
+    "id": "sts_en_033",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Fond ___ children.",
+    "options": [
+      "on",
+      "of",
+      "in",
+      "at"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Fond of."
+  },
+  {
+    "id": "sts_en_034",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Aware ___ the problem.",
+    "options": [
+      "to",
+      "of",
+      "for",
+      "at"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Aware of."
+  },
+  {
+    "id": "sts_en_035",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Proud ___ his son.",
+    "options": [
+      "on",
+      "of",
+      "for",
+      "at"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Proud of."
+  },
+  {
+    "id": "sts_en_036",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Similar ___ mine.",
+    "options": [
+      "with",
+      "to",
+      "from",
+      "of"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Similar to."
+  },
+  {
+    "id": "sts_en_037",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Different ___ yours.",
+    "options": [
+      "to",
+      "from",
+      "with",
+      "of"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Different from."
+  },
+  {
+    "id": "sts_en_038",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "According ___ the rules.",
+    "options": [
+      "with",
+      "to",
+      "by",
+      "for"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "According to."
+  },
+  {
+    "id": "sts_en_039",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "In spite ___ rain.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In spite of."
+  },
+  {
+    "id": "sts_en_040",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Because ___ illness.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Because of."
+  },
+  {
+    "id": "sts_en_041",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He asked me ___ I was.",
+    "options": [
+      "where",
+      "were",
+      "wear",
+      "ware"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Where."
+  },
+  {
+    "id": "sts_en_042",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Do you know ___ she is?",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "who’s"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Who."
+  },
+  {
+    "id": "sts_en_043",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "This is the girl ___ bag was lost.",
+    "options": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Whose."
+  },
+  {
+    "id": "sts_en_044",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "The house ___ I live is large.",
+    "options": [
+      "which",
+      "where",
+      "who",
+      "whom"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Where."
+  },
+  {
+    "id": "sts_en_045",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He speaks English ___ .",
+    "options": [
+      "fluent",
+      "fluently",
+      "fluency",
+      "fluence"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Adverb fluently."
+  },
+  {
+    "id": "sts_en_046",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She looks ___ .",
+    "options": [
+      "happy",
+      "happily always only",
+      "happiness",
+      "happierly"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Adjective after look."
+  },
+  {
+    "id": "sts_en_047",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Drive ___ .",
+    "options": [
+      "careful",
+      "carefully",
+      "care",
+      "caring"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Adverb carefully."
+  },
+  {
+    "id": "sts_en_048",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He is a ___ driver.",
+    "options": [
+      "careful",
+      "carefully",
+      "care",
+      "caring only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Adjective careful."
+  },
+  {
+    "id": "sts_en_049",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Much is used with:",
+    "options": [
+      "Countable plural",
+      "Uncountable",
+      "Only people",
+      "Only animals"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Uncountable."
+  },
+  {
+    "id": "sts_en_050",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Many is used with:",
+    "options": [
+      "Uncountable",
+      "Countable plural",
+      "Only liquids",
+      "Only time"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Countable plural."
+  },
+  {
+    "id": "sts_en_051",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Little money means:",
+    "options": [
+      "Almost no money",
+      "Many coins",
+      "Enough money",
+      "No meaning"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Little = almost none."
+  },
+  {
+    "id": "sts_en_052",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "A few friends means:",
+    "options": [
+      "Some friends",
+      "No friends",
+      "All friends",
+      "One friend"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A few = some."
+  },
+  {
+    "id": "sts_en_053",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Choose correct: information",
+    "options": [
+      "informations",
+      "information",
+      "informates",
+      "informs"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Uncountable noun."
+  },
+  {
+    "id": "sts_en_054",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Choose correct: advice",
+    "options": [
+      "advices",
+      "advice",
+      "advise as noun",
+      "advicing"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Advice noun uncountable."
+  },
+  {
+    "id": "sts_en_055",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Verb form of advice is:",
+    "options": [
+      "advice",
+      "advise",
+      "advicing",
+      "advices"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Advise is verb."
+  },
+  {
+    "id": "sts_en_056",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He gave me useful ___ .",
+    "options": [
+      "advise",
+      "advice",
+      "advices",
+      "advising"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Advice noun."
+  },
+  {
+    "id": "sts_en_057",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I ___ swimming.",
+    "options": [
+      "enjoy",
+      "enjoys",
+      "enjoying",
+      "enjoyed always must"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "I enjoy."
+  },
+  {
+    "id": "sts_en_058",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She ___ not like tea.",
+    "options": [
+      "do",
+      "does",
+      "is",
+      "are"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Does not."
+  },
+  {
+    "id": "sts_en_059",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "___ you finish the work?",
+    "options": [
+      "Does",
+      "Do",
+      "Is",
+      "Are"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Do you."
+  },
+  {
+    "id": "sts_en_060",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "There ___ a book on the table.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Singular book."
+  },
+  {
+    "id": "sts_en_061",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "There ___ many students.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Plural students."
+  },
+  {
+    "id": "sts_en_062",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He can ___ English.",
+    "options": [
+      "speaks",
+      "speak",
+      "speaking",
+      "spoke"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Modal + V1."
+  },
+  {
+    "id": "sts_en_063",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "You must ___ the rules.",
+    "options": [
+      "follows",
+      "follow",
+      "following",
+      "followed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Must + V1."
+  },
+  {
+    "id": "sts_en_064",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She might ___ late.",
+    "options": [
+      "be",
+      "is",
+      "are",
+      "was"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Might + be."
+  },
+  {
+    "id": "sts_en_065",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I am used to ___ early.",
+    "options": [
+      "get up",
+      "getting up",
+      "got up",
+      "gets up"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Used to + gerund."
+  },
+  {
+    "id": "sts_en_066",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He looks forward to ___ you.",
+    "options": [
+      "meet",
+      "meeting",
+      "met",
+      "meets"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "To + gerund here."
+  },
+  {
+    "id": "sts_en_067",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Avoid ___ mistakes.",
+    "options": [
+      "make",
+      "making",
+      "made",
+      "makes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Avoid + gerund."
+  },
+  {
+    "id": "sts_en_068",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Stop ___ noise.",
+    "options": [
+      "make",
+      "making",
+      "made",
+      "makes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Stop + gerund."
+  },
+  {
+    "id": "sts_en_069",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Let him ___ .",
+    "options": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Let + V1."
+  },
+  {
+    "id": "sts_en_070",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Make her ___ the truth.",
+    "options": [
+      "tells",
+      "tell",
+      "telling",
+      "told"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Make + V1."
+  },
+  {
+    "id": "sts_en_071",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I saw him ___ .",
+    "options": [
+      "cross",
+      "crossing",
+      "crossed",
+      "crosses"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "See + -ing often."
+  },
+  {
+    "id": "sts_en_072",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Would you mind ___ the door?",
+    "options": [
+      "open",
+      "opening",
+      "opened",
+      "opens"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mind + gerund."
+  },
+  {
+    "id": "sts_en_073",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "It is no use ___ .",
+    "options": [
+      "cry",
+      "crying",
+      "cried",
+      "cries"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "No use + gerund."
+  },
+  {
+    "id": "sts_en_074",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He is busy ___ a letter.",
+    "options": [
+      "write",
+      "writing",
+      "wrote",
+      "writes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Busy + gerund."
+  },
+  {
+    "id": "sts_en_075",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She suggested ___ early.",
+    "options": [
+      "leave",
+      "leaving",
+      "left",
+      "leaves"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Suggest + gerund."
+  },
+  {
+    "id": "sts_en_076",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I can’t help ___ .",
+    "options": [
+      "laugh",
+      "laughing",
+      "laughed",
+      "laughs"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Can’t help + gerund."
+  },
+  {
+    "id": "sts_en_077",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He denied ___ the money.",
+    "options": [
+      "steal",
+      "stealing",
+      "stole",
+      "steals"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Deny + gerund."
+  },
+  {
+    "id": "sts_en_078",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "They finished ___ the room.",
+    "options": [
+      "clean",
+      "cleaning",
+      "cleaned",
+      "cleans"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Finish + gerund."
+  },
+  {
+    "id": "sts_en_079",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Keep ___ .",
+    "options": [
+      "try",
+      "trying",
+      "tried",
+      "tries"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Keep + gerund."
+  },
+  {
+    "id": "sts_en_080",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He admitted ___ the window.",
+    "options": [
+      "break",
+      "breaking",
+      "broke",
+      "breaks"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Admit + gerund."
+  },
+  {
+    "id": "sts_en_081",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She practiced ___ piano.",
+    "options": [
+      "play",
+      "playing",
+      "played",
+      "plays"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Practice + gerund."
+  },
+  {
+    "id": "sts_en_082",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I miss ___ cricket.",
+    "options": [
+      "play",
+      "playing",
+      "played",
+      "plays"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Miss + gerund."
+  },
+  {
+    "id": "sts_en_083",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He risked ___ his job.",
+    "options": [
+      "lose",
+      "losing",
+      "lost",
+      "loses"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Risk + gerund."
+  },
+  {
+    "id": "sts_en_084",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "They postponed ___ the meeting.",
+    "options": [
+      "hold",
+      "holding",
+      "held",
+      "holds"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Postpone + gerund."
+  },
+  {
+    "id": "sts_en_085",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She delayed ___ home.",
+    "options": [
+      "go",
+      "going",
+      "went",
+      "goes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Delay + gerund."
+  },
+  {
+    "id": "sts_en_086",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I fancy ___ out.",
+    "options": [
+      "eat",
+      "eating",
+      "ate",
+      "eats"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Fancy + gerund."
+  },
+  {
+    "id": "sts_en_087",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He considered ___ abroad.",
+    "options": [
+      "move",
+      "moving",
+      "moved",
+      "moves"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Consider + gerund."
+  },
+  {
+    "id": "sts_en_088",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "We discussed ___ a new plan.",
+    "options": [
+      "make",
+      "making",
+      "made",
+      "makes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Discuss + gerund."
+  },
+  {
+    "id": "sts_en_089",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She imagines ___ famous.",
+    "options": [
+      "be",
+      "being",
+      "been",
+      "is"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Imagine + gerund."
+  },
+  {
+    "id": "sts_en_090",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He can’t stand ___ in queues.",
+    "options": [
+      "wait",
+      "waiting",
+      "waited",
+      "waits"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Can’t stand + gerund."
+  },
+  {
+    "id": "sts_en_091",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "It’s worth ___ .",
+    "options": [
+      "try",
+      "trying",
+      "tried",
+      "tries"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Worth + gerund."
+  },
+  {
+    "id": "sts_en_092",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "There’s no point ___ .",
+    "options": [
+      "argue",
+      "arguing",
+      "argued",
+      "argues"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "No point + gerund."
+  },
+  {
+    "id": "sts_en_093",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He spent time ___ books.",
+    "options": [
+      "read",
+      "reading",
+      "readed",
+      "reads"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Spend time + gerund."
+  },
+  {
+    "id": "sts_en_094",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She had difficulty ___ him.",
+    "options": [
+      "find",
+      "finding",
+      "found",
+      "finds"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Difficulty + gerund."
+  },
+  {
+    "id": "sts_en_095",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I am thinking of ___ a car.",
+    "options": [
+      "buy",
+      "buying",
+      "bought",
+      "buys"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Of + gerund."
+  },
+  {
+    "id": "sts_en_096",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He succeeded in ___ the exam.",
+    "options": [
+      "pass",
+      "passing",
+      "passed",
+      "passes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Succeed in + gerund."
+  },
+  {
+    "id": "sts_en_097",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She apologized for ___ late.",
+    "options": [
+      "be",
+      "being",
+      "been",
+      "was"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "For + gerund."
+  },
+  {
+    "id": "sts_en_098",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "They accused him of ___ .",
+    "options": [
+      "steal",
+      "stealing",
+      "stole",
+      "steals"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Of + gerund."
+  },
+  {
+    "id": "sts_en_099",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He is good at ___ stories.",
+    "options": [
+      "tell",
+      "telling",
+      "told",
+      "tells"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "At + gerund."
+  },
+  {
+    "id": "sts_en_100",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She insisted on ___ with us.",
+    "options": [
+      "come",
+      "coming",
+      "came",
+      "comes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "On + gerund."
+  },
+  {
+    "id": "sts_en_101",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "Thank you for ___ me.",
+    "options": [
+      "help",
+      "helping",
+      "helped",
+      "helps"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "For + gerund."
+  },
+  {
+    "id": "sts_en_102",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He prevented me from ___ .",
+    "options": [
+      "enter",
+      "entering",
+      "entered",
+      "enters"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "From + gerund."
+  },
+  {
+    "id": "sts_en_103",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I am tired of ___ excuses.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "hears"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Of + gerund."
+  },
+  {
+    "id": "sts_en_104",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She is responsible for ___ the files.",
+    "options": [
+      "keep",
+      "keeping",
+      "kept",
+      "keeps"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "For + gerund."
+  },
+  {
+    "id": "sts_en_105",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He dreams of ___ a pilot.",
+    "options": [
+      "become",
+      "becoming",
+      "became",
+      "becomes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Of + gerund."
+  },
+  {
+    "id": "sts_en_106",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "We are interested in ___ French.",
+    "options": [
+      "learn",
+      "learning",
+      "learned",
+      "learns"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "In + gerund."
+  },
+  {
+    "id": "sts_en_107",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He objected to ___ overtime.",
+    "options": [
+      "work",
+      "working",
+      "worked",
+      "works"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "To + gerund."
+  },
+  {
+    "id": "sts_en_108",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She confessed to ___ the vase.",
+    "options": [
+      "break",
+      "breaking",
+      "broke",
+      "breaks"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "To + gerund."
+  },
+  {
+    "id": "sts_en_109",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "I look forward to ___ from you.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "hears"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "To + gerund."
+  },
+  {
+    "id": "sts_en_110",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "He is accustomed to ___ early.",
+    "options": [
+      "rise",
+      "rising",
+      "rose",
+      "rises"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "To + gerund."
+  },
+  {
+    "id": "sts_en_111",
+    "categoryId": "sts_exam",
+    "subjectId": "sts_english",
+    "question": "She devoted herself to ___ the poor.",
+    "options": [
+      "help",
+      "helping",
+      "helped",
+      "helps"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "To + gerund."
+  }
+]

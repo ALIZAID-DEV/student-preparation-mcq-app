@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "gradle.autoDetect": "off",
+    "java.gradle.buildServer.enabled": "off",
+    "java.compile.nullAnalysis.mode": "automatic"
+}

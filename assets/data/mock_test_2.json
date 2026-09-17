@@ -1,0 +1,977 @@
+[
+  {
+    "id": "joa_m2_001",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Each of the applicants were given a slip.",
+      "Each of the applicants was given a slip.",
+      "Each applicants was given a slip.",
+      "Each of applicants were given a slip."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Each is singular, so verb is 'was'."
+  },
+  {
+    "id": "joa_m2_002",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "If I ___ you, I would not ignore the notice.",
+    "options": ["am", "was", "were", "be"],
+    "correctAnswerIndex": 2,
+    "explanation": "Subjunctive mood: 'If I were you'."
+  },
+  {
+    "id": "joa_m2_003",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "By the time the officer arrived, the clerk ___ the file.",
+    "options": ["has prepared", "had prepared", "prepares", "will prepare"],
+    "correctAnswerIndex": 1,
+    "explanation": "Past perfect: action completed before another past action."
+  },
+  {
+    "id": "joa_m2_004",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The word 'candid' is closest in meaning to:",
+    "options": ["secretive", "frank", "hostile", "uncertain"],
+    "correctAnswerIndex": 1,
+    "explanation": "Candid = frank, open."
+  },
+  {
+    "id": "joa_m2_005",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "He succeeded ___ hard work.",
+    "options": ["by", "through", "with", "at"],
+    "correctAnswerIndex": 1,
+    "explanation": "Succeed through hard work = by means of."
+  },
+  {
+    "id": "joa_m2_006",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The passive voice of 'Who wrote this letter?' is:",
+    "options": [
+      "By whom this letter was written?",
+      "By whom was this letter written?",
+      "Who was this letter written?",
+      "By whom did this letter write?"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Proper passive: By whom was this letter written?"
+  },
+  {
+    "id": "joa_m2_007",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Neither the manager nor the assistants ___ available.",
+    "options": ["was", "is", "were", "has"],
+    "correctAnswerIndex": 2,
+    "explanation": "With 'neither...nor', verb agrees with nearer subject (assistants=plural)."
+  },
+  {
+    "id": "joa_m2_008",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "She said, 'I have finished my work.'",
+    "options": [
+      "She said that she has finished her work.",
+      "She said that she had finished her work.",
+      "She said she finished my work.",
+      "She said that I had finished her work."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Backshift: present perfect → past perfect."
+  },
+  {
+    "id": "joa_m2_009",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "He is accustomed ___ early.",
+    "options": ["to rise", "to rising", "for rising", "with rise"],
+    "correctAnswerIndex": 1,
+    "explanation": "Accustomed to + gerund."
+  },
+  {
+    "id": "joa_m2_010",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Less people attended the meeting.",
+      "Fewer people attended the meeting.",
+      "Few people has attended the meeting.",
+      "Fewer people has attended the meeting."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Fewer for countable nouns, less for uncountable."
+  },
+  {
+    "id": "joa_m2_011",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The meeting was postponed ___ the chairman was absent.",
+    "options": ["because", "although", "unless", "despite"],
+    "correctAnswerIndex": 0,
+    "explanation": "'Because' shows cause and effect."
+  },
+  {
+    "id": "joa_m2_012",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Choose the correct spelling.",
+    "options": ["Accomodation", "Accommodation", "Acommodation", "Accomadation"],
+    "correctAnswerIndex": 1,
+    "explanation": "Correct: Accommodation (double c, double m)."
+  },
+  {
+    "id": "joa_m2_013",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The plural of 'criterion' is:",
+    "options": ["criterions", "criteria", "criterions", "criterion"],
+    "correctAnswerIndex": 1,
+    "explanation": "Greek plural: criterion → criteria."
+  },
+  {
+    "id": "joa_m2_014",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "He asked me ___ I had completed the form.",
+    "options": ["that", "whether", "what", "which"],
+    "correctAnswerIndex": 1,
+    "explanation": "'Whether' introduces indirect yes/no question."
+  },
+  {
+    "id": "joa_m2_015",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The correct preposition is: 'He is good ___ mathematics.'",
+    "options": ["in", "at", "on", "for"],
+    "correctAnswerIndex": 1,
+    "explanation": "Good at + subject."
+  },
+  {
+    "id": "joa_m2_016",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The report, together with its annexures, ___ ready.",
+    "options": ["are", "were", "is", "have"],
+    "correctAnswerIndex": 2,
+    "explanation": "Main subject 'report' is singular."
+  },
+  {
+    "id": "joa_m2_017",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "I prefer tea than coffee.",
+      "I prefer tea to coffee.",
+      "I prefer tea from coffee.",
+      "I prefer tea over than coffee."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Prefer X to Y."
+  },
+  {
+    "id": "joa_m2_018",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "If they had informed me, ___ there.",
+    "options": ["would go", "would have gone", "will go", "went"],
+    "correctAnswerIndex": 1,
+    "explanation": "Third conditional: would have + past participle."
+  },
+  {
+    "id": "joa_m2_019",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The opposite of 'mandatory' is:",
+    "options": ["compulsory", "optional", "essential", "required"],
+    "correctAnswerIndex": 1,
+    "explanation": "Mandatory (required) → optional."
+  },
+  {
+    "id": "joa_m2_020",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He hardly never comes late.",
+      "He hardly ever comes late.",
+      "He does hardly ever comes late.",
+      "He hardly comes never late."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hardly ever = almost never."
+  },
+  {
+    "id": "joa_m2_021",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Synonym of 'arduous':",
+    "options": ["easy", "difficult", "brief", "ordinary"],
+    "correctAnswerIndex": 1,
+    "explanation": "Arduous = difficult."
+  },
+  {
+    "id": "joa_m2_022",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Antonym of 'explicit':",
+    "options": ["clear", "direct", "implicit", "specific"],
+    "correctAnswerIndex": 2,
+    "explanation": "Explicit (clear) → implicit (implied)."
+  },
+  {
+    "id": "joa_m2_023",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "'Alleviate' means:",
+    "options": ["worsen", "relieve", "hide", "repeat"],
+    "correctAnswerIndex": 1,
+    "explanation": "Alleviate = reduce pain/suffering."
+  },
+  {
+    "id": "joa_m2_024",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Synonym of 'vigilant':",
+    "options": ["careless", "watchful", "weak", "hesitant"],
+    "correctAnswerIndex": 1,
+    "explanation": "Vigilant = watchful, alert."
+  },
+  {
+    "id": "joa_m2_025",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Antonym of 'scarce':",
+    "options": ["limited", "rare", "abundant", "small"],
+    "correctAnswerIndex": 2,
+    "explanation": "Scarce (limited) → abundant."
+  },
+  {
+    "id": "joa_m2_026",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "'Concur' means:",
+    "options": ["disagree", "agree", "ignore", "debate"],
+    "correctAnswerIndex": 1,
+    "explanation": "Concur = agree."
+  },
+  {
+    "id": "joa_m2_027",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Synonym of 'obsolete':",
+    "options": ["modern", "outdated", "accurate", "urgent"],
+    "correctAnswerIndex": 1,
+    "explanation": "Obsolete = outdated."
+  },
+  {
+    "id": "joa_m2_028",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Antonym of 'rigid':",
+    "options": ["strict", "flexible", "hard", "fixed"],
+    "correctAnswerIndex": 1,
+    "explanation": "Rigid (stiff) → flexible."
+  },
+  {
+    "id": "joa_m2_029",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "'Ambiguous' means:",
+    "options": [
+      "having one clear meaning",
+      "open to more than one interpretation",
+      "very short",
+      "false"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ambiguous = multiple meanings."
+  },
+  {
+    "id": "joa_m2_030",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Find the odd one out:",
+    "options": ["121", "144", "169", "250"],
+    "correctAnswerIndex": 3,
+    "explanation": "250 is not a perfect square (121=11², 144=12², 169=13²)."
+  },
+  {
+    "id": "joa_m2_031",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Complete: 5, 11, 23, 47, 95, ?",
+    "options": ["143", "189", "191", "193"],
+    "correctAnswerIndex": 2,
+    "explanation": "Pattern: ×2+1. 95×2+1 = 191."
+  },
+  {
+    "id": "joa_m2_032",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "If BOOK is coded as CPPL, then PAGE is coded as:",
+    "options": ["QBHF", "QBGF", "OBHF", "QBGE"],
+    "correctAnswerIndex": 0,
+    "explanation": "Each letter +1: P→Q, A→B, G→H, E→F."
+  },
+  {
+    "id": "joa_m2_033",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A is north of B. C is east of A. D is south of C. D is in which direction from B?",
+    "options": ["North", "East", "West", "Cannot be determined"],
+    "correctAnswerIndex": 1,
+    "explanation": "B is south of A. D is south of C which is east of A. D is NE/SE of B, but exactly east."
+  },
+  {
+    "id": "joa_m2_034",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "All judges are lawyers. Some lawyers are writers. Which conclusion is certain?",
+    "options": [
+      "Some judges are writers.",
+      "All judges are lawyers.",
+      "All writers are judges.",
+      "No lawyer is a writer."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Only II is certain from given statement."
+  },
+  {
+    "id": "joa_m2_035",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A family has six members P,Q,R,S,T,U. P is mother of Q; Q is brother of R; S is father of P; T is sister of P; U is son of Q. How is S related to Q?",
+    "options": ["Father", "Grandfather", "Uncle", "Brother"],
+    "correctAnswerIndex": 1,
+    "explanation": "S is father of P, P is mother of Q → S is Q's grandfather."
+  },
+  {
+    "id": "joa_m2_036",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Find the odd one out:",
+    "options": ["121", "144", "169", "196"],
+    "correctAnswerIndex": 3,
+    "explanation": "All are squares; 196=14², but pattern 11²,12²,13²,14²."
+  },
+  {
+    "id": "joa_m2_037",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In a code, PAPER = 16-1-16-5-18. What is the sum of the letters in FILE?",
+    "options": ["22", "30", "32", "34"],
+    "correctAnswerIndex": 2,
+    "explanation": "F=6, I=9, L=12, E=5 → 6+9+12+5 = 32."
+  },
+  {
+    "id": "joa_m2_038",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Four people sit around a square table. A sits opposite B. C sits to the right of A. Who sits opposite C?",
+    "options": ["A", "B", "D", "Cannot say"],
+    "correctAnswerIndex": 2,
+    "explanation": "D sits opposite C."
+  },
+  {
+    "id": "joa_m2_039",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "If 1 January is Monday, 1 March in a non-leap year is:",
+    "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+    "correctAnswerIndex": 1,
+    "explanation": "Jan=31 days, Feb=28 days. 59 days = 8 weeks + 3 days. Monday+3 = Thursday."
+  },
+  {
+    "id": "joa_m2_040",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A statement says: 'No officer is careless.' Which is equivalent?",
+    "options": [
+      "All officers are careless.",
+      "Some officers are careless.",
+      "No careless person is an officer.",
+      "All careless persons are officers."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Contrapositive of 'No officer is careless' = 'No careless person is an officer'."
+  },
+  {
+    "id": "joa_m2_041",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In MS Word, Ctrl+K is used to:",
+    "options": ["insert hyperlink", "insert table", "delete text", "open comments"],
+    "correctAnswerIndex": 0,
+    "explanation": "Ctrl+K inserts hyperlink."
+  },
+  {
+    "id": "joa_m2_042",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In Excel, which function counts non-empty cells?",
+    "options": ["COUNT", "COUNTA", "COUNTBLANK", "SUM"],
+    "correctAnswerIndex": 1,
+    "explanation": "COUNTA counts non-empty cells."
+  },
+  {
+    "id": "joa_m2_043",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In Excel, A$1 is:",
+    "options": ["absolute reference", "mixed reference", "relative reference", "3-D reference"],
+    "correctAnswerIndex": 1,
+    "explanation": "Row locked with $, column not → mixed."
+  },
+  {
+    "id": "joa_m2_044",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which Excel function can search a value vertically in a table?",
+    "options": ["VLOOKUP", "SUM", "ROUND", "LEN"],
+    "correctAnswerIndex": 0,
+    "explanation": "VLOOKUP searches vertically."
+  },
+  {
+    "id": "joa_m2_045",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In Word, Track Changes is mainly used to:",
+    "options": [
+      "record edits made to a document",
+      "calculate totals",
+      "encrypt email",
+      "create slides"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Track Changes records edits."
+  },
+  {
+    "id": "joa_m2_046",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which PowerPoint view shows thumbnails of all slides for easy reordering?",
+    "options": ["Normal", "Slide Sorter", "Notes Page", "Reading"],
+    "correctAnswerIndex": 1,
+    "explanation": "Slide Sorter shows thumbnails."
+  },
+  {
+    "id": "joa_m2_047",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "What is the main purpose of an IP address?",
+    "options": [
+      "identify a device/interface on a network",
+      "format a document",
+      "store passwords",
+      "compress images"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "IP address identifies network devices."
+  },
+  {
+    "id": "joa_m2_048",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which device operates mainly at the data-link layer and forwards frames using MAC addresses?",
+    "options": ["Router", "Switch", "Modem", "Repeater"],
+    "correctAnswerIndex": 1,
+    "explanation": "Switch uses MAC addresses for forwarding."
+  },
+  {
+    "id": "joa_m2_049",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which is an example of two-factor authentication?",
+    "options": ["password only", "PIN only", "password plus OTP", "username only"],
+    "correctAnswerIndex": 2,
+    "explanation": "2FA requires two different factors."
+  },
+  {
+    "id": "joa_m2_050",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which Excel function rounds a number to a specified number of digits?",
+    "options": ["ROUND", "RANK", "COUNT", "VALUE"],
+    "correctAnswerIndex": 0,
+    "explanation": "ROUND rounds numbers."
+  },
+  {
+    "id": "joa_m2_051",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The shortcut Ctrl+P generally opens:",
+    "options": ["Print", "Paste Special", "Paragraph", "Preview only"],
+    "correctAnswerIndex": 0,
+    "explanation": "Ctrl+P opens print dialog."
+  },
+  {
+    "id": "joa_m2_052",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In Word, Ctrl+M generally:",
+    "options": ["increases indent", "opens mail merge", "inserts a margin", "minimizes window"],
+    "correctAnswerIndex": 0,
+    "explanation": "Ctrl+M increases indent."
+  },
+  {
+    "id": "joa_m2_053",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which is NOT a search engine?",
+    "options": ["Google", "Bing", "Yahoo", "Excel"],
+    "correctAnswerIndex": 3,
+    "explanation": "Excel is a spreadsheet application."
+  },
+  {
+    "id": "joa_m2_054",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which technology converts a scanned image of text into editable text?",
+    "options": ["OCR", "GPS", "VPN", "BIOS"],
+    "correctAnswerIndex": 0,
+    "explanation": "OCR = Optical Character Recognition."
+  },
+  {
+    "id": "joa_m2_055",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which extension is commonly associated with a PDF file?",
+    "options": [".pdf", ".doc", ".xls", ".ppt"],
+    "correctAnswerIndex": 0,
+    "explanation": "PDF files use .pdf extension."
+  },
+  {
+    "id": "joa_m2_056",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In Excel, =SUM(A1:A5) adds:",
+    "options": ["A1 only", "A1 through A5", "A5 only", "A1 and A5 only"],
+    "correctAnswerIndex": 1,
+    "explanation": "Range A1:A5 = A1,A2,A3,A4,A5."
+  },
+  {
+    "id": "joa_m2_057",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which key opens the spelling/grammar check in MS Office?",
+    "options": ["F2", "F5", "F7", "F12"],
+    "correctAnswerIndex": 2,
+    "explanation": "F7 opens spell/grammar check."
+  },
+  {
+    "id": "joa_m2_058",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which protocol is used to receive email while keeping messages synchronized on the server?",
+    "options": ["SMTP", "IMAP", "FTP", "HTTP"],
+    "correctAnswerIndex": 1,
+    "explanation": "IMAP keeps messages on server."
+  },
+  {
+    "id": "joa_m2_059",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "What does VPN primarily provide?",
+    "options": [
+      "an encrypted/private network connection over a public network",
+      "extra RAM",
+      "a printer driver",
+      "a spreadsheet formula"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "VPN = Virtual Private Network."
+  },
+  {
+    "id": "joa_m2_060",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which component performs arithmetic and logical operations?",
+    "options": ["ALU", "RAM", "BIOS", "NIC"],
+    "correctAnswerIndex": 0,
+    "explanation": "ALU = Arithmetic Logic Unit."
+  },
+  {
+    "id": "joa_m2_061",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which is the safest action for a suspicious email attachment?",
+    "options": [
+      "open it immediately",
+      "forward it to everyone",
+      "verify the sender and scan/report it",
+      "disable antivirus"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Verify sender and scan before opening."
+  },
+  {
+    "id": "joa_m2_062",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In Excel, COUNTIF is used to:",
+    "options": [
+      "count cells meeting a condition",
+      "add all cells",
+      "find maximum only",
+      "format cells"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "COUNTIF counts cells satisfying a condition."
+  },
+  {
+    "id": "joa_m2_063",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which Word feature creates a list of headings with page numbers automatically?",
+    "options": ["Table of Contents", "WordArt", "Mail Merge", "AutoCorrect"],
+    "correctAnswerIndex": 0,
+    "explanation": "TOC auto-generates with headings and page numbers."
+  },
+  {
+    "id": "joa_m2_064",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which storage is generally fastest among these?",
+    "options": ["HDD", "SSD", "Floppy disk", "Tape"],
+    "correctAnswerIndex": 1,
+    "explanation": "SSD is much faster than HDD."
+  },
+  {
+    "id": "joa_m2_065",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which shortcut selects all text in most Office programs?",
+    "options": ["Ctrl+A", "Ctrl+E", "Ctrl+L", "Ctrl+T"],
+    "correctAnswerIndex": 0,
+    "explanation": "Ctrl+A selects all."
+  },
+  {
+    "id": "joa_m2_066",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A computer's BIOS/UEFI is primarily used during:",
+    "options": [
+      "boot/initial hardware initialization",
+      "word processing",
+      "email sending",
+      "printing"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "BIOS initializes hardware at boot."
+  },
+  {
+    "id": "joa_m2_067",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which is a presentation file extension?",
+    "options": [".pptx", ".xlsx", ".docx", ".csv"],
+    "correctAnswerIndex": 0,
+    "explanation": ".pptx = PowerPoint presentation."
+  },
+  {
+    "id": "joa_m2_068",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "What does Ctrl+Z do?",
+    "options": ["redo", "undo", "zoom", "save"],
+    "correctAnswerIndex": 1,
+    "explanation": "Ctrl+Z undoes last action."
+  },
+  {
+    "id": "joa_m2_069",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "In Excel, MAX(4,9,2) returns:",
+    "options": ["2", "4", "9", "15"],
+    "correctAnswerIndex": 2,
+    "explanation": "MAX returns largest value: 9."
+  },
+  {
+    "id": "joa_m2_070",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Which type of malware can encrypt files and demand payment?",
+    "options": ["Ransomware", "Adware", "Spyware", "Cookie"],
+    "correctAnswerIndex": 0,
+    "explanation": "Ransomware demands payment to decrypt files."
+  },
+  {
+    "id": "joa_m2_071",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A number is decreased by 25% and becomes 180. The original number was:",
+    "options": ["225", "240", "250", "260"],
+    "correctAnswerIndex": 1,
+    "explanation": "0.75x = 180, x = 240."
+  },
+  {
+    "id": "joa_m2_072",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "If 7 workers finish a job in 12 days, 14 workers at the same rate finish it in:",
+    "options": ["3", "6", "12", "24"],
+    "correctAnswerIndex": 1,
+    "explanation": "Work-hours constant: 7×12 = 14×d → d=6."
+  },
+  {
+    "id": "joa_m2_073",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A trader gains 20% after giving a 10% discount. If marked price is Rs. 1,200, cost price is:",
+    "options": ["Rs. 900", "Rs. 1,000", "Rs. 1,080", "Rs. 1,100"],
+    "correctAnswerIndex": 0,
+    "explanation": "SP = 1200×0.9 = 1080. CP = 1080/1.2 = 900."
+  },
+  {
+    "id": "joa_m2_074",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The mean of 5, 9, 13, 17 and 21 is:",
+    "options": ["11", "12", "13", "14"],
+    "correctAnswerIndex": 2,
+    "explanation": "Sum=65, avg=65/5=13."
+  },
+  {
+    "id": "joa_m2_075",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "If x/4 = 7/2, x =",
+    "options": ["12", "14", "16", "18"],
+    "correctAnswerIndex": 1,
+    "explanation": "x = 7×4/2 = 14."
+  },
+  {
+    "id": "joa_m2_076",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A:B = 4:7. If A = 28, B =",
+    "options": ["35", "42", "49", "56"],
+    "correctAnswerIndex": 2,
+    "explanation": "4:7 = 28:x → x = 28×7/4 = 49."
+  },
+  {
+    "id": "joa_m2_077",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A sum of Rs. 12,000 earns 10% simple interest for 18 months. Interest is:",
+    "options": ["Rs. 1,200", "Rs. 1,500", "Rs. 1,800", "Rs. 2,000"],
+    "correctAnswerIndex": 2,
+    "explanation": "SI = 12000×10×1.5/100 = 1800."
+  },
+  {
+    "id": "joa_m2_078",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A car travels first 60 km at 30 km/h and next 60 km at 60 km/h. Average speed is:",
+    "options": ["40 km/h", "45 km/h", "50 km/h", "60 km/h"],
+    "correctAnswerIndex": 0,
+    "explanation": "Total distance=120, total time=2+1=3h, avg=40 km/h."
+  },
+  {
+    "id": "joa_m2_079",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "If 2x + 5 = 19, x =",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 2,
+    "explanation": "2x = 14, x = 7."
+  },
+  {
+    "id": "joa_m2_080",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The square root of 0.0081 is:",
+    "options": ["0.09", "0.9", "0.009", "0.81"],
+    "correctAnswerIndex": 0,
+    "explanation": "0.09 × 0.09 = 0.0081."
+  },
+  {
+    "id": "joa_m2_081",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "15% of 240 + 20% of 150 =",
+    "options": ["56", "60", "66", "72"],
+    "correctAnswerIndex": 2,
+    "explanation": "36 + 30 = 66."
+  },
+  {
+    "id": "joa_m2_082",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A rectangle has length 12 cm and width 8 cm. Its area is:",
+    "options": ["40", "80", "96", "120"],
+    "correctAnswerIndex": 2,
+    "explanation": "Area = 12 × 8 = 96 cm²."
+  },
+  {
+    "id": "joa_m2_083",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "A man spends 75% of his salary and saves Rs. 10,000. His salary is:",
+    "options": ["Rs. 30,000", "Rs. 35,000", "Rs. 40,000", "Rs. 45,000"],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of salary = 10000 → salary = 40000."
+  },
+  {
+    "id": "joa_m2_084",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "If 4 pens and 3 pencils cost Rs. 170, while 4 pens and 1 pencil cost Rs. 130, one pencil costs:",
+    "options": ["Rs. 15", "Rs. 20", "Rs. 25", "Rs. 30"],
+    "correctAnswerIndex": 1,
+    "explanation": "Subtract equations: 2 pencils = 40 → 1 pencil = 20."
+  },
+  {
+    "id": "joa_m2_085",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The ratio of 45 minutes to 2 hours is:",
+    "options": ["3:8", "3:6", "4:9", "5:12"],
+    "correctAnswerIndex": 0,
+    "explanation": "45:120 = 3:8."
+  },
+  {
+    "id": "joa_m2_086",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The 1973 Constitution of Pakistan came into force on:",
+    "options": ["23 March 1973", "12 April 1973", "14 August 1973", "25 December 1973"],
+    "correctAnswerIndex": 2,
+    "explanation": "Came into force on 14 August 1973."
+  },
+  {
+    "id": "joa_m2_087",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The Senate of Pakistan is the:",
+    "options": ["lower house", "upper house", "provincial cabinet", "judicial body"],
+    "correctAnswerIndex": 1,
+    "explanation": "Senate is upper house of Parliament."
+  },
+  {
+    "id": "joa_m2_088",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The National Assembly's normal term is:",
+    "options": ["3 years", "4 years", "5 years", "6 years"],
+    "correctAnswerIndex": 2,
+    "explanation": "NA term is 5 years."
+  },
+  {
+    "id": "joa_m2_089",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The State Bank of Pakistan is the country's:",
+    "options": ["central bank", "commercial bank", "development bank only", "microfinance bank"],
+    "correctAnswerIndex": 0,
+    "explanation": "SBP is central bank."
+  },
+  {
+    "id": "joa_m2_090",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The headquarters of the OIC is in:",
+    "options": ["Jeddah", "Riyadh", "Cairo", "Doha"],
+    "correctAnswerIndex": 0,
+    "explanation": "OIC HQ is in Jeddah, Saudi Arabia."
+  },
+  {
+    "id": "joa_m2_091",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The headquarters of SAARC is in:",
+    "options": ["Islamabad", "Kathmandu", "Dhaka", "Colombo"],
+    "correctAnswerIndex": 1,
+    "explanation": "SAARC Secretariat is in Kathmandu."
+  },
+  {
+    "id": "joa_m2_092",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The Strait of Hormuz connects the Persian Gulf with the:",
+    "options": ["Arabian Sea/Gulf of Oman", "Red Sea", "Black Sea", "Mediterranean Sea"],
+    "correctAnswerIndex": 0,
+    "explanation": "Strait of Hormuz connects Persian Gulf with Gulf of Oman/Arabian Sea."
+  },
+  {
+    "id": "joa_m2_093",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The Suez Canal connects the Mediterranean Sea with the:",
+    "options": ["Arabian Sea", "Red Sea", "Black Sea", "Caspian Sea"],
+    "correctAnswerIndex": 1,
+    "explanation": "Suez Canal connects Mediterranean with Red Sea."
+  },
+  {
+    "id": "joa_m2_094",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The first Governor-General of Pakistan was:",
+    "options": ["Liaquat Ali Khan", "Muhammad Ali Jinnah", "Iskander Mirza", "Ayub Khan"],
+    "correctAnswerIndex": 1,
+    "explanation": "Quaid-e-Azam Muhammad Ali Jinnah was first GG."
+  },
+  {
+    "id": "joa_m2_095",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The Objectives Resolution was passed in:",
+    "options": ["1947", "1948", "1949", "1951"],
+    "correctAnswerIndex": 2,
+    "explanation": "Passed on 12 March 1949."
+  },
+  {
+    "id": "joa_m2_096",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The national assembly's constitutional voting age for citizens is:",
+    "options": ["16", "18", "21", "25"],
+    "correctAnswerIndex": 1,
+    "explanation": "Voting age is 18."
+  },
+  {
+    "id": "joa_m2_097",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "Pakistan's national animal is:",
+    "options": ["Markhor", "Snow Leopard", "Lion", "Himalayan Bear"],
+    "correctAnswerIndex": 0,
+    "explanation": "Markhor is national animal."
+  },
+  {
+    "id": "joa_m2_098",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The largest province of Pakistan by area is:",
+    "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+    "correctAnswerIndex": 2,
+    "explanation": "Balochistan is largest by area."
+  },
+  {
+    "id": "joa_m2_099",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "The 18th Constitutional Amendment was passed in:",
+    "options": ["2008", "2010", "2012", "2013"],
+    "correctAnswerIndex": 1,
+    "explanation": "18th Amendment passed in 2010."
+  },
+  {
+    "id": "joa_m2_100",
+    "categoryId": "nts_exam",
+    "subjectId": "joa_mock_2",
+    "question": "As of August 2026, the President of Pakistan is:",
+    "options": ["Asif Ali Zardari", "Arif Alvi", "Mamnoon Hussain", "Sadiq Sanjrani"],
+    "correctAnswerIndex": 0,
+    "explanation": "Asif Ali Zardari is President."
+  }
+]

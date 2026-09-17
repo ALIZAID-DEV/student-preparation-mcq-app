@@ -1,0 +1,4664 @@
+[
+  {
+    "id": "nts_an_001",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "2, 4, 8, 16, ?",
+    "options": [
+      "18",
+      "24",
+      "32",
+      "30"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Multiply by 2 each time."
+  },
+  {
+    "id": "nts_an_002",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "3, 9, 27, 81, ?",
+    "options": [
+      "162",
+      "243",
+      "108",
+      "90"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Multiply by 3 each time."
+  },
+  {
+    "id": "nts_an_003",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "5, 10, 20, 40, ?",
+    "options": [
+      "60",
+      "80",
+      "70",
+      "100"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Multiply by 2 each time."
+  },
+  {
+    "id": "nts_an_004",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "36"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Perfect squares."
+  },
+  {
+    "id": "nts_an_005",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "1, 8, 27, 64, ?",
+    "options": [
+      "100",
+      "125",
+      "81",
+      "121"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Perfect cubes."
+  },
+  {
+    "id": "nts_an_006",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "2, 6, 12, 20, ?",
+    "options": [
+      "30",
+      "28",
+      "24",
+      "22"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Differences +4,+6,+8,+10."
+  },
+  {
+    "id": "nts_an_007",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "7, 14, 28, 56, ?",
+    "options": [
+      "70",
+      "84",
+      "112",
+      "98"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "×2 each time → 112."
+  },
+  {
+    "id": "nts_an_008",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "11, 13, 17, 19, ?",
+    "options": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Prime numbers → 23."
+  },
+  {
+    "id": "nts_an_009",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "10, 9, 7, 4, ?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "−1,−2,−3,−4 → 0."
+  },
+  {
+    "id": "nts_an_010",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "100, 50, 25, 12.5, ?",
+    "options": [
+      "6.25",
+      "5",
+      "10",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "÷2 each time."
+  },
+  {
+    "id": "nts_an_011",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 2, 4, 8, 16, ?",
+    "options": [
+      "32",
+      "20",
+      "24",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_012",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 3, 6, 12, 24, ?",
+    "options": [
+      "48",
+      "30",
+      "36",
+      "18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_013",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 4, 8, 16, 32, ?",
+    "options": [
+      "64",
+      "40",
+      "48",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_014",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 5, 10, 20, 40, ?",
+    "options": [
+      "80",
+      "50",
+      "60",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_015",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 6, 12, 24, 48, ?",
+    "options": [
+      "96",
+      "60",
+      "72",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_016",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 7, 14, 28, 56, ?",
+    "options": [
+      "112",
+      "70",
+      "84",
+      "42"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_017",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 8, 16, 32, 64, ?",
+    "options": [
+      "128",
+      "80",
+      "96",
+      "48"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_018",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 9, 18, 36, 72, ?",
+    "options": [
+      "144",
+      "90",
+      "108",
+      "54"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_019",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 10, 20, 40, 80, ?",
+    "options": [
+      "160",
+      "100",
+      "120",
+      "60"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_020",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 11, 22, 44, 88, ?",
+    "options": [
+      "176",
+      "110",
+      "132",
+      "66"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_021",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 12, 24, 48, 96, ?",
+    "options": [
+      "192",
+      "120",
+      "144",
+      "72"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_022",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 13, 26, 52, 104, ?",
+    "options": [
+      "208",
+      "130",
+      "156",
+      "78"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_023",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 14, 28, 56, 112, ?",
+    "options": [
+      "224",
+      "140",
+      "168",
+      "84"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_024",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 15, 30, 60, 120, ?",
+    "options": [
+      "240",
+      "150",
+      "180",
+      "90"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_025",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 16, 32, 64, 128, ?",
+    "options": [
+      "256",
+      "160",
+      "192",
+      "96"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_026",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 17, 34, 68, 136, ?",
+    "options": [
+      "272",
+      "170",
+      "204",
+      "102"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_027",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 18, 36, 72, 144, ?",
+    "options": [
+      "288",
+      "180",
+      "216",
+      "108"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_028",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 19, 38, 76, 152, ?",
+    "options": [
+      "304",
+      "190",
+      "228",
+      "114"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_029",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 20, 40, 80, 160, ?",
+    "options": [
+      "320",
+      "200",
+      "240",
+      "120"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_030",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 21, 42, 84, 168, ?",
+    "options": [
+      "336",
+      "210",
+      "252",
+      "126"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_031",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 22, 44, 88, 176, ?",
+    "options": [
+      "352",
+      "220",
+      "264",
+      "132"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_032",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 23, 46, 92, 184, ?",
+    "options": [
+      "368",
+      "230",
+      "276",
+      "138"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_033",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 24, 48, 96, 192, ?",
+    "options": [
+      "384",
+      "240",
+      "288",
+      "144"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_034",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 25, 50, 100, 200, ?",
+    "options": [
+      "400",
+      "250",
+      "300",
+      "150"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_035",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 26, 52, 104, 208, ?",
+    "options": [
+      "416",
+      "260",
+      "312",
+      "156"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_036",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 27, 54, 108, 216, ?",
+    "options": [
+      "432",
+      "270",
+      "324",
+      "162"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_037",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 28, 56, 112, 224, ?",
+    "options": [
+      "448",
+      "280",
+      "336",
+      "168"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_038",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Find next number: 29, 58, 116, 232, ?",
+    "options": [
+      "464",
+      "290",
+      "348",
+      "174"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Geometric sequence ×2."
+  },
+  {
+    "id": "nts_an_039",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Book : Reading :: Fork : ?",
+    "options": [
+      "Drawing",
+      "Writing",
+      "Eating",
+      "Stirring only always"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Tool-purpose analogy."
+  },
+  {
+    "id": "nts_an_040",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Doctor : Hospital :: Teacher : ?",
+    "options": [
+      "School",
+      "Court",
+      "Clinic",
+      "Factory"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Workplace analogy."
+  },
+  {
+    "id": "nts_an_041",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Bird : Nest :: Bee : ?",
+    "options": [
+      "Hive",
+      "Den",
+      "Stable",
+      "Burrow"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Home analogy."
+  },
+  {
+    "id": "nts_an_042",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Eye : See :: Ear : ?",
+    "options": [
+      "Smell",
+      "Hear",
+      "Taste",
+      "Touch"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sense analogy."
+  },
+  {
+    "id": "nts_an_043",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Pen : Write :: Knife : ?",
+    "options": [
+      "Cut",
+      "Drive",
+      "Fly",
+      "Swim"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Function analogy."
+  },
+  {
+    "id": "nts_an_044",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Cow : Calf :: Cat : ?",
+    "options": [
+      "Puppy",
+      "Kitten",
+      "Cub",
+      "Chick"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Young one."
+  },
+  {
+    "id": "nts_an_045",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Day : Night :: White : ?",
+    "options": [
+      "Black",
+      "Blue",
+      "Red",
+      "Green"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Opposites."
+  },
+  {
+    "id": "nts_an_046",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Hot : Cold :: Tall : ?",
+    "options": [
+      "High",
+      "Short",
+      "Big",
+      "Wide"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Antonyms."
+  },
+  {
+    "id": "nts_an_047",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Fish : Water :: Bird : ?",
+    "options": [
+      "Sky/Air",
+      "Soil only",
+      "Fire",
+      "Ice only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Habitat."
+  },
+  {
+    "id": "nts_an_048",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Finger : Hand :: Toe : ?",
+    "options": [
+      "Foot",
+      "Head",
+      "Arm",
+      "Neck"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Part-whole."
+  },
+  {
+    "id": "nts_an_049",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "If CAT = 24 (C=3,A=1,T=20), then DOG = ?",
+    "options": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "4+15+7=26."
+  },
+  {
+    "id": "nts_an_050",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "If A=1, B=2, … then BAD = ?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2+1+4=7."
+  },
+  {
+    "id": "nts_an_051",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "If ‘TOP’ is coded as ‘UQP’, then ‘MAT’ is:",
+    "options": [
+      "NBU",
+      "LBU",
+      "NBS",
+      "NCU"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Each letter +1."
+  },
+  {
+    "id": "nts_an_052",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "If ‘FISH’ → ‘GJTI’, then ‘BIRD’ → ?",
+    "options": [
+      "CJSE",
+      "CJQE",
+      "AHQC",
+      "CJSD"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Each letter +1."
+  },
+  {
+    "id": "nts_an_053",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "If ‘LION’ → ‘MJPO’, then ‘BEAR’ → ?",
+    "options": [
+      "CFBS",
+      "ADZQ",
+      "CFBQ",
+      "CFAR"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Each +1."
+  },
+  {
+    "id": "nts_an_054",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Opposite of NORTH is:",
+    "options": [
+      "East",
+      "West",
+      "South",
+      "North-East"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "South."
+  },
+  {
+    "id": "nts_an_055",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "If you face East and turn left, you face:",
+    "options": [
+      "North",
+      "South",
+      "West",
+      "East"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Left from East → North."
+  },
+  {
+    "id": "nts_an_056",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "If you face South and turn right, you face:",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Right from South → West."
+  },
+  {
+    "id": "nts_an_057",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "A is brother of B. B is sister of C. C is brother of D. D is:",
+    "options": [
+      "Male/Female unknown alone",
+      "Definitely male",
+      "Definitely female",
+      "Uncle of A"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gender of D not fixed."
+  },
+  {
+    "id": "nts_an_058",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Pointing to a man, a woman says ‘His mother is the only daughter of my mother’. The man is her:",
+    "options": [
+      "Brother",
+      "Son",
+      "Uncle",
+      "Father"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Only daughter = woman herself → man is her son."
+  },
+  {
+    "id": "nts_an_059",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: 2, 3, 5, 7, 9, 11",
+    "options": [
+      "2",
+      "9",
+      "7",
+      "11"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "9 is not prime."
+  },
+  {
+    "id": "nts_an_060",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: Apple, Mango, Potato, Banana",
+    "options": [
+      "Apple",
+      "Mango",
+      "Potato",
+      "Banana"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Potato is vegetable/tuber."
+  },
+  {
+    "id": "nts_an_061",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: Red, Blue, Square, Green",
+    "options": [
+      "Red",
+      "Blue",
+      "Square",
+      "Green"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Square is shape, not color."
+  },
+  {
+    "id": "nts_an_062",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: Car, Bus, Train, Road",
+    "options": [
+      "Car",
+      "Bus",
+      "Train",
+      "Road"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Road is not a vehicle."
+  },
+  {
+    "id": "nts_an_063",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: Circle, Triangle, Rectangle, Cube",
+    "options": [
+      "Circle",
+      "Triangle",
+      "Rectangle",
+      "Cube"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Cube is 3D."
+  },
+  {
+    "id": "nts_an_064",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: Monday, Tuesday, January, Friday",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "January",
+      "Friday"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "January is a month."
+  },
+  {
+    "id": "nts_an_065",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: Iron, Copper, Mercury, Wood",
+    "options": [
+      "Iron",
+      "Copper",
+      "Mercury",
+      "Wood"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Wood is not metal."
+  },
+  {
+    "id": "nts_an_066",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: Sparrow, Crow, Eagle, Bat",
+    "options": [
+      "Sparrow",
+      "Crow",
+      "Eagle",
+      "Bat"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Bat is mammal."
+  },
+  {
+    "id": "nts_an_067",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: 16, 25, 36, 48, 49",
+    "options": [
+      "16",
+      "36",
+      "48",
+      "49"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "48 not a perfect square."
+  },
+  {
+    "id": "nts_an_068",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Odd one out: A, E, I, O, B",
+    "options": [
+      "A",
+      "E",
+      "B",
+      "O"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "B is not a vowel."
+  },
+  {
+    "id": "nts_an_069",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 1 : 1 :: 3 : ?",
+    "options": [
+      "9",
+      "6",
+      "3",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "3² = 9."
+  },
+  {
+    "id": "nts_an_070",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 2 : 4 :: 4 : ?",
+    "options": [
+      "16",
+      "8",
+      "8",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "4² = 16."
+  },
+  {
+    "id": "nts_an_071",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 3 : 9 :: 5 : ?",
+    "options": [
+      "25",
+      "10",
+      "15",
+      "49"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "5² = 25."
+  },
+  {
+    "id": "nts_an_072",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 4 : 16 :: 6 : ?",
+    "options": [
+      "36",
+      "12",
+      "24",
+      "64"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "6² = 36."
+  },
+  {
+    "id": "nts_an_073",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 5 : 25 :: 7 : ?",
+    "options": [
+      "49",
+      "14",
+      "35",
+      "81"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "7² = 49."
+  },
+  {
+    "id": "nts_an_074",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 6 : 36 :: 8 : ?",
+    "options": [
+      "64",
+      "16",
+      "48",
+      "100"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "8² = 64."
+  },
+  {
+    "id": "nts_an_075",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 7 : 49 :: 9 : ?",
+    "options": [
+      "81",
+      "18",
+      "63",
+      "121"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "9² = 81."
+  },
+  {
+    "id": "nts_an_076",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 8 : 64 :: 10 : ?",
+    "options": [
+      "100",
+      "20",
+      "80",
+      "144"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "10² = 100."
+  },
+  {
+    "id": "nts_an_077",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 9 : 81 :: 11 : ?",
+    "options": [
+      "121",
+      "22",
+      "99",
+      "169"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "11² = 121."
+  },
+  {
+    "id": "nts_an_078",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 10 : 100 :: 12 : ?",
+    "options": [
+      "144",
+      "24",
+      "120",
+      "196"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "12² = 144."
+  },
+  {
+    "id": "nts_an_079",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 11 : 121 :: 13 : ?",
+    "options": [
+      "169",
+      "26",
+      "143",
+      "225"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "13² = 169."
+  },
+  {
+    "id": "nts_an_080",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 12 : 144 :: 14 : ?",
+    "options": [
+      "196",
+      "28",
+      "168",
+      "256"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "14² = 196."
+  },
+  {
+    "id": "nts_an_081",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 13 : 169 :: 15 : ?",
+    "options": [
+      "225",
+      "30",
+      "195",
+      "289"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "15² = 225."
+  },
+  {
+    "id": "nts_an_082",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 14 : 196 :: 16 : ?",
+    "options": [
+      "256",
+      "32",
+      "224",
+      "324"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "16² = 256."
+  },
+  {
+    "id": "nts_an_083",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 15 : 225 :: 17 : ?",
+    "options": [
+      "289",
+      "34",
+      "255",
+      "361"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "17² = 289."
+  },
+  {
+    "id": "nts_an_084",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 16 : 256 :: 18 : ?",
+    "options": [
+      "324",
+      "36",
+      "288",
+      "400"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "18² = 324."
+  },
+  {
+    "id": "nts_an_085",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 17 : 289 :: 19 : ?",
+    "options": [
+      "361",
+      "38",
+      "323",
+      "441"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "19² = 361."
+  },
+  {
+    "id": "nts_an_086",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 18 : 324 :: 20 : ?",
+    "options": [
+      "400",
+      "40",
+      "360",
+      "484"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "20² = 400."
+  },
+  {
+    "id": "nts_an_087",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 19 : 361 :: 21 : ?",
+    "options": [
+      "441",
+      "42",
+      "399",
+      "529"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "21² = 441."
+  },
+  {
+    "id": "nts_an_088",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 20 : 400 :: 22 : ?",
+    "options": [
+      "484",
+      "44",
+      "440",
+      "576"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "22² = 484."
+  },
+  {
+    "id": "nts_an_089",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 21 : 441 :: 23 : ?",
+    "options": [
+      "529",
+      "46",
+      "483",
+      "625"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "23² = 529."
+  },
+  {
+    "id": "nts_an_090",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 22 : 484 :: 24 : ?",
+    "options": [
+      "576",
+      "48",
+      "528",
+      "676"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "24² = 576."
+  },
+  {
+    "id": "nts_an_091",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 23 : 529 :: 25 : ?",
+    "options": [
+      "625",
+      "50",
+      "575",
+      "729"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "25² = 625."
+  },
+  {
+    "id": "nts_an_092",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 24 : 576 :: 26 : ?",
+    "options": [
+      "676",
+      "52",
+      "624",
+      "784"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "26² = 676."
+  },
+  {
+    "id": "nts_an_093",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 25 : 625 :: 27 : ?",
+    "options": [
+      "729",
+      "54",
+      "675",
+      "841"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "27² = 729."
+  },
+  {
+    "id": "nts_an_094",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 26 : 676 :: 28 : ?",
+    "options": [
+      "784",
+      "56",
+      "728",
+      "900"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "28² = 784."
+  },
+  {
+    "id": "nts_an_095",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 27 : 729 :: 29 : ?",
+    "options": [
+      "841",
+      "58",
+      "783",
+      "961"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "29² = 841."
+  },
+  {
+    "id": "nts_an_096",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 28 : 784 :: 30 : ?",
+    "options": [
+      "900",
+      "60",
+      "840",
+      "1024"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "30² = 900."
+  },
+  {
+    "id": "nts_an_097",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 29 : 841 :: 31 : ?",
+    "options": [
+      "961",
+      "62",
+      "899",
+      "1089"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "31² = 961."
+  },
+  {
+    "id": "nts_an_098",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 30 : 900 :: 32 : ?",
+    "options": [
+      "1024",
+      "64",
+      "960",
+      "1156"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "32² = 1024."
+  },
+  {
+    "id": "nts_an_099",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 31 : 961 :: 33 : ?",
+    "options": [
+      "1089",
+      "66",
+      "1023",
+      "1225"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "33² = 1089."
+  },
+  {
+    "id": "nts_an_100",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 32 : 1024 :: 34 : ?",
+    "options": [
+      "1156",
+      "68",
+      "1088",
+      "1296"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "34² = 1156."
+  },
+  {
+    "id": "nts_an_101",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 33 : 1089 :: 35 : ?",
+    "options": [
+      "1225",
+      "70",
+      "1155",
+      "1369"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "35² = 1225."
+  },
+  {
+    "id": "nts_an_102",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 34 : 1156 :: 36 : ?",
+    "options": [
+      "1296",
+      "72",
+      "1224",
+      "1444"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "36² = 1296."
+  },
+  {
+    "id": "nts_an_103",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 35 : 1225 :: 37 : ?",
+    "options": [
+      "1369",
+      "74",
+      "1295",
+      "1521"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "37² = 1369."
+  },
+  {
+    "id": "nts_an_104",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 36 : 1296 :: 38 : ?",
+    "options": [
+      "1444",
+      "76",
+      "1368",
+      "1600"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "38² = 1444."
+  },
+  {
+    "id": "nts_an_105",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 37 : 1369 :: 39 : ?",
+    "options": [
+      "1521",
+      "78",
+      "1443",
+      "1681"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "39² = 1521."
+  },
+  {
+    "id": "nts_an_106",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 38 : 1444 :: 40 : ?",
+    "options": [
+      "1600",
+      "80",
+      "1520",
+      "1764"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "40² = 1600."
+  },
+  {
+    "id": "nts_an_107",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Complete analogy: 39 : 1521 :: 41 : ?",
+    "options": [
+      "1681",
+      "82",
+      "1599",
+      "1849"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "41² = 1681."
+  },
+  {
+    "id": "nts_an_108",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "A man walks 5 km East, then 5 km North. He is from start:",
+    "options": [
+      "5 km West",
+      "5√2 km North-East",
+      "10 km East",
+      "0 km"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Right triangle displacement."
+  },
+  {
+    "id": "nts_an_109",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "Opposite direction of South-East is:",
+    "options": [
+      "North-West",
+      "North-East",
+      "South-West",
+      "East"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "SE ↔ NW."
+  },
+  {
+    "id": "nts_an_110",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_analytics",
+    "question": "If South becomes East, then East becomes:",
+    "options": [
+      "North",
+      "South",
+      "West",
+      "East"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "90° rotation mapping."
+  },
+  {
+    "id": "nts_en_001",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Happy’:",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Joyful ≈ happy."
+  },
+  {
+    "id": "nts_en_002",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Begin’:",
+    "options": [
+      "Start",
+      "End",
+      "Stop",
+      "Close"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Begin = start."
+  },
+  {
+    "id": "nts_en_003",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Quick’:",
+    "options": [
+      "Slow",
+      "Fast",
+      "Late",
+      "Dull"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Quick = fast."
+  },
+  {
+    "id": "nts_en_004",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Big’:",
+    "options": [
+      "Large",
+      "Tiny",
+      "Narrow",
+      "Thin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Big = large."
+  },
+  {
+    "id": "nts_en_005",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Smart’:",
+    "options": [
+      "Intelligent",
+      "Foolish",
+      "Lazy",
+      "Weak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Smart ≈ intelligent."
+  },
+  {
+    "id": "nts_en_006",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Brave’:",
+    "options": [
+      "Courageous",
+      "Fearful",
+      "Shy",
+      "Weak"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Brave = courageous."
+  },
+  {
+    "id": "nts_en_007",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Purchase’:",
+    "options": [
+      "Buy",
+      "Sell",
+      "Rent",
+      "Lose"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Purchase = buy."
+  },
+  {
+    "id": "nts_en_008",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Assist’:",
+    "options": [
+      "Help",
+      "Hinder",
+      "Ignore",
+      "Fight"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Assist = help."
+  },
+  {
+    "id": "nts_en_009",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Ancient’:",
+    "options": [
+      "Old",
+      "New",
+      "Modern",
+      "Fresh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Ancient = very old."
+  },
+  {
+    "id": "nts_en_010",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Silent’:",
+    "options": [
+      "Quiet",
+      "Noisy",
+      "Loud",
+      "Busy"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Silent = quiet."
+  },
+  {
+    "id": "nts_en_011",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Hot’:",
+    "options": [
+      "Cold",
+      "Warm",
+      "Boiling",
+      "Heated"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hot ↔ cold."
+  },
+  {
+    "id": "nts_en_012",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Rich’:",
+    "options": [
+      "Poor",
+      "Wealthy",
+      "Moneyed",
+      "Affluent"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Rich ↔ poor."
+  },
+  {
+    "id": "nts_en_013",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Early’:",
+    "options": [
+      "Late",
+      "Soon",
+      "Quick",
+      "Prompt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Early ↔ late."
+  },
+  {
+    "id": "nts_en_014",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Love’:",
+    "options": [
+      "Hate",
+      "Like",
+      "Admire",
+      "Prefer"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Love ↔ hate."
+  },
+  {
+    "id": "nts_en_015",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Strong’:",
+    "options": [
+      "Weak",
+      "Powerful",
+      "Tough",
+      "Hard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Strong ↔ weak."
+  },
+  {
+    "id": "nts_en_016",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Victory’:",
+    "options": [
+      "Defeat",
+      "Win",
+      "Success",
+      "Triumph"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Victory ↔ defeat."
+  },
+  {
+    "id": "nts_en_017",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Include’:",
+    "options": [
+      "Exclude",
+      "Add",
+      "Contain",
+      "Cover"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Include ↔ exclude."
+  },
+  {
+    "id": "nts_en_018",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Arrive’:",
+    "options": [
+      "Depart",
+      "Come",
+      "Enter",
+      "Reach"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Arrive ↔ depart."
+  },
+  {
+    "id": "nts_en_019",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Accept’:",
+    "options": [
+      "Reject",
+      "Receive",
+      "Take",
+      "Approve"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Accept ↔ reject."
+  },
+  {
+    "id": "nts_en_020",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Antonym of ‘Permanent’:",
+    "options": [
+      "Temporary",
+      "Lasting",
+      "Fixed",
+      "Stable"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Permanent ↔ temporary."
+  },
+  {
+    "id": "nts_en_021",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He is good ___ English.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "over"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Good at."
+  },
+  {
+    "id": "nts_en_022",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She insisted ___ going.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Insist on."
+  },
+  {
+    "id": "nts_en_023",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Depend ___ your hard work.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Depend on."
+  },
+  {
+    "id": "nts_en_024",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Afraid ___ dogs.",
+    "options": [
+      "from",
+      "of",
+      "with",
+      "by"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Afraid of."
+  },
+  {
+    "id": "nts_en_025",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Interested ___ science.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Interested in."
+  },
+  {
+    "id": "nts_en_026",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Prefer tea ___ coffee.",
+    "options": [
+      "than",
+      "to",
+      "from",
+      "over"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Prefer to."
+  },
+  {
+    "id": "nts_en_027",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Capable ___ doing it.",
+    "options": [
+      "to",
+      "of",
+      "for",
+      "with"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Capable of."
+  },
+  {
+    "id": "nts_en_028",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Married ___ a doctor.",
+    "options": [
+      "with",
+      "to",
+      "by",
+      "for"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Married to."
+  },
+  {
+    "id": "nts_en_029",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Listen ___ the teacher.",
+    "options": [
+      "at",
+      "to",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Listen to."
+  },
+  {
+    "id": "nts_en_030",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Angry ___ his mistake.",
+    "options": [
+      "at",
+      "on",
+      "over",
+      "by"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Angry at (thing)/with (person) — at fits."
+  },
+  {
+    "id": "nts_en_031",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Choose correct: She ___ to school daily.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular."
+  },
+  {
+    "id": "nts_en_032",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Choose correct: They ___ playing cricket.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Plural → are."
+  },
+  {
+    "id": "nts_en_033",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Article: He is ___ honest man.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Honest begins with vowel sound."
+  },
+  {
+    "id": "nts_en_034",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Article: ___ sun rises in the east.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Unique noun → the."
+  },
+  {
+    "id": "nts_en_035",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Past of ‘go’ is:",
+    "options": [
+      "goed",
+      "went",
+      "gone",
+      "going"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Go → went."
+  },
+  {
+    "id": "nts_en_036",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Past participle of ‘write’ is:",
+    "options": [
+      "wrote",
+      "written",
+      "writing",
+      "writes"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Write → written."
+  },
+  {
+    "id": "nts_en_037",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Plural of ‘child’ is:",
+    "options": [
+      "childs",
+      "children",
+      "childes",
+      "childrens"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Children."
+  },
+  {
+    "id": "nts_en_038",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Plural of ‘mouse’ is:",
+    "options": [
+      "mouses",
+      "mice",
+      "mouse",
+      "meese"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mice."
+  },
+  {
+    "id": "nts_en_039",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Correct spelling:",
+    "options": [
+      "Recieve",
+      "Receive",
+      "Receeve",
+      "Receve"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "i before e except after c → receive."
+  },
+  {
+    "id": "nts_en_041",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Neither Ali nor his friends ___ present.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Agreement with nearer noun friends."
+  },
+  {
+    "id": "nts_en_042",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "The news ___ true.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "News is singular."
+  },
+  {
+    "id": "nts_en_043",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Mathematics ___ my favorite subject.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Subject name singular."
+  },
+  {
+    "id": "nts_en_044",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "One of the boys ___ absent.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "One → singular."
+  },
+  {
+    "id": "nts_en_045",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She has been working here ___ 2020.",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "at"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Since + point of time."
+  },
+  {
+    "id": "nts_en_046",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "I have lived here ___ five years.",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "at"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "For + period."
+  },
+  {
+    "id": "nts_en_047",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "If I ___ rich, I would help you.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "be"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Subjunctive were."
+  },
+  {
+    "id": "nts_en_048",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He said that he ___ busy.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "are"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Backshift in reported speech."
+  },
+  {
+    "id": "nts_en_049",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "This is the book ___ I bought.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "whom"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Which for things."
+  },
+  {
+    "id": "nts_en_050",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "The man ___ called you is my uncle.",
+    "options": [
+      "which",
+      "who",
+      "where",
+      "what"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Who for people."
+  },
+  {
+    "id": "nts_en_051",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Benevolent’:",
+    "options": [
+      "Kind",
+      "Cruel",
+      "Lazy",
+      "Poor"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Benevolent = kind/generous."
+  },
+  {
+    "id": "nts_en_052",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Obsolete’:",
+    "options": [
+      "Outdated",
+      "Modern",
+      "Fresh",
+      "New"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Obsolete = outdated."
+  },
+  {
+    "id": "nts_en_053",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Candid’:",
+    "options": [
+      "Frank",
+      "Secretive",
+      "Rude",
+      "Silent"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Candid = frank."
+  },
+  {
+    "id": "nts_en_054",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Diligent’:",
+    "options": [
+      "Hardworking",
+      "Lazy",
+      "Careless",
+      "Slow"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Diligent = hardworking."
+  },
+  {
+    "id": "nts_en_055",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Hostile’:",
+    "options": [
+      "Unfriendly",
+      "Friendly",
+      "Neutral",
+      "Kind"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hostile = unfriendly."
+  },
+  {
+    "id": "nts_en_056",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Lucid’:",
+    "options": [
+      "Clear",
+      "Confusing",
+      "Dark",
+      "Vague"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Lucid = clear."
+  },
+  {
+    "id": "nts_en_057",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Meager’:",
+    "options": [
+      "Scanty",
+      "Abundant",
+      "Huge",
+      "Rich"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Meager = scanty."
+  },
+  {
+    "id": "nts_en_058",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Novice’:",
+    "options": [
+      "Beginner",
+      "Expert",
+      "Teacher",
+      "Leader"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Novice = beginner."
+  },
+  {
+    "id": "nts_en_059",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Prudent’:",
+    "options": [
+      "Wise/careful",
+      "Reckless",
+      "Angry",
+      "Loud"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Prudent = careful."
+  },
+  {
+    "id": "nts_en_060",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Robust’:",
+    "options": [
+      "Strong",
+      "Weak",
+      "Fragile",
+      "Thin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Robust = strong."
+  },
+  {
+    "id": "nts_en_061",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Scarce’:",
+    "options": [
+      "Rare",
+      "Common",
+      "Plenty",
+      "Many"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Scarce = rare."
+  },
+  {
+    "id": "nts_en_062",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Tedious’:",
+    "options": [
+      "Boring",
+      "Exciting",
+      "Funny",
+      "Short"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Tedious = boring."
+  },
+  {
+    "id": "nts_en_063",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Urgent’:",
+    "options": [
+      "Pressing",
+      "Delayed",
+      "Optional",
+      "Slow"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Urgent = pressing."
+  },
+  {
+    "id": "nts_en_064",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Vague’:",
+    "options": [
+      "Unclear",
+      "Clear",
+      "Exact",
+      "Sharp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vague = unclear."
+  },
+  {
+    "id": "nts_en_065",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Wary’:",
+    "options": [
+      "Cautious",
+      "Careless",
+      "Bold always",
+      "Sleepy"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Wary = cautious."
+  },
+  {
+    "id": "nts_en_066",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Zealous’:",
+    "options": [
+      "Enthusiastic",
+      "Lazy",
+      "Indifferent",
+      "Cold"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Zealous = enthusiastic."
+  },
+  {
+    "id": "nts_en_067",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Abolish’:",
+    "options": [
+      "End/cancel",
+      "Start",
+      "Build",
+      "Keep"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Abolish = end."
+  },
+  {
+    "id": "nts_en_068",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Brief’:",
+    "options": [
+      "Short",
+      "Long",
+      "Endless",
+      "Wide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Brief = short."
+  },
+  {
+    "id": "nts_en_069",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Compel’:",
+    "options": [
+      "Force",
+      "Request softly",
+      "Ignore",
+      "Allow"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Compel = force."
+  },
+  {
+    "id": "nts_en_070",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Synonym of ‘Diverse’:",
+    "options": [
+      "Varied",
+      "Same",
+      "Single",
+      "Identical"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Diverse = varied."
+  },
+  {
+    "id": "nts_en_105",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "I saw ___ eagle.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Eagle vowel sound → an."
+  },
+  {
+    "id": "nts_en_106",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She is ___ university student.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "University consonant sound → a."
+  },
+  {
+    "id": "nts_en_107",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He is ___ MBA graduate.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "MBA vowel sound → an."
+  },
+  {
+    "id": "nts_en_108",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "___ Amazon is a river.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Unique/famous → the."
+  },
+  {
+    "id": "nts_en_109",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Please pass me ___ salt.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Specific salt → the."
+  },
+  {
+    "id": "nts_en_110",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She plays ___ piano well.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Musical instruments → the."
+  },
+  {
+    "id": "nts_en_111",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He goes to ___ school by bus.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Institution sense often no article."
+  },
+  {
+    "id": "nts_en_112",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Mount Everest is ___ highest peak.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Superlative → the."
+  },
+  {
+    "id": "nts_en_113",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "I need ___ hour to finish.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hour vowel sound → an."
+  },
+  {
+    "id": "nts_en_114",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "This is ___ useful tip.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Useful consonant sound /j/ → a."
+  },
+  {
+    "id": "nts_en_115",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Identify error pattern: ‘He don’t know.’ Correct is:",
+    "options": [
+      "He doesn’t know.",
+      "He don’t knows.",
+      "He not know.",
+      "He no know."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Doesn’t for 3rd person."
+  },
+  {
+    "id": "nts_en_116",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Correct: ‘She can sings.’ →",
+    "options": [
+      "She can sing.",
+      "She can singing.",
+      "She cans sing.",
+      "She can to sing."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Modal + base verb."
+  },
+  {
+    "id": "nts_en_117",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Correct comparative: ‘more better’ →",
+    "options": [
+      "better",
+      "most better",
+      "bestest",
+      "good"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Better already comparative."
+  },
+  {
+    "id": "nts_en_118",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "‘Between you and ___’:",
+    "options": [
+      "I",
+      "me",
+      "mine",
+      "myself"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Object pronoun me."
+  },
+  {
+    "id": "nts_en_119",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "‘Each of the girls ___ a book.’",
+    "options": [
+      "have",
+      "has",
+      "having",
+      "had always"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Each → singular."
+  },
+  {
+    "id": "nts_en_120",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Passive of ‘He writes a letter’:",
+    "options": [
+      "A letter is written by him.",
+      "A letter wrote him.",
+      "A letter written.",
+      "He is written a letter."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present simple passive."
+  },
+  {
+    "id": "nts_en_121",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "‘Seldom’ is an:",
+    "options": [
+      "Adverb",
+      "Noun",
+      "Preposition",
+      "Conjunction only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Adverb of frequency."
+  },
+  {
+    "id": "nts_en_122",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Homophone of ‘pair’:",
+    "options": [
+      "Pear",
+      "Peer only",
+      "Poor",
+      "Pour"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pair/pear."
+  },
+  {
+    "id": "nts_en_123",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "‘Their’ shows:",
+    "options": [
+      "Possession",
+      "Place",
+      "Action",
+      "Time"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Possessive."
+  },
+  {
+    "id": "nts_en_124",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "‘There’ often shows:",
+    "options": [
+      "Place",
+      "Possession",
+      "Only tense",
+      "Only gender"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Location."
+  },
+  {
+    "id": "nts_en_125",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He ______ fast every morning.",
+    "options": [
+      "run",
+      "runs",
+      "runing",
+      "runed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → runs."
+  },
+  {
+    "id": "nts_en_126",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She ______ breakfast at 8.",
+    "options": [
+      "eat",
+      "eats",
+      "eating",
+      "eated"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → eats."
+  },
+  {
+    "id": "nts_en_127",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Ali ______ the newspaper.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "readed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → reads."
+  },
+  {
+    "id": "nts_en_128",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Sara ______ neat notes.",
+    "options": [
+      "write",
+      "writes",
+      "writeing",
+      "writeed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → writes."
+  },
+  {
+    "id": "nts_en_129",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "The child ______ outside.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → plays."
+  },
+  {
+    "id": "nts_en_130",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He ______ cricket on TV.",
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "watched"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → watches."
+  },
+  {
+    "id": "nts_en_131",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Amina ______ at night.",
+    "options": [
+      "study",
+      "studies",
+      "studying",
+      "studyed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → studies."
+  },
+  {
+    "id": "nts_en_132",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Mr. Khan ______ English.",
+    "options": [
+      "teach",
+      "teaches",
+      "teaching",
+      "teached"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → teaches."
+  },
+  {
+    "id": "nts_en_133",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Father ______ to office.",
+    "options": [
+      "drive",
+      "drives",
+      "driveing",
+      "driveed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → drives."
+  },
+  {
+    "id": "nts_en_134",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She ______ three languages.",
+    "options": [
+      "speak",
+      "speaks",
+      "speaking",
+      "speaked"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → speaks."
+  },
+  {
+    "id": "nts_en_135",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "The bus ______ on time.",
+    "options": [
+      "come",
+      "comes",
+      "comeing",
+      "comeed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → comes."
+  },
+  {
+    "id": "nts_en_136",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Train ______ at noon.",
+    "options": [
+      "leave",
+      "leaves",
+      "leaveing",
+      "leaveed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → leaves."
+  },
+  {
+    "id": "nts_en_137",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He ______ in Karachi.",
+    "options": [
+      "live",
+      "lives",
+      "liveing",
+      "liveed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → lives."
+  },
+  {
+    "id": "nts_en_138",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She ______ in a bank.",
+    "options": [
+      "work",
+      "works",
+      "working",
+      "worked"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → works."
+  },
+  {
+    "id": "nts_en_139",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Ali ______ his mother.",
+    "options": [
+      "help",
+      "helps",
+      "helping",
+      "helped"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → helps."
+  },
+  {
+    "id": "nts_en_140",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Shop ______ at 9 am.",
+    "options": [
+      "open",
+      "opens",
+      "opening",
+      "opened"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → opens."
+  },
+  {
+    "id": "nts_en_141",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Market ______ late.",
+    "options": [
+      "close",
+      "closes",
+      "closeing",
+      "closeed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → closes."
+  },
+  {
+    "id": "nts_en_142",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Class ______ soon.",
+    "options": [
+      "start",
+      "starts",
+      "starting",
+      "started"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → starts."
+  },
+  {
+    "id": "nts_en_143",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He ______ work early.",
+    "options": [
+      "finish",
+      "finishes",
+      "finishing",
+      "finished"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → finishes."
+  },
+  {
+    "id": "nts_en_144",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She ______ her friend daily.",
+    "options": [
+      "call",
+      "calls",
+      "calling",
+      "called"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → calls."
+  },
+  {
+    "id": "nts_en_145",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Baby ______ milk.",
+    "options": [
+      "need",
+      "needs",
+      "needing",
+      "needed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → needs."
+  },
+  {
+    "id": "nts_en_146",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He ______ success.",
+    "options": [
+      "want",
+      "wants",
+      "wanting",
+      "wanted"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → wants."
+  },
+  {
+    "id": "nts_en_147",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She ______ mangoes.",
+    "options": [
+      "like",
+      "likes",
+      "likeing",
+      "likeed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → likes."
+  },
+  {
+    "id": "nts_en_148",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He ______ his country.",
+    "options": [
+      "love",
+      "loves",
+      "loveing",
+      "loveed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → loves."
+  },
+  {
+    "id": "nts_en_149",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "Everyone ______ the answer.",
+    "options": [
+      "know",
+      "knows",
+      "knowing",
+      "knowed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → knows."
+  },
+  {
+    "id": "nts_en_150",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She ______ carefully.",
+    "options": [
+      "think",
+      "thinks",
+      "thinking",
+      "thinked"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → thinks."
+  },
+  {
+    "id": "nts_en_151",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "He ______ better today.",
+    "options": [
+      "feel",
+      "feels",
+      "feeling",
+      "feeled"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → feels."
+  },
+  {
+    "id": "nts_en_152",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "It ______ beautiful.",
+    "options": [
+      "look",
+      "looks",
+      "looking",
+      "looked"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → looks."
+  },
+  {
+    "id": "nts_en_153",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "She ______ tired.",
+    "options": [
+      "seem",
+      "seems",
+      "seeming",
+      "seemed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → seems."
+  },
+  {
+    "id": "nts_en_154",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_english",
+    "question": "It ______ dark early.",
+    "options": [
+      "become",
+      "becomes",
+      "becomeing",
+      "becomeed"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3rd person singular present → becomes."
+  },
+  {
+    "id": "nts_gk_001",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Capital of Pakistan is:",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Islamabad."
+  },
+  {
+    "id": "nts_gk_002",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Largest city of Pakistan by population is generally:",
+    "options": [
+      "Islamabad",
+      "Karachi",
+      "Quetta",
+      "Gwadar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Karachi."
+  },
+  {
+    "id": "nts_gk_003",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "National language of Pakistan is:",
+    "options": [
+      "English",
+      "Urdu",
+      "Punjabi",
+      "Sindhi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Urdu."
+  },
+  {
+    "id": "nts_gk_004",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Pakistan’s independence day is:",
+    "options": [
+      "14 August",
+      "23 March",
+      "6 September",
+      "25 December"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "14 Aug 1947."
+  },
+  {
+    "id": "nts_gk_005",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Pakistan Resolution was passed in:",
+    "options": [
+      "1940",
+      "1947",
+      "1956",
+      "1971"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "23 March 1940."
+  },
+  {
+    "id": "nts_gk_006",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Currency of Pakistan is:",
+    "options": [
+      "Rupee",
+      "Taka",
+      "Rial",
+      "Dinar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pakistani Rupee."
+  },
+  {
+    "id": "nts_gk_007",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Highest mountain in Pakistan is:",
+    "options": [
+      "Nanga Parbat",
+      "K2",
+      "Rakaposhi",
+      "Broad Peak"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "K2."
+  },
+  {
+    "id": "nts_gk_008",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Longest river of Pakistan is:",
+    "options": [
+      "Jhelum",
+      "Chenab",
+      "Indus",
+      "Ravi"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Indus."
+  },
+  {
+    "id": "nts_gk_009",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Quaid-e-Azam was born in:",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Delhi",
+      "Peshawar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Karachi."
+  },
+  {
+    "id": "nts_gk_010",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "National poet of Pakistan is:",
+    "options": [
+      "Faiz",
+      "Allama Iqbal",
+      "Ghalib",
+      "Mir"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Allama Iqbal."
+  },
+  {
+    "id": "nts_gk_011",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "UN headquarters is in:",
+    "options": [
+      "Geneva",
+      "New York",
+      "Paris",
+      "London"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "New York."
+  },
+  {
+    "id": "nts_gk_012",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "WHO stands for:",
+    "options": [
+      "World Health Organization",
+      "World Human Office",
+      "Water Health Org",
+      "World Housing Org"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "World Health Organization."
+  },
+  {
+    "id": "nts_gk_013",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "UNESCO is related to:",
+    "options": [
+      "Education/science/culture",
+      "Only banks",
+      "Only armies",
+      "Only oil"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "UN educational body."
+  },
+  {
+    "id": "nts_gk_014",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Earth completes one rotation in about:",
+    "options": [
+      "24 hours",
+      "365 days",
+      "30 days",
+      "7 days"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Rotation ~24h."
+  },
+  {
+    "id": "nts_gk_015",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Earth completes one revolution around Sun in about:",
+    "options": [
+      "24 hours",
+      "365 days",
+      "30 days",
+      "12 hours"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "≈365 days."
+  },
+  {
+    "id": "nts_gk_016",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Largest ocean is:",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Pacific."
+  },
+  {
+    "id": "nts_gk_017",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Smallest continent is:",
+    "options": [
+      "Asia",
+      "Europe",
+      "Australia",
+      "Africa"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Australia."
+  },
+  {
+    "id": "nts_gk_018",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Largest continent is:",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Antarctica"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Asia."
+  },
+  {
+    "id": "nts_gk_019",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Hardest natural substance is:",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Silver"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Diamond."
+  },
+  {
+    "id": "nts_gk_020",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Gas used in balloons often:",
+    "options": [
+      "Oxygen",
+      "Helium",
+      "CO2",
+      "Chlorine"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Helium."
+  },
+  {
+    "id": "nts_gk_021",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Vitamin C deficiency causes:",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Night blindness",
+      "Beriberi"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Scurvy."
+  },
+  {
+    "id": "nts_gk_022",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Vitamin D deficiency causes:",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Anemia only",
+      "Goitre only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Rickets."
+  },
+  {
+    "id": "nts_gk_023",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Blood is purified in:",
+    "options": [
+      "Heart",
+      "Lungs/kidneys context",
+      "Only stomach",
+      "Only skin"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Kidneys filter; lungs gas exchange — kidneys typically ‘purify’ blood of wastes."
+  },
+  {
+    "id": "nts_gk_024",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Human heart has chambers:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Four chambers."
+  },
+  {
+    "id": "nts_gk_025",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Largest gland in human body is:",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Thyroid",
+      "Pituitary"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Liver."
+  },
+  {
+    "id": "nts_gk_026",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Computer brain is called:",
+    "options": [
+      "Monitor",
+      "CPU",
+      "Keyboard",
+      "Mouse"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "CPU."
+  },
+  {
+    "id": "nts_gk_027",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "WWW stands for:",
+    "options": [
+      "World Wide Web",
+      "World Web Wide",
+      "Wide World Web",
+      "Web World Wide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "World Wide Web."
+  },
+  {
+    "id": "nts_gk_028",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "First Prime Minister of Pakistan was:",
+    "options": [
+      "Liaquat Ali Khan",
+      "Ayub Khan",
+      "Zulfikar Ali Bhutto",
+      "Benazir Bhutto"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Liaquat Ali Khan."
+  },
+  {
+    "id": "nts_gk_029",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Objective Resolution was passed in:",
+    "options": [
+      "1949",
+      "1956",
+      "1962",
+      "1973"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1949."
+  },
+  {
+    "id": "nts_gk_030",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Current constitution of Pakistan was enforced in:",
+    "options": [
+      "1956",
+      "1962",
+      "1973",
+      "1985"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "1973."
+  },
+  {
+    "id": "nts_gk_031",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Sindh’s capital is:",
+    "options": [
+      "Hyderabad",
+      "Sukkur",
+      "Karachi",
+      "Larkana"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Karachi."
+  },
+  {
+    "id": "nts_gk_032",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Punjab’s capital is:",
+    "options": [
+      "Multan",
+      "Lahore",
+      "Faisalabad",
+      "Rawalpindi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Lahore."
+  },
+  {
+    "id": "nts_gk_033",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Khyber Pakhtunkhwa capital is:",
+    "options": [
+      "Peshawar",
+      "Abbottabad",
+      "Mardan",
+      "Swat"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Peshawar."
+  },
+  {
+    "id": "nts_gk_034",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Balochistan capital is:",
+    "options": [
+      "Gwadar",
+      "Quetta",
+      "Turbat",
+      "Zhob"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Quetta."
+  },
+  {
+    "id": "nts_gk_035",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Gilgit-Baltistan capital is:",
+    "options": [
+      "Skardu",
+      "Gilgit",
+      "Hunza",
+      "Chitral"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Gilgit."
+  },
+  {
+    "id": "nts_gk_036",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "SAARC includes countries of:",
+    "options": [
+      "South Asia",
+      "Europe",
+      "Africa only",
+      "Only Middle East"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "South Asian association."
+  },
+  {
+    "id": "nts_gk_037",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "OIC is organization of:",
+    "options": [
+      "Islamic countries",
+      "Oil companies only",
+      "European states only",
+      "Banks only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Organisation of Islamic Cooperation."
+  },
+  {
+    "id": "nts_gk_038",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "IMF stands for:",
+    "options": [
+      "International Monetary Fund",
+      "Internal Money Forum",
+      "Indian Money Fund",
+      "International Market Force"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "IMF."
+  },
+  {
+    "id": "nts_gk_039",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Fastest land animal is:",
+    "options": [
+      "Lion",
+      "Cheetah",
+      "Horse",
+      "Tiger"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cheetah."
+  },
+  {
+    "id": "nts_gk_040",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "National animal of Pakistan is:",
+    "options": [
+      "Markhor",
+      "Lion",
+      "Tiger",
+      "Deer"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Markhor."
+  },
+  {
+    "id": "nts_gk_041",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "National bird of Pakistan is:",
+    "options": [
+      "Chukar",
+      "Eagle",
+      "Sparrow",
+      "Peacock"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chukar."
+  },
+  {
+    "id": "nts_gk_042",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "National flower of Pakistan is:",
+    "options": [
+      "Rose",
+      "Jasmine",
+      "Sunflower",
+      "Tulip"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jasmine."
+  },
+  {
+    "id": "nts_gk_043",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Lightest gas is:",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "CO2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hydrogen."
+  },
+  {
+    "id": "nts_gk_044",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Chemical symbol of gold is:",
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Au."
+  },
+  {
+    "id": "nts_gk_045",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Chemical symbol of silver is:",
+    "options": [
+      "Si",
+      "Ag",
+      "Au",
+      "Sr"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ag."
+  },
+  {
+    "id": "nts_gk_046",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Chemical symbol of iron is:",
+    "options": [
+      "Ir",
+      "Fe",
+      "In",
+      "I"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Fe."
+  },
+  {
+    "id": "nts_gk_047",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Boiling point of water (1 atm) is:",
+    "options": [
+      "0°C",
+      "50°C",
+      "100°C",
+      "212°C only in C"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "100°C."
+  },
+  {
+    "id": "nts_gk_048",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Freezing point of water is:",
+    "options": [
+      "0°C",
+      "100°C",
+      "−100°C",
+      "50°C"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "0°C."
+  },
+  {
+    "id": "nts_gk_049",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Photosynthesis occurs in:",
+    "options": [
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Chloroplasts."
+  },
+  {
+    "id": "nts_gk_050",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "DNA full form:",
+    "options": [
+      "Deoxyribonucleic acid",
+      "Dynamic nuclear acid",
+      "Deoxy nitrogen acid",
+      "Dual nucleic acid"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "DNA."
+  },
+  {
+    "id": "nts_gk_051",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Inventor of telephone (credited):",
+    "options": [
+      "Edison",
+      "Alexander Graham Bell",
+      "Newton",
+      "Tesla only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Bell."
+  },
+  {
+    "id": "nts_gk_052",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Gravity discovery associated with:",
+    "options": [
+      "Einstein only",
+      "Newton",
+      "Faraday",
+      "Ohm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Newton."
+  },
+  {
+    "id": "nts_gk_053",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Speed of sound in air is about:",
+    "options": [
+      "330 m/s",
+      "3×10⁸ m/s",
+      "11.2 km/s",
+      "9.8 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "~330–340 m/s."
+  },
+  {
+    "id": "nts_gk_054",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Planet known as Red Planet:",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mars."
+  },
+  {
+    "id": "nts_gk_055",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Largest planet in solar system:",
+    "options": [
+      "Earth",
+      "Saturn",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Jupiter."
+  },
+  {
+    "id": "nts_gk_056",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Closest planet to Sun:",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mercury."
+  },
+  {
+    "id": "nts_gk_057",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Number of planets in solar system (standard):",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Eight."
+  },
+  {
+    "id": "nts_gk_058",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Moon is a:",
+    "options": [
+      "Star",
+      "Satellite",
+      "Planet",
+      "Comet"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Earth’s satellite."
+  },
+  {
+    "id": "nts_gk_059",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Eclipse of sun occurs when:",
+    "options": [
+      "Moon between Earth and Sun",
+      "Earth between Moon and Sun",
+      "Sun between",
+      "None"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Solar eclipse geometry."
+  },
+  {
+    "id": "nts_gk_060",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Ramadan is the ___ month of Islamic calendar.",
+    "options": [
+      "8th",
+      "9th",
+      "10th",
+      "12th"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "9th month."
+  },
+  {
+    "id": "nts_gk_061",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Hajj is performed in:",
+    "options": [
+      "Makka",
+      "Madina only",
+      "Jerusalem only",
+      "Cairo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Makkah."
+  },
+  {
+    "id": "nts_gk_062",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "First revelation of Quran was in:",
+    "options": [
+      "Cave Hira",
+      "Cave Thawr",
+      "Masjid Nabawi",
+      "Kaaba door"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hira."
+  },
+  {
+    "id": "nts_gk_063",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Zakat is:",
+    "options": [
+      "Optional gift only",
+      "Obligatory charity (pillar)",
+      "Only tax to state always",
+      "Only fasting"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pillar of Islam."
+  },
+  {
+    "id": "nts_gk_064",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Number of pillars of Islam is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Five."
+  },
+  {
+    "id": "nts_gk_065",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Prophet Muhammad (PBUH) migrated to:",
+    "options": [
+      "Taif",
+      "Madina",
+      "Yemen",
+      "Egypt"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hijrah to Madina."
+  },
+  {
+    "id": "nts_gk_066",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Islamic calendar is:",
+    "options": [
+      "Solar",
+      "Lunar",
+      "Only Gregorian",
+      "Only Julian"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Lunar Hijri."
+  },
+  {
+    "id": "nts_gk_067",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Pakistan’s national anthem writer (lyrics):",
+    "options": [
+      "Hafeez Jalandhari",
+      "Iqbal",
+      "Faiz",
+      "Josh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hafeez Jalandhari."
+  },
+  {
+    "id": "nts_gk_068",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Minar-e-Pakistan is in:",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Multan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Lahore."
+  },
+  {
+    "id": "nts_gk_069",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Faisal Mosque is in:",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Islamabad."
+  },
+  {
+    "id": "nts_gk_070",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Badshahi Mosque is in:",
+    "options": [
+      "Lahore",
+      "Delhi",
+      "Agra",
+      "Multan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Lahore."
+  },
+  {
+    "id": "nts_gk_071",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Mohenjo-Daro is in:",
+    "options": [
+      "Sindh",
+      "Punjab",
+      "KP",
+      "Balochistan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sindh."
+  },
+  {
+    "id": "nts_gk_072",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Harappa is in:",
+    "options": [
+      "Sindh",
+      "Punjab",
+      "Balochistan",
+      "GB"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Punjab."
+  },
+  {
+    "id": "nts_gk_073",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Indus Valley Civilization is famous for:",
+    "options": [
+      "Planned cities",
+      "Only nomads",
+      "Only ice age",
+      "Only Europe"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Urban planning."
+  },
+  {
+    "id": "nts_gk_074",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "First woman Prime Minister of Pakistan:",
+    "options": [
+      "Fatima Jinnah",
+      "Benazir Bhutto",
+      "Maryam",
+      "Hina"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Benazir Bhutto."
+  },
+  {
+    "id": "nts_gk_075",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Radar is used to detect:",
+    "options": [
+      "Only sound",
+      "Objects using radio waves",
+      "Only smell",
+      "Only taste"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Radio detection."
+  },
+  {
+    "id": "nts_gk_076",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "ATM stands for:",
+    "options": [
+      "Automated Teller Machine",
+      "Auto Time Machine",
+      "Any Time Money only informal",
+      "Automatic Train Motor"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Automated Teller Machine."
+  },
+  {
+    "id": "nts_gk_077",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "CPU stands for:",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Print Unit",
+      "Control Power Unit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "CPU."
+  },
+  {
+    "id": "nts_gk_078",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "HTTP is used for:",
+    "options": [
+      "Web communication",
+      "Only email files",
+      "Only printing",
+      "Only sound"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Web protocol."
+  },
+  {
+    "id": "nts_gk_079",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Pakistan’s national sport (often cited):",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Squash"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Field hockey traditionally."
+  },
+  {
+    "id": "nts_gk_080",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Olympic games are held every:",
+    "options": [
+      "2 years",
+      "4 years",
+      "5 years",
+      "10 years"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Every 4 years."
+  },
+  {
+    "id": "nts_gk_081",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "FIFA World Cup is for:",
+    "options": [
+      "Hockey",
+      "Football/Soccer",
+      "Cricket",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Football."
+  },
+  {
+    "id": "nts_gk_082",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "ICC is related to:",
+    "options": [
+      "Cricket",
+      "Football",
+      "Hockey only",
+      "Tennis only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "International Cricket Council."
+  },
+  {
+    "id": "nts_gk_083",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Nobel Prize is not awarded in:",
+    "options": [
+      "Physics",
+      "Chemistry",
+      "Mathematics (Fields instead)",
+      "Peace"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "No Nobel in Math."
+  },
+  {
+    "id": "nts_gk_084",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Father of Computer (often titled):",
+    "options": [
+      "Charles Babbage",
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Babbage."
+  },
+  {
+    "id": "nts_gk_085",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "WWW inventor:",
+    "options": [
+      "Bill Gates",
+      "Tim Berners-Lee",
+      "Edison",
+      "Newton"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Tim Berners-Lee."
+  },
+  {
+    "id": "nts_gk_086",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Pakistan joined UN in:",
+    "options": [
+      "1947",
+      "1948",
+      "1956",
+      "1971"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "30 Sep 1947."
+  },
+  {
+    "id": "nts_gk_087",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "LOC stands for:",
+    "options": [
+      "Line of Control",
+      "Line of Country",
+      "Local Office Code",
+      "Law of Court"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Line of Control."
+  },
+  {
+    "id": "nts_gk_088",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "ECO stands for:",
+    "options": [
+      "Economic Cooperation Organization",
+      "Eastern Cricket Office",
+      "European Court only",
+      "Energy Control Org"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ECO."
+  },
+  {
+    "id": "nts_gk_089",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "NAM stands for:",
+    "options": [
+      "Non-Aligned Movement",
+      "New Asian Market",
+      "National Army Mission",
+      "North Atlantic Map"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Non-Aligned Movement."
+  },
+  {
+    "id": "nts_gk_090",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Commonwealth includes mostly:",
+    "options": [
+      "Former British territories",
+      "Only US states",
+      "Only EU",
+      "Only OPEC"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Commonwealth."
+  },
+  {
+    "id": "nts_gk_091",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Desert in Sindh/Pakistan region famous:",
+    "options": [
+      "Thar",
+      "Sahara",
+      "Gobi",
+      "Kalahari"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thar Desert."
+  },
+  {
+    "id": "nts_gk_092",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Khyber Pass connects Pakistan with:",
+    "options": [
+      "India",
+      "Afghanistan",
+      "Iran",
+      "China only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Afghanistan."
+  },
+  {
+    "id": "nts_gk_093",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Karakoram Highway links Pakistan with:",
+    "options": [
+      "China",
+      "India",
+      "Iran",
+      "Turkey"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "China."
+  },
+  {
+    "id": "nts_gk_094",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Gwadar Port is in:",
+    "options": [
+      "Sindh",
+      "Balochistan",
+      "Punjab",
+      "KP"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Balochistan."
+  },
+  {
+    "id": "nts_gk_095",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Tarbela Dam is on river:",
+    "options": [
+      "Jhelum",
+      "Indus",
+      "Ravi",
+      "Sutlej"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Indus."
+  },
+  {
+    "id": "nts_gk_096",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Mangla Dam is on river:",
+    "options": [
+      "Indus",
+      "Jhelum",
+      "Chenab",
+      "Ravi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jhelum."
+  },
+  {
+    "id": "nts_gk_097",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Warsak Dam is in:",
+    "options": [
+      "KP",
+      "Sindh",
+      "Balochistan",
+      "Punjab only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Near Peshawar, KP."
+  },
+  {
+    "id": "nts_gk_098",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Pakistan Steel Mills located near:",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Quetta"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Near Karachi."
+  },
+  {
+    "id": "nts_gk_099",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Siachen Glacier is in:",
+    "options": [
+      "Himalaya/Karakoram region",
+      "Thar",
+      "Makran coast only",
+      "Cholistan only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Northern region."
+  },
+  {
+    "id": "nts_gk_100",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Cholistan is a:",
+    "options": [
+      "Desert",
+      "Mountain",
+      "River",
+      "Port"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Desert in Punjab."
+  },
+  {
+    "id": "nts_gk_101",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Rann of Kutch is near:",
+    "options": [
+      "Sindh-India border area",
+      "Gilgit only",
+      "China border only",
+      "Iran only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Southern border region."
+  },
+  {
+    "id": "nts_gk_102",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Allama Iqbal’s famous work:",
+    "options": [
+      "Asrar-e-Khudi",
+      "Divine Comedy",
+      "Iliad",
+      "Hamlet"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Asrar-e-Khudi."
+  },
+  {
+    "id": "nts_gk_103",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Quaid’s 14 Points were presented in:",
+    "options": [
+      "1929",
+      "1940",
+      "1947",
+      "1956"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1929."
+  },
+  {
+    "id": "nts_gk_104",
+    "categoryId": "nts_exam",
+    "subjectId": "nts_gk",
+    "question": "Two-Nation Theory associated with:",
+    "options": [
+      "Muslim separate identity",
+      "Only economics",
+      "Only geography of Africa",
+      "Only language of Europe"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Basis for Pakistan."
+  }
+]

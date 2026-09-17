@@ -1,0 +1,49 @@
+[
+  {
+    "categoryId": "nts_exam",
+    "categoryTitle": "NTS Preparation",
+    "icon": "school",
+    "description": "National Testing Service Exam Preparation",
+    "subCategories": [
+      { "id": "nts_analytics", "title": "Analytical Reasoning" },
+      { "id": "nts_english", "title": "NTS English Prep" },
+      { "id": "nts_gk", "title": "General Knowledge" },
+      { "id": "joa_mock_1", "title": "📝 JOA Mock Test 1 (BPS-13)" },
+      { "id": "joa_mock_2", "title": "📝 JOA Mock Test 2 (BPS-13)" },
+      { "id": "joa_mock_3", "title": "📝 JOA Mock Test 3 (BPS-13)" }
+    ]
+  },
+  {
+    "categoryId": "sts_exam",
+    "categoryTitle": "STS / SIBA Testing Service",
+    "icon": "assignment",
+    "description": "STS Grade 05 to 15 Jobs Prep",
+    "subCategories": [
+      { "id": "sts_gk", "title": "Everyday Science & Sindh GK" },
+      { "id": "sts_math", "title": "Basic Mathematics" },
+      { "id": "sts_english", "title": "STS English Grammar" }
+    ]
+  },
+  {
+    "categoryId": "sindh_high_court",
+    "categoryTitle": "Sindh High Court Jobs",
+    "icon": "gavel",
+    "description": "Junior Office Associate & Clerical Tests",
+    "subCategories": [
+      { "id": "shc_computer", "title": "Computer & MS Office Skills" },
+      { "id": "shc_english", "title": "English Vocabulary & Grammar" },
+      { "id": "shc_general", "title": "General Knowledge & Legal Concepts" }
+    ]
+  },
+  {
+    "categoryId": "university_test",
+    "categoryTitle": "University Entry Tests",
+    "icon": "account_balance",
+    "description": "Entry Tests for Sindh Universities",
+    "subCategories": [
+      { "id": "uni_physics", "title": "Physics MCQs" },
+      { "id": "uni_math", "title": "Mathematics MCQs" },
+      { "id": "uni_chemistry", "title": "Chemistry MCQs" }
+    ]
+  }
+]

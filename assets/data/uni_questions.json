@@ -1,0 +1,4804 @@
+[
+  {
+    "id": "uni_phy_001",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "SI unit of force is:",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Force is measured in Newton (N)."
+  },
+  {
+    "id": "uni_phy_002",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "SI unit of work and energy is:",
+    "options": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Ampere"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Work/energy unit is Joule."
+  },
+  {
+    "id": "uni_phy_003",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "SI unit of power is:",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Volt"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Power = work/time; unit is Watt."
+  },
+  {
+    "id": "uni_phy_004",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Acceleration due to gravity on Earth is about:",
+    "options": [
+      "1.6 m/s²",
+      "9.8 m/s²",
+      "3×10⁸ m/s",
+      "6.67×10⁻¹¹"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "g ≈ 9.8 m/s²."
+  },
+  {
+    "id": "uni_phy_005",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Speed of light in vacuum is:",
+    "options": [
+      "3×10⁶ m/s",
+      "3×10⁸ m/s",
+      "3×10¹⁰ m/s",
+      "330 m/s"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "c ≈ 3×10⁸ m/s."
+  },
+  {
+    "id": "uni_phy_006",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Ohm’s law is:",
+    "options": [
+      "V = IR",
+      "P = VI",
+      "F = ma",
+      "E = mc²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "V = IR relates voltage, current, resistance."
+  },
+  {
+    "id": "uni_phy_007",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Unit of electric current is:",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Coulomb"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Current is measured in Ampere."
+  },
+  {
+    "id": "uni_phy_008",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Unit of resistance is:",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Resistance unit is Ohm (Ω)."
+  },
+  {
+    "id": "uni_phy_009",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Frequency of a wave is measured in:",
+    "options": [
+      "Hertz",
+      "Meter",
+      "Newton",
+      "Joule"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Frequency unit is Hertz (Hz)."
+  },
+  {
+    "id": "uni_phy_010",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Sound cannot travel through:",
+    "options": [
+      "Air",
+      "Water",
+      "Steel",
+      "Vacuum"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Sound needs a medium."
+  },
+  {
+    "id": "uni_phy_011",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Light year is a unit of:",
+    "options": [
+      "Time",
+      "Distance",
+      "Speed",
+      "Energy"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "It is distance light travels in one year."
+  },
+  {
+    "id": "uni_phy_012",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Newton’s first law is also called:",
+    "options": [
+      "Law of inertia",
+      "Law of acceleration",
+      "Law of action-reaction",
+      "Law of gravitation"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "First law = inertia."
+  },
+  {
+    "id": "uni_phy_013",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Momentum formula is:",
+    "options": [
+      "mv",
+      "½mv²",
+      "mgh",
+      "Fd"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "p = mv."
+  },
+  {
+    "id": "uni_phy_014",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Kinetic energy formula is:",
+    "options": [
+      "mv",
+      "½mv²",
+      "mgh",
+      "Fd"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "KE = ½mv²."
+  },
+  {
+    "id": "uni_phy_015",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Potential energy (gravitational) is:",
+    "options": [
+      "½mv²",
+      "mgh",
+      "mv",
+      "IR"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "PE = mgh."
+  },
+  {
+    "id": "uni_phy_016",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Pressure formula is:",
+    "options": [
+      "F/A",
+      "F×A",
+      "m/v",
+      "W/t"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "P = Force/Area."
+  },
+  {
+    "id": "uni_phy_017",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "SI unit of pressure is:",
+    "options": [
+      "Newton",
+      "Pascal",
+      "Joule",
+      "Watt"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pascal (Pa) = N/m²."
+  },
+  {
+    "id": "uni_phy_018",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Density formula is:",
+    "options": [
+      "m/v",
+      "v/m",
+      "F/A",
+      "W/t"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Density = mass/volume."
+  },
+  {
+    "id": "uni_phy_019",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A scalar quantity has:",
+    "options": [
+      "Only magnitude",
+      "Only direction",
+      "Magnitude and direction",
+      "Neither"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Scalars have magnitude only."
+  },
+  {
+    "id": "uni_phy_020",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A vector quantity has:",
+    "options": [
+      "Only magnitude",
+      "Only direction",
+      "Magnitude and direction",
+      "Neither"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Vectors have both."
+  },
+  {
+    "id": "uni_phy_021",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Which is a vector?",
+    "options": [
+      "Mass",
+      "Temperature",
+      "Velocity",
+      "Speed"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Velocity has direction."
+  },
+  {
+    "id": "uni_phy_022",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Which is a scalar?",
+    "options": [
+      "Force",
+      "Acceleration",
+      "Displacement",
+      "Energy"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Energy is scalar."
+  },
+  {
+    "id": "uni_phy_023",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Mirror used in vehicles as rear-view is often:",
+    "options": [
+      "Concave",
+      "Convex",
+      "Plane only",
+      "Cylindrical only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Convex mirrors give wider field of view."
+  },
+  {
+    "id": "uni_phy_024",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Focal length of a plane mirror is:",
+    "options": [
+      "Zero",
+      "Infinity",
+      "One",
+      "Negative one"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Plane mirror focus is at infinity."
+  },
+  {
+    "id": "uni_phy_025",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Image in a plane mirror is:",
+    "options": [
+      "Real and inverted",
+      "Virtual and erect",
+      "Real and erect",
+      "Virtual and inverted"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Plane mirror forms virtual erect image."
+  },
+  {
+    "id": "uni_phy_026",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Snell’s law relates to:",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Interference"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Snell’s law is for refraction."
+  },
+  {
+    "id": "uni_phy_027",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Unit of electric charge is:",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Coulomb",
+      "Ohm"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Charge unit is Coulomb."
+  },
+  {
+    "id": "uni_phy_028",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Device that converts AC to DC is:",
+    "options": [
+      "Transformer",
+      "Rectifier",
+      "Amplifier",
+      "Oscillator"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Rectifier converts AC→DC."
+  },
+  {
+    "id": "uni_phy_029",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Transformer works on principle of:",
+    "options": [
+      "Self induction only",
+      "Mutual induction",
+      "Ohm’s law",
+      "Coulomb’s law"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mutual induction."
+  },
+  {
+    "id": "uni_phy_030",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Nuclear fission is used in:",
+    "options": [
+      "Solar cells",
+      "Nuclear reactors",
+      "LED bulbs",
+      "Batteries"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Reactors use fission."
+  },
+  {
+    "id": "uni_phy_031",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Photon is a quantum of:",
+    "options": [
+      "Sound",
+      "Light/energy",
+      "Mass",
+      "Charge"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Photon = light quantum."
+  },
+  {
+    "id": "uni_phy_032",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Escape velocity from Earth is about:",
+    "options": [
+      "11.2 km/s",
+      "3×10⁸ m/s",
+      "9.8 m/s",
+      "340 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "≈ 11.2 km/s."
+  },
+  {
+    "id": "uni_phy_033",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "First law of thermodynamics is about:",
+    "options": [
+      "Entropy",
+      "Conservation of energy",
+      "Absolute zero",
+      "Heat engines efficiency limit"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Energy conservation."
+  },
+  {
+    "id": "uni_phy_034",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Absolute zero is:",
+    "options": [
+      "0°C",
+      "0°F",
+      "−273°C approx",
+      "100°C"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "0 K ≈ −273°C."
+  },
+  {
+    "id": "uni_phy_035",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "SI unit of temperature (absolute) is:",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kelvin is SI."
+  },
+  {
+    "id": "uni_phy_036",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Capacitance unit is:",
+    "options": [
+      "Henry",
+      "Farad",
+      "Tesla",
+      "Weber"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Farad (F)."
+  },
+  {
+    "id": "uni_phy_037",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Inductance unit is:",
+    "options": [
+      "Farad",
+      "Henry",
+      "Tesla",
+      "Ohm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Henry (H)."
+  },
+  {
+    "id": "uni_phy_038",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Magnetic field unit is:",
+    "options": [
+      "Henry",
+      "Farad",
+      "Tesla",
+      "Coulomb"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Tesla (T)."
+  },
+  {
+    "id": "uni_phy_039",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Wavelength × frequency equals:",
+    "options": [
+      "Amplitude",
+      "Speed of wave",
+      "Period",
+      "Intensity"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "v = fλ."
+  },
+  {
+    "id": "uni_phy_040",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Time period T and frequency f relate as:",
+    "options": [
+      "T = f",
+      "T = 1/f",
+      "T = f²",
+      "T = 2f"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "T = 1/f."
+  },
+  {
+    "id": "uni_phy_041",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Work done is zero when force is:",
+    "options": [
+      "Parallel to displacement",
+      "Perpendicular to displacement",
+      "Along velocity",
+      "Increasing"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "W = Fd cosθ; θ=90° → 0."
+  },
+  {
+    "id": "uni_phy_042",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Power is:",
+    "options": [
+      "Work × time",
+      "Work / time",
+      "Force × time",
+      "Mass × acceleration"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "P = W/t."
+  },
+  {
+    "id": "uni_phy_043",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "1 horsepower is approximately:",
+    "options": [
+      "746 W",
+      "100 W",
+      "1000 W",
+      "76 W"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1 hp ≈ 746 W."
+  },
+  {
+    "id": "uni_phy_044",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Centroid of a uniform rod is at:",
+    "options": [
+      "One end",
+      "Midpoint",
+      "One-third point",
+      "Outside"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "At geometric center."
+  },
+  {
+    "id": "uni_phy_045",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Elastic limit is related to:",
+    "options": [
+      "Hooke’s law validity",
+      "Ohm’s law",
+      "Snell’s law",
+      "Bernoulli"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hooke’s law within elastic limit."
+  },
+  {
+    "id": "uni_phy_046",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Young’s modulus unit is:",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Same as stress: Pa."
+  },
+  {
+    "id": "uni_phy_047",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Bernoulli’s principle applies to:",
+    "options": [
+      "Static solids",
+      "Ideal fluids in flow",
+      "Only gases at rest",
+      "Only vacuums"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Fluid dynamics."
+  },
+  {
+    "id": "uni_phy_048",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Archimedes’ principle is about:",
+    "options": [
+      "Buoyancy",
+      "Gravitation",
+      "Electricity",
+      "Optics"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Buoyant force."
+  },
+  {
+    "id": "uni_phy_049",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Least count of a Vernier caliper is typically:",
+    "options": [
+      "0.01 cm / 0.1 mm",
+      "1 cm",
+      "1 m",
+      "1 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Common LC ≈ 0.01 cm."
+  },
+  {
+    "id": "uni_phy_050",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Dimensional formula of force is:",
+    "options": [
+      "MLT⁻²",
+      "MLT⁻¹",
+      "ML²T⁻²",
+      "MT⁻²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "F = ma → MLT⁻²."
+  },
+  {
+    "id": "uni_phy_051",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Dimensional formula of energy is:",
+    "options": [
+      "MLT⁻²",
+      "ML²T⁻²",
+      "MT⁻¹",
+      "L²T⁻²"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Energy → ML²T⁻²."
+  },
+  {
+    "id": "uni_phy_052",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Which color has highest wavelength in visible light?",
+    "options": [
+      "Violet",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Red has longest visible wavelength."
+  },
+  {
+    "id": "uni_phy_053",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Which color has highest frequency in visible light?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Violet"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Violet highest frequency."
+  },
+  {
+    "id": "uni_phy_054",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Rainbow formation involves:",
+    "options": [
+      "Only reflection",
+      "Dispersion and reflection/refraction",
+      "Only diffraction",
+      "Only polarization"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dispersion + reflection/refraction in droplets."
+  },
+  {
+    "id": "uni_phy_055",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Laser light is:",
+    "options": [
+      "Incoherent",
+      "Highly coherent",
+      "Only infrared",
+      "Only sound"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Lasers are coherent."
+  },
+  {
+    "id": "uni_phy_056",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Half-life relates to:",
+    "options": [
+      "Radioactivity",
+      "Optics",
+      "Acoustics only",
+      "Static friction"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Radioactive decay."
+  },
+  {
+    "id": "uni_phy_057",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Isotopes have same:",
+    "options": [
+      "Mass number",
+      "Atomic number",
+      "Neutron number always",
+      "Density always"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Same Z (atomic number)."
+  },
+  {
+    "id": "uni_phy_058",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Electron charge is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Neutral",
+      "Variable"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Electrons are negative."
+  },
+  {
+    "id": "uni_phy_059",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Proton charge is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Neutral",
+      "Zero always"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Protons positive."
+  },
+  {
+    "id": "uni_phy_060",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Neutron charge is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Neutral",
+      "Twice proton"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Neutrons are neutral."
+  },
+  {
+    "id": "uni_phy_061",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Atomic number equals number of:",
+    "options": [
+      "Neutrons",
+      "Protons",
+      "Nucleons only in ions",
+      "Photons"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Z = protons."
+  },
+  {
+    "id": "uni_phy_062",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Mass number equals:",
+    "options": [
+      "Protons only",
+      "Neutrons only",
+      "Protons + neutrons",
+      "Electrons only"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A = Z + N."
+  },
+  {
+    "id": "uni_phy_063",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "X-rays were discovered by:",
+    "options": [
+      "Newton",
+      "Röntgen",
+      "Faraday",
+      "Ohm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "W.C. Röntgen."
+  },
+  {
+    "id": "uni_phy_064",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Radio waves are:",
+    "options": [
+      "Longitudinal mechanical",
+      "Electromagnetic",
+      "Sound waves",
+      "Water waves"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "EM waves."
+  },
+  {
+    "id": "uni_phy_065",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "In series resistors, equivalent resistance:",
+    "options": [
+      "Decreases",
+      "Is sum of resistances",
+      "Is always zero",
+      "Is product only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Rs = R1+R2+..."
+  },
+  {
+    "id": "uni_phy_066",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "In parallel equal resistors, Req is:",
+    "options": [
+      "Sum",
+      "Less than smallest",
+      "Always infinite",
+      "Always zero"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parallel Req is smaller."
+  },
+  {
+    "id": "uni_phy_067",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Kirchhoff’s current law is based on:",
+    "options": [
+      "Charge conservation",
+      "Energy conservation only",
+      "Mass conservation",
+      "Momentum conservation"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ΣI = 0 at junction."
+  },
+  {
+    "id": "uni_phy_068",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Kirchhoff’s voltage law is based on:",
+    "options": [
+      "Charge conservation",
+      "Energy conservation",
+      "Mass conservation",
+      "Newton’s 3rd law"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ΣV = 0 in loop."
+  },
+  {
+    "id": "uni_phy_069",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "LED converts:",
+    "options": [
+      "Light to electricity",
+      "Electricity to light",
+      "Heat to sound",
+      "Sound to light"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Light Emitting Diode."
+  },
+  {
+    "id": "uni_phy_070",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Solar cell converts:",
+    "options": [
+      "Light to electricity",
+      "Electricity to light",
+      "Heat to sound",
+      "Sound to heat"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Photovoltaic conversion."
+  },
+  {
+    "id": "uni_phy_071",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Ammeter is connected in:",
+    "options": [
+      "Parallel",
+      "Series",
+      "Either always",
+      "Never in circuit"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Series with load."
+  },
+  {
+    "id": "uni_phy_072",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Voltmeter is connected in:",
+    "options": [
+      "Series",
+      "Parallel",
+      "Neither",
+      "Only with battery short"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Parallel across component."
+  },
+  {
+    "id": "uni_phy_073",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Ideal ammeter resistance is:",
+    "options": [
+      "Infinite",
+      "Zero",
+      "Equal to load",
+      "Equal to battery r"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Very low / ideally zero."
+  },
+  {
+    "id": "uni_phy_074",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Ideal voltmeter resistance is:",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Equal to load",
+      "1 ohm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Very high / ideally infinite."
+  },
+  {
+    "id": "uni_phy_075",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Centroid vs center of mass: for uniform gravity they:",
+    "options": [
+      "Always differ",
+      "Coincide for uniform bodies in uniform g",
+      "Never relate",
+      "Only in liquids"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "They coincide for uniform density in uniform g."
+  },
+  {
+    "id": "uni_phy_076",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Simple harmonic motion restoring force is:",
+    "options": [
+      "Constant",
+      "Proportional to displacement",
+      "Proportional to velocity²",
+      "Zero always"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "F ∝ −x."
+  },
+  {
+    "id": "uni_phy_077",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Time period of simple pendulum (small angle) depends on:",
+    "options": [
+      "Mass only",
+      "Length and g",
+      "Amplitude only",
+      "Color of bob"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "T = 2π√(L/g)."
+  },
+  {
+    "id": "uni_phy_078",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Beats are due to:",
+    "options": [
+      "Interference of close frequencies",
+      "Only reflection",
+      "Only refraction",
+      "Gravity"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Slight frequency difference."
+  },
+  {
+    "id": "uni_phy_079",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Doppler effect is change in:",
+    "options": [
+      "Observed frequency due to relative motion",
+      "Mass",
+      "Charge",
+      "Temperature only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Relative motion source/observer."
+  },
+  {
+    "id": "uni_phy_080",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Ultrasound frequency is:",
+    "options": [
+      "Below 20 Hz",
+      "20 Hz–20 kHz",
+      "Above ~20 kHz",
+      "Exactly 50 Hz"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ultrasound > audible range."
+  },
+  {
+    "id": "uni_phy_081",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Audible sound range for humans is about:",
+    "options": [
+      "0–10 Hz",
+      "20 Hz–20 kHz",
+      "Only above 1 MHz",
+      "Only DC"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Approx 20 Hz to 20 kHz."
+  },
+  {
+    "id": "uni_phy_082",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Heat transfer by electromagnetic waves is:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Osmosis"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Radiation."
+  },
+  {
+    "id": "uni_phy_083",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Good conductor of heat:",
+    "options": [
+      "Wood",
+      "Plastic",
+      "Copper",
+      "Air"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Metals like copper."
+  },
+  {
+    "id": "uni_phy_084",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Latent heat is heat for:",
+    "options": [
+      "Temperature rise only",
+      "Phase change at constant temperature",
+      "Only cooling",
+      "Only radiation"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Phase change."
+  },
+  {
+    "id": "uni_phy_085",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Boiling point of water at 1 atm is:",
+    "options": [
+      "0°C",
+      "50°C",
+      "100°C",
+      "273°C"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "100°C."
+  },
+  {
+    "id": "uni_phy_086",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Melting point of ice at 1 atm is:",
+    "options": [
+      "0°C",
+      "100°C",
+      "−100°C",
+      "32°C only in Kelvin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "0°C."
+  },
+  {
+    "id": "uni_phy_087",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Specific heat capacity unit is:",
+    "options": [
+      "J/kg·K",
+      "Newton",
+      "Watt",
+      "Ohm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Energy per mass per degree."
+  },
+  {
+    "id": "uni_phy_088",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "1 calorie is about:",
+    "options": [
+      "4.2 J",
+      "1 J",
+      "100 J",
+      "746 J"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "≈ 4.2 J."
+  },
+  {
+    "id": "uni_phy_089",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Gravitational force is:",
+    "options": [
+      "Always repulsive",
+      "Always attractive",
+      "Sometimes magnetic",
+      "Only on Earth"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Always attractive."
+  },
+  {
+    "id": "uni_phy_090",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Value of G is:",
+    "options": [
+      "9.8 m/s²",
+      "6.67×10⁻¹¹ N·m²/kg²",
+      "3×10⁸ m/s",
+      "1.6×10⁻¹⁹ C"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Universal constant G."
+  },
+  {
+    "id": "uni_phy_091",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Weight is:",
+    "options": [
+      "Same as mass",
+      "Mass × g",
+      "Mass / g",
+      "Density × volume only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "W = mg."
+  },
+  {
+    "id": "uni_phy_092",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Mass is measured in:",
+    "options": [
+      "Newton",
+      "Kilogram",
+      "Joule",
+      "Pascal"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "SI mass = kg."
+  },
+  {
+    "id": "uni_phy_093",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Inertia depends on:",
+    "options": [
+      "Velocity",
+      "Mass",
+      "Color",
+      "Temperature only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "More mass → more inertia."
+  },
+  {
+    "id": "uni_phy_094",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Action and reaction are:",
+    "options": [
+      "Equal and opposite on same body",
+      "Equal and opposite on different bodies",
+      "Unequal always",
+      "Parallel always"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Newton’s 3rd law: different bodies."
+  },
+  {
+    "id": "uni_phy_095",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Friction always:",
+    "options": [
+      "Speeds up objects",
+      "Opposes relative motion tendency",
+      "Is zero on rough surfaces",
+      "Increases mass"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Opposes relative motion."
+  },
+  {
+    "id": "uni_phy_096",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Coefficient of friction is:",
+    "options": [
+      "Dimensionless",
+      "In Newtons",
+      "In Joules",
+      "In Watts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Ratio, no units."
+  },
+  {
+    "id": "uni_phy_097",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Projectile maximum range on level ground at:",
+    "options": [
+      "0°",
+      "30°",
+      "45°",
+      "90°"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ideal case: 45°."
+  },
+  {
+    "id": "uni_phy_098",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Circular motion needs:",
+    "options": [
+      "Centripetal force",
+      "No force",
+      "Only gravity always",
+      "Only friction always"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Centripetal force toward center."
+  },
+  {
+    "id": "uni_phy_099",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Angular velocity unit is:",
+    "options": [
+      "m/s",
+      "rad/s",
+      "N·m",
+      "Joule"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "rad/s."
+  },
+  {
+    "id": "uni_phy_100",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Torque formula is:",
+    "options": [
+      "rF sinθ",
+      "mv",
+      "½mv²",
+      "IR"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "τ = rF sinθ."
+  },
+  {
+    "id": "uni_phy_101",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Moment of inertia depends on:",
+    "options": [
+      "Mass distribution about axis",
+      "Color",
+      "Charge only",
+      "Temperature only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "I depends on mass distribution."
+  },
+  {
+    "id": "uni_phy_102",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Conservation of momentum holds when:",
+    "options": [
+      "Net external force is zero",
+      "Friction is maximum",
+      "Always in open systems with external force",
+      "Only for photons"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "No net external force."
+  },
+  {
+    "id": "uni_phy_103",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "eV is a unit of:",
+    "options": [
+      "Charge",
+      "Energy",
+      "Current",
+      "Resistance"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Electron-volt = energy."
+  },
+  {
+    "id": "uni_phy_104",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Binding energy relates to:",
+    "options": [
+      "Nuclear stability",
+      "Only optics",
+      "Only sound",
+      "Only friction"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Nuclear binding energy."
+  },
+  {
+    "id": "uni_phy_105",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Moderator in nuclear reactor:",
+    "options": [
+      "Speeds up neutrons",
+      "Slows down neutrons",
+      "Removes fuel",
+      "Produces only X-rays"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Slows neutrons for fission."
+  },
+  {
+    "id": "uni_phy_106",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "Control rods in reactor:",
+    "options": [
+      "Absorb neutrons",
+      "Produce fuel",
+      "Cool only water",
+      "Generate electricity directly"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Absorb neutrons to control rate."
+  },
+  {
+    "id": "uni_phy_e002",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 2 N acts on a mass of 2 kg. Acceleration is:",
+    "options": [
+      "2 m/s²",
+      "1 m/s²",
+      "4 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e003",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 3 N acts on a mass of 3 kg. Acceleration is:",
+    "options": [
+      "3 m/s²",
+      "1 m/s²",
+      "9 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e004",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 4 N acts on a mass of 4 kg. Acceleration is:",
+    "options": [
+      "4 m/s²",
+      "1 m/s²",
+      "16 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e005",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 5 N acts on a mass of 5 kg. Acceleration is:",
+    "options": [
+      "5 m/s²",
+      "1 m/s²",
+      "25 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e006",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 6 N acts on a mass of 6 kg. Acceleration is:",
+    "options": [
+      "6 m/s²",
+      "1 m/s²",
+      "36 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e007",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 7 N acts on a mass of 7 kg. Acceleration is:",
+    "options": [
+      "7 m/s²",
+      "1 m/s²",
+      "49 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e008",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 8 N acts on a mass of 8 kg. Acceleration is:",
+    "options": [
+      "8 m/s²",
+      "1 m/s²",
+      "64 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e009",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 9 N acts on a mass of 9 kg. Acceleration is:",
+    "options": [
+      "9 m/s²",
+      "1 m/s²",
+      "81 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e010",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 10 N acts on a mass of 10 kg. Acceleration is:",
+    "options": [
+      "10 m/s²",
+      "1 m/s²",
+      "100 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e011",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 11 N acts on a mass of 11 kg. Acceleration is:",
+    "options": [
+      "11 m/s²",
+      "1 m/s²",
+      "121 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e012",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 12 N acts on a mass of 12 kg. Acceleration is:",
+    "options": [
+      "12 m/s²",
+      "1 m/s²",
+      "144 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e013",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 13 N acts on a mass of 13 kg. Acceleration is:",
+    "options": [
+      "13 m/s²",
+      "1 m/s²",
+      "169 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e014",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 14 N acts on a mass of 14 kg. Acceleration is:",
+    "options": [
+      "14 m/s²",
+      "1 m/s²",
+      "196 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_phy_e015",
+    "categoryId": "university_test",
+    "subjectId": "uni_physics",
+    "question": "A force of 15 N acts on a mass of 15 kg. Acceleration is:",
+    "options": [
+      "15 m/s²",
+      "1 m/s²",
+      "225 m/s²",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a = F/m = n/n = 1 m/s²."
+  },
+  {
+    "id": "uni_math_001",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 2 + 5 = ?",
+    "options": [
+      "7",
+      "10",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2+5=7."
+  },
+  {
+    "id": "uni_math_002",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 3 + 6 = ?",
+    "options": [
+      "9",
+      "18",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "3+6=9."
+  },
+  {
+    "id": "uni_math_003",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 4 + 7 = ?",
+    "options": [
+      "11",
+      "28",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "4+7=11."
+  },
+  {
+    "id": "uni_math_004",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 5 + 8 = ?",
+    "options": [
+      "13",
+      "40",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "5+8=13."
+  },
+  {
+    "id": "uni_math_005",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 6 + 9 = ?",
+    "options": [
+      "15",
+      "54",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "6+9=15."
+  },
+  {
+    "id": "uni_math_006",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 7 + 10 = ?",
+    "options": [
+      "17",
+      "70",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "7+10=17."
+  },
+  {
+    "id": "uni_math_007",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 8 + 11 = ?",
+    "options": [
+      "19",
+      "88",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "8+11=19."
+  },
+  {
+    "id": "uni_math_008",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 9 + 12 = ?",
+    "options": [
+      "21",
+      "108",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "9+12=21."
+  },
+  {
+    "id": "uni_math_009",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 10 + 13 = ?",
+    "options": [
+      "23",
+      "130",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "10+13=23."
+  },
+  {
+    "id": "uni_math_010",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 11 + 14 = ?",
+    "options": [
+      "25",
+      "154",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "11+14=25."
+  },
+  {
+    "id": "uni_math_011",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 12 + 15 = ?",
+    "options": [
+      "27",
+      "180",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "12+15=27."
+  },
+  {
+    "id": "uni_math_012",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 13 + 16 = ?",
+    "options": [
+      "29",
+      "208",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "13+16=29."
+  },
+  {
+    "id": "uni_math_013",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 14 + 17 = ?",
+    "options": [
+      "31",
+      "238",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "14+17=31."
+  },
+  {
+    "id": "uni_math_014",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 15 + 18 = ?",
+    "options": [
+      "33",
+      "270",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "15+18=33."
+  },
+  {
+    "id": "uni_math_015",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 16 + 19 = ?",
+    "options": [
+      "35",
+      "304",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "16+19=35."
+  },
+  {
+    "id": "uni_math_016",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 17 + 20 = ?",
+    "options": [
+      "37",
+      "340",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "17+20=37."
+  },
+  {
+    "id": "uni_math_017",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 18 + 21 = ?",
+    "options": [
+      "39",
+      "378",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "18+21=39."
+  },
+  {
+    "id": "uni_math_018",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 19 + 22 = ?",
+    "options": [
+      "41",
+      "418",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "19+22=41."
+  },
+  {
+    "id": "uni_math_019",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 20 + 23 = ?",
+    "options": [
+      "43",
+      "460",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "20+23=43."
+  },
+  {
+    "id": "uni_math_020",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simplify: 21 + 24 = ?",
+    "options": [
+      "45",
+      "504",
+      "3",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "21+24=45."
+  },
+  {
+    "id": "uni_math_021",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "3 × 2 = ?",
+    "options": [
+      "6",
+      "5",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "3×2=6."
+  },
+  {
+    "id": "uni_math_022",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "4 × 2 = ?",
+    "options": [
+      "8",
+      "6",
+      "2",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "4×2=8."
+  },
+  {
+    "id": "uni_math_023",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "5 × 2 = ?",
+    "options": [
+      "10",
+      "7",
+      "3",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "5×2=10."
+  },
+  {
+    "id": "uni_math_024",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "6 × 2 = ?",
+    "options": [
+      "12",
+      "8",
+      "4",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "6×2=12."
+  },
+  {
+    "id": "uni_math_025",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "7 × 2 = ?",
+    "options": [
+      "14",
+      "9",
+      "5",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "7×2=14."
+  },
+  {
+    "id": "uni_math_026",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "8 × 2 = ?",
+    "options": [
+      "16",
+      "10",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "8×2=16."
+  },
+  {
+    "id": "uni_math_027",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "9 × 2 = ?",
+    "options": [
+      "18",
+      "11",
+      "7",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "9×2=18."
+  },
+  {
+    "id": "uni_math_028",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "10 × 2 = ?",
+    "options": [
+      "20",
+      "12",
+      "8",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "10×2=20."
+  },
+  {
+    "id": "uni_math_029",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "11 × 2 = ?",
+    "options": [
+      "22",
+      "13",
+      "9",
+      "11"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "11×2=22."
+  },
+  {
+    "id": "uni_math_030",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "12 × 2 = ?",
+    "options": [
+      "24",
+      "14",
+      "10",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "12×2=24."
+  },
+  {
+    "id": "uni_math_031",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "13 × 2 = ?",
+    "options": [
+      "26",
+      "15",
+      "11",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "13×2=26."
+  },
+  {
+    "id": "uni_math_032",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "14 × 2 = ?",
+    "options": [
+      "28",
+      "16",
+      "12",
+      "14"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "14×2=28."
+  },
+  {
+    "id": "uni_math_033",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "15 × 2 = ?",
+    "options": [
+      "30",
+      "17",
+      "13",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "15×2=30."
+  },
+  {
+    "id": "uni_math_034",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "16 × 2 = ?",
+    "options": [
+      "32",
+      "18",
+      "14",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "16×2=32."
+  },
+  {
+    "id": "uni_math_035",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "17 × 2 = ?",
+    "options": [
+      "34",
+      "19",
+      "15",
+      "17"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "17×2=34."
+  },
+  {
+    "id": "uni_math_036",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "18 × 2 = ?",
+    "options": [
+      "36",
+      "20",
+      "16",
+      "18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "18×2=36."
+  },
+  {
+    "id": "uni_math_037",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "19 × 2 = ?",
+    "options": [
+      "38",
+      "21",
+      "17",
+      "19"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "19×2=38."
+  },
+  {
+    "id": "uni_math_038",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "20 × 2 = ?",
+    "options": [
+      "40",
+      "22",
+      "18",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "20×2=40."
+  },
+  {
+    "id": "uni_math_039",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "21 × 2 = ?",
+    "options": [
+      "42",
+      "23",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "21×2=42."
+  },
+  {
+    "id": "uni_math_040",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "22 × 2 = ?",
+    "options": [
+      "44",
+      "24",
+      "20",
+      "22"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "22×2=44."
+  },
+  {
+    "id": "uni_math_041",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "10% of 200 = ?",
+    "options": [
+      "20",
+      "10",
+      "190",
+      "100"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "10% of 200 = 20."
+  },
+  {
+    "id": "uni_math_042",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "12% of 200 = ?",
+    "options": [
+      "24",
+      "12",
+      "188",
+      "120"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "12% of 200 = 24."
+  },
+  {
+    "id": "uni_math_043",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "14% of 200 = ?",
+    "options": [
+      "28",
+      "14",
+      "186",
+      "140"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "14% of 200 = 28."
+  },
+  {
+    "id": "uni_math_044",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "16% of 200 = ?",
+    "options": [
+      "32",
+      "16",
+      "184",
+      "160"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "16% of 200 = 32."
+  },
+  {
+    "id": "uni_math_045",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "18% of 200 = ?",
+    "options": [
+      "36",
+      "18",
+      "182",
+      "180"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "18% of 200 = 36."
+  },
+  {
+    "id": "uni_math_046",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "20% of 200 = ?",
+    "options": [
+      "40",
+      "20",
+      "180",
+      "200"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "20% of 200 = 40."
+  },
+  {
+    "id": "uni_math_047",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "22% of 200 = ?",
+    "options": [
+      "44",
+      "22",
+      "178",
+      "220"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "22% of 200 = 44."
+  },
+  {
+    "id": "uni_math_048",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "24% of 200 = ?",
+    "options": [
+      "48",
+      "24",
+      "176",
+      "240"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "24% of 200 = 48."
+  },
+  {
+    "id": "uni_math_049",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "26% of 200 = ?",
+    "options": [
+      "52",
+      "26",
+      "174",
+      "260"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "26% of 200 = 52."
+  },
+  {
+    "id": "uni_math_050",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "28% of 200 = ?",
+    "options": [
+      "56",
+      "28",
+      "172",
+      "280"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "28% of 200 = 56."
+  },
+  {
+    "id": "uni_math_051",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "30% of 200 = ?",
+    "options": [
+      "60",
+      "30",
+      "170",
+      "300"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "30% of 200 = 60."
+  },
+  {
+    "id": "uni_math_052",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "32% of 200 = ?",
+    "options": [
+      "64",
+      "32",
+      "168",
+      "320"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "32% of 200 = 64."
+  },
+  {
+    "id": "uni_math_053",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "34% of 200 = ?",
+    "options": [
+      "68",
+      "34",
+      "166",
+      "340"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "34% of 200 = 68."
+  },
+  {
+    "id": "uni_math_054",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "36% of 200 = ?",
+    "options": [
+      "72",
+      "36",
+      "164",
+      "360"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "36% of 200 = 72."
+  },
+  {
+    "id": "uni_math_055",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "38% of 200 = ?",
+    "options": [
+      "76",
+      "38",
+      "162",
+      "380"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "38% of 200 = 76."
+  },
+  {
+    "id": "uni_math_056",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√12 = ?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 12 is 4."
+  },
+  {
+    "id": "uni_math_057",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√18 = ?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 18 is 6."
+  },
+  {
+    "id": "uni_math_058",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√25 = ?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 25 is 5."
+  },
+  {
+    "id": "uni_math_059",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√36 = ?",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 36 is 9."
+  },
+  {
+    "id": "uni_math_060",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√49 = ?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 49 is 7."
+  },
+  {
+    "id": "uni_math_061",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√64 = ?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "32"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 64 is 8."
+  },
+  {
+    "id": "uni_math_062",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√81 = ?",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 81 is 9."
+  },
+  {
+    "id": "uni_math_063",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√100 = ?",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "50"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 100 is 10."
+  },
+  {
+    "id": "uni_math_064",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√121 = ?",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "60"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 121 is 11."
+  },
+  {
+    "id": "uni_math_065",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "√144 = ?",
+    "options": [
+      "12",
+      "13",
+      "11",
+      "72"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Square root of 144 is 12."
+  },
+  {
+    "id": "uni_math_066",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 4, then x = ?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=2."
+  },
+  {
+    "id": "uni_math_067",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 6, then x = ?",
+    "options": [
+      "3",
+      "6",
+      "1",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=3."
+  },
+  {
+    "id": "uni_math_068",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 8, then x = ?",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=4."
+  },
+  {
+    "id": "uni_math_069",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 10, then x = ?",
+    "options": [
+      "5",
+      "10",
+      "2",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=5."
+  },
+  {
+    "id": "uni_math_070",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 12, then x = ?",
+    "options": [
+      "6",
+      "12",
+      "3",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=6."
+  },
+  {
+    "id": "uni_math_071",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 14, then x = ?",
+    "options": [
+      "7",
+      "14",
+      "3",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=7."
+  },
+  {
+    "id": "uni_math_072",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 16, then x = ?",
+    "options": [
+      "8",
+      "16",
+      "4",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=8."
+  },
+  {
+    "id": "uni_math_073",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 18, then x = ?",
+    "options": [
+      "9",
+      "18",
+      "4",
+      "11"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=9."
+  },
+  {
+    "id": "uni_math_074",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 20, then x = ?",
+    "options": [
+      "10",
+      "20",
+      "5",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=10."
+  },
+  {
+    "id": "uni_math_075",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If 2x = 22, then x = ?",
+    "options": [
+      "11",
+      "22",
+      "5",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=11."
+  },
+  {
+    "id": "uni_math_076",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 3 and 5 is:",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 4."
+  },
+  {
+    "id": "uni_math_077",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 4 and 6 is:",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 5."
+  },
+  {
+    "id": "uni_math_078",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 5 and 7 is:",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 6."
+  },
+  {
+    "id": "uni_math_079",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 6 and 8 is:",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 7."
+  },
+  {
+    "id": "uni_math_080",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 7 and 9 is:",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "14"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 8."
+  },
+  {
+    "id": "uni_math_081",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 8 and 10 is:",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 9."
+  },
+  {
+    "id": "uni_math_082",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 9 and 11 is:",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 10."
+  },
+  {
+    "id": "uni_math_083",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 10 and 12 is:",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 11."
+  },
+  {
+    "id": "uni_math_084",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 11 and 13 is:",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "22"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 12."
+  },
+  {
+    "id": "uni_math_085",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 12 and 14 is:",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 13."
+  },
+  {
+    "id": "uni_math_086",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 13 and 15 is:",
+    "options": [
+      "14",
+      "13",
+      "15",
+      "26"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 14."
+  },
+  {
+    "id": "uni_math_087",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Average of 14 and 16 is:",
+    "options": [
+      "15",
+      "14",
+      "16",
+      "28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Average = 15."
+  },
+  {
+    "id": "uni_math_088",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "In right triangle, sides 3 and 4; hypotenuse is:",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras: √(3²+4²)=5."
+  },
+  {
+    "id": "uni_math_089",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "In right triangle, sides 5 and 12; hypotenuse is:",
+    "options": [
+      "13",
+      "17",
+      "60",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras: √(5²+12²)=13."
+  },
+  {
+    "id": "uni_math_090",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "In right triangle, sides 6 and 8; hypotenuse is:",
+    "options": [
+      "10",
+      "14",
+      "48",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras: √(6²+8²)=10."
+  },
+  {
+    "id": "uni_math_091",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "In right triangle, sides 7 and 24; hypotenuse is:",
+    "options": [
+      "25",
+      "31",
+      "168",
+      "17"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras: √(7²+24²)=25."
+  },
+  {
+    "id": "uni_math_092",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "In right triangle, sides 8 and 15; hypotenuse is:",
+    "options": [
+      "17",
+      "23",
+      "120",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras: √(8²+15²)=17."
+  },
+  {
+    "id": "uni_math_093",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "In right triangle, sides 9 and 12; hypotenuse is:",
+    "options": [
+      "15",
+      "21",
+      "108",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras: √(9²+12²)=15."
+  },
+  {
+    "id": "uni_math_094",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "In right triangle, sides 9 and 40; hypotenuse is:",
+    "options": [
+      "41",
+      "49",
+      "360",
+      "31"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras: √(9²+40²)=41."
+  },
+  {
+    "id": "uni_math_095",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "In right triangle, sides 11 and 60; hypotenuse is:",
+    "options": [
+      "61",
+      "71",
+      "660",
+      "49"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras: √(11²+60²)=61."
+  },
+  {
+    "id": "uni_math_096",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simple interest on 1000 at 10% for 2 year(s) is:",
+    "options": [
+      "200",
+      "1000",
+      "20",
+      "1200"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "SI=PRT/100=200."
+  },
+  {
+    "id": "uni_math_097",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simple interest on 500 at 5% for 4 year(s) is:",
+    "options": [
+      "100",
+      "500",
+      "20",
+      "600"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "SI=PRT/100=100."
+  },
+  {
+    "id": "uni_math_098",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simple interest on 2000 at 8% for 1 year(s) is:",
+    "options": [
+      "160",
+      "2000",
+      "8",
+      "2160"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "SI=PRT/100=160."
+  },
+  {
+    "id": "uni_math_099",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simple interest on 1500 at 12% for 2 year(s) is:",
+    "options": [
+      "360",
+      "1500",
+      "24",
+      "1860"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "SI=PRT/100=360."
+  },
+  {
+    "id": "uni_math_100",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Simple interest on 2500 at 4% for 3 year(s) is:",
+    "options": [
+      "300",
+      "2500",
+      "12",
+      "2800"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "SI=PRT/100=300."
+  },
+  {
+    "id": "uni_math_101",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Ratio 2:3 equals:",
+    "options": [
+      "2/3",
+      "3/2",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2:3 = 2/3."
+  },
+  {
+    "id": "uni_math_102",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Ratio 3:5 equals:",
+    "options": [
+      "3/5",
+      "5/3",
+      "8",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "3:5 = 3/5."
+  },
+  {
+    "id": "uni_math_103",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Ratio 4:7 equals:",
+    "options": [
+      "4/7",
+      "7/4",
+      "11",
+      "28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "4:7 = 4/7."
+  },
+  {
+    "id": "uni_math_104",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Ratio 5:8 equals:",
+    "options": [
+      "5/8",
+      "8/5",
+      "13",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "5:8 = 5/8."
+  },
+  {
+    "id": "uni_math_105",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Ratio 6:9 equals:",
+    "options": [
+      "6/9",
+      "9/6",
+      "15",
+      "54"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "6:9 = 6/9."
+  },
+  {
+    "id": "uni_math_106",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Derivative of x² is:",
+    "options": [
+      "2x",
+      "x",
+      "x³",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "d/dx(x²)=2x."
+  },
+  {
+    "id": "uni_math_107",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Derivative of sin x is:",
+    "options": [
+      "cos x",
+      "−cos x",
+      "sin x",
+      "−sin x"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "d/dx(sin x)=cos x."
+  },
+  {
+    "id": "uni_math_108",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Integral of 2x dx is:",
+    "options": [
+      "x² + C",
+      "2x² + C",
+      "x + C",
+      "2 + C"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "∫2x dx = x²+C."
+  },
+  {
+    "id": "uni_math_109",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "log(ab) equals:",
+    "options": [
+      "log a + log b",
+      "log a − log b",
+      "log a × log b",
+      "a log b"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "log product rule."
+  },
+  {
+    "id": "uni_math_110",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "If A={1,2}, |A| is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cardinality is 2."
+  },
+  {
+    "id": "uni_math_111",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Slope of line y=3x+2 is:",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Slope is coefficient of x."
+  },
+  {
+    "id": "uni_math_112",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Distance between (0,0) and (3,4) is:",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "√(9+16)=5."
+  },
+  {
+    "id": "uni_math_113",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Determinant of [[1,0],[0,1]] is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "−1"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Identity matrix det=1."
+  },
+  {
+    "id": "uni_math_114",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Sum of angles in a triangle is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Always 180°."
+  },
+  {
+    "id": "uni_math_115",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "A circle has radius 7; diameter is:",
+    "options": [
+      "7",
+      "14",
+      "21",
+      "49"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "d=2r=14."
+  },
+  {
+    "id": "uni_math_116",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Area of circle radius r is:",
+    "options": [
+      "πr²",
+      "2πr",
+      "πd",
+      "r²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A=πr²."
+  },
+  {
+    "id": "uni_math_117",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Perimeter of rectangle l=5,w=3 is:",
+    "options": [
+      "8",
+      "15",
+      "16",
+      "30"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "2(l+w)=16."
+  },
+  {
+    "id": "uni_math_118",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "Solve: x²=49; positive x is:",
+    "options": [
+      "7",
+      "9",
+      "14",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x=7."
+  },
+  {
+    "id": "uni_math_119",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "HCF of 12 and 18 is:",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "HCF=6."
+  },
+  {
+    "id": "uni_math_120",
+    "categoryId": "university_test",
+    "subjectId": "uni_math",
+    "question": "LCM of 4 and 6 is:",
+    "options": [
+      "10",
+      "12",
+      "24",
+      "6"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "LCM=12."
+  },
+  {
+    "id": "uni_chem_001",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Atomic number of Hydrogen is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hydrogen Z=1."
+  },
+  {
+    "id": "uni_chem_002",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Atomic number of Carbon is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Carbon Z=6."
+  },
+  {
+    "id": "uni_chem_003",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Atomic number of Oxygen is:",
+    "options": [
+      "6",
+      "8",
+      "16",
+      "18"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Oxygen Z=8."
+  },
+  {
+    "id": "uni_chem_004",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Chemical formula of water is:",
+    "options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "H2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Water is H₂O."
+  },
+  {
+    "id": "uni_chem_005",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Chemical formula of carbon dioxide is:",
+    "options": [
+      "CO",
+      "CO2",
+      "C2O",
+      "O2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "CO₂."
+  },
+  {
+    "id": "uni_chem_006",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "pH of neutral solution at 25°C is:",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Neutral pH=7."
+  },
+  {
+    "id": "uni_chem_007",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Acids have pH:",
+    "options": [
+      "Less than 7",
+      "Equal to 7",
+      "Greater than 7",
+      "Exactly 14"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Acidic pH<7."
+  },
+  {
+    "id": "uni_chem_008",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Bases have pH:",
+    "options": [
+      "Less than 7",
+      "Equal to 7",
+      "Greater than 7",
+      "Exactly 0"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Basic pH>7."
+  },
+  {
+    "id": "uni_chem_009",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "NaCl is commonly called:",
+    "options": [
+      "Baking soda",
+      "Common salt",
+      "Caustic soda",
+      "Lime"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Table/common salt."
+  },
+  {
+    "id": "uni_chem_010",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Baking soda is:",
+    "options": [
+      "NaHCO3",
+      "NaCl",
+      "NaOH",
+      "CaCO3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sodium bicarbonate."
+  },
+  {
+    "id": "uni_chem_011",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Caustic soda is:",
+    "options": [
+      "NaOH",
+      "NaCl",
+      "HCl",
+      "H2SO4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sodium hydroxide."
+  },
+  {
+    "id": "uni_chem_012",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Most abundant gas in air is:",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "CO2",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "≈78% nitrogen."
+  },
+  {
+    "id": "uni_chem_013",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Gas essential for combustion/respiration:",
+    "options": [
+      "N2",
+      "O2",
+      "CO2",
+      "Ar"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Oxygen."
+  },
+  {
+    "id": "uni_chem_014",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Photosynthesis produces:",
+    "options": [
+      "O2",
+      "Only N2",
+      "Only SO2",
+      "Only He"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Plants release O₂."
+  },
+  {
+    "id": "uni_chem_015",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Atomic mass unit standard is based on:",
+    "options": [
+      "H-1",
+      "C-12",
+      "O-16 only historically now unused",
+      "U-238"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Carbon-12 standard."
+  },
+  {
+    "id": "uni_chem_016",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Isotopes differ in:",
+    "options": [
+      "Atomic number",
+      "Mass number / neutrons",
+      "Electron charge sign",
+      "Proton charge"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Different neutrons/mass."
+  },
+  {
+    "id": "uni_chem_017",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Avogadro’s number is about:",
+    "options": [
+      "6.022×10²³",
+      "3×10⁸",
+      "9.8",
+      "1.6×10⁻¹⁹"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Particles per mole."
+  },
+  {
+    "id": "uni_chem_018",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "One mole of any gas at STP occupies about:",
+    "options": [
+      "1 L",
+      "22.4 L",
+      "100 L",
+      "0.1 L"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Molar volume ≈22.4 L."
+  },
+  {
+    "id": "uni_chem_019",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Periodic table was largely developed by:",
+    "options": [
+      "Dalton",
+      "Mendeleev",
+      "Bohr only",
+      "Rutherford only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mendeleev."
+  },
+  {
+    "id": "uni_chem_020",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Group 18 elements are:",
+    "options": [
+      "Alkali metals",
+      "Halogens",
+      "Noble gases",
+      "Alkaline earth"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Noble gases."
+  },
+  {
+    "id": "uni_chem_021",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Halogens are in group:",
+    "options": [
+      "1",
+      "2",
+      "17",
+      "18"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Group 17."
+  },
+  {
+    "id": "uni_chem_022",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Alkali metals are in group:",
+    "options": [
+      "1",
+      "2",
+      "17",
+      "18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Group 1."
+  },
+  {
+    "id": "uni_chem_023",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Valency of oxygen in water is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Oxygen forms two bonds in H₂O."
+  },
+  {
+    "id": "uni_chem_024",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Ionic bond involves:",
+    "options": [
+      "Electron sharing",
+      "Electron transfer",
+      "Only neutrons",
+      "Only photons"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Transfer of electrons."
+  },
+  {
+    "id": "uni_chem_025",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Covalent bond involves:",
+    "options": [
+      "Electron sharing",
+      "Electron transfer only",
+      "Only metallic lattice",
+      "Nuclear fusion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing electrons."
+  },
+  {
+    "id": "uni_chem_026",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Oxidation involves:",
+    "options": [
+      "Gain of electrons",
+      "Loss of electrons",
+      "Gain of protons only",
+      "Loss of neutrons only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Loss of e⁻."
+  },
+  {
+    "id": "uni_chem_027",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Reduction involves:",
+    "options": [
+      "Loss of electrons",
+      "Gain of electrons",
+      "Loss of protons only",
+      "Gain of neutrons only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Gain of e⁻."
+  },
+  {
+    "id": "uni_chem_028",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Catalyst:",
+    "options": [
+      "Is consumed permanently",
+      "Speeds reaction, not consumed permanently",
+      "Always stops reaction",
+      "Changes ΔH always to zero"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Provides alternate path."
+  },
+  {
+    "id": "uni_chem_029",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Endothermic reaction:",
+    "options": [
+      "Releases heat",
+      "Absorbs heat",
+      "Has no energy change",
+      "Only at 0 K"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Absorbs heat."
+  },
+  {
+    "id": "uni_chem_030",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Exothermic reaction:",
+    "options": [
+      "Absorbs heat",
+      "Releases heat",
+      "Needs light only",
+      "Never occurs"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Releases heat."
+  },
+  {
+    "id": "uni_chem_031",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Strong acid example:",
+    "options": [
+      "HCl",
+      "H2O",
+      "NaCl",
+      "CH4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hydrochloric acid."
+  },
+  {
+    "id": "uni_chem_032",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Strong base example:",
+    "options": [
+      "NaOH",
+      "HCl",
+      "CO2",
+      "N2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sodium hydroxide."
+  },
+  {
+    "id": "uni_chem_033",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Litmus in acid turns:",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Black"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Blue litmus → red in acid."
+  },
+  {
+    "id": "uni_chem_034",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Litmus in base turns:",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Black"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Red litmus → blue in base."
+  },
+  {
+    "id": "uni_chem_035",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Organic chemistry mainly studies:",
+    "options": [
+      "Carbon compounds",
+      "Only metals",
+      "Only noble gases",
+      "Only nuclear reactions"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Carbon chemistry."
+  },
+  {
+    "id": "uni_chem_036",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Functional group in alcohols is:",
+    "options": [
+      "−OH",
+      "−COOH",
+      "−CHO",
+      "−NH2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hydroxyl group."
+  },
+  {
+    "id": "uni_chem_037",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Functional group in carboxylic acids is:",
+    "options": [
+      "−OH",
+      "−COOH",
+      "−CHO",
+      "C=C"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Carboxyl group."
+  },
+  {
+    "id": "uni_chem_038",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Methane formula is:",
+    "options": [
+      "CH4",
+      "C2H6",
+      "C2H4",
+      "C6H6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "CH₄."
+  },
+  {
+    "id": "uni_chem_039",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Ethene is:",
+    "options": [
+      "C2H6",
+      "C2H4",
+      "C2H2",
+      "CH4"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "C₂H₄ alkene."
+  },
+  {
+    "id": "uni_chem_040",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Benzene formula is:",
+    "options": [
+      "C6H6",
+      "C6H12",
+      "C6H14",
+      "CH4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "C₆H₆."
+  },
+  {
+    "id": "uni_chem_041",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Hard water contains mainly salts of:",
+    "options": [
+      "Na only",
+      "Ca and Mg",
+      "He only",
+      "Ne only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ca²⁺/Mg²⁺ salts."
+  },
+  {
+    "id": "uni_chem_042",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Softening of water removes:",
+    "options": [
+      "Dissolved Ca/Mg hardness",
+      "All oxygen",
+      "All nitrogen",
+      "All hydrogen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Removes hardness ions."
+  },
+  {
+    "id": "uni_chem_043",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Ozone formula is:",
+    "options": [
+      "O2",
+      "O3",
+      "O4",
+      "O"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "O₃."
+  },
+  {
+    "id": "uni_chem_044",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Ozone layer protects from:",
+    "options": [
+      "Infrared only",
+      "Harmful UV radiation",
+      "Only sound",
+      "Only gravity"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Absorbs UV."
+  },
+  {
+    "id": "uni_chem_045",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Rusting of iron needs:",
+    "options": [
+      "Only oil",
+      "Oxygen and moisture",
+      "Only nitrogen",
+      "Only helium"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "O₂ + H₂O."
+  },
+  {
+    "id": "uni_chem_046",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Galvanization coats iron with:",
+    "options": [
+      "Zinc",
+      "Gold only",
+      "Helium",
+      "Nitrogen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Zn coating."
+  },
+  {
+    "id": "uni_chem_047",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Allotropes of carbon include:",
+    "options": [
+      "Diamond and graphite",
+      "Only NaCl",
+      "Only water",
+      "Only ozone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Different forms of C."
+  },
+  {
+    "id": "uni_chem_048",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Graphite is a good:",
+    "options": [
+      "Insulator of electricity",
+      "Conductor of electricity",
+      "Noble gas",
+      "Halogen"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Delocalized electrons."
+  },
+  {
+    "id": "uni_chem_049",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Diamond is hard due to:",
+    "options": [
+      "Ionic lattice of NaCl type",
+      "Strong covalent network",
+      "Metallic bonding only",
+      "Hydrogen bonding only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3D covalent network."
+  },
+  {
+    "id": "uni_chem_050",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Electronegativity is highest for:",
+    "options": [
+      "Francium",
+      "Fluorine",
+      "Cesium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "F is most electronegative."
+  },
+  {
+    "id": "uni_chem_051",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Ionization energy generally increases:",
+    "options": [
+      "Down a group",
+      "Across a period (left to right)",
+      "Randomly",
+      "Only for metals"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Across period generally increases."
+  },
+  {
+    "id": "uni_chem_052",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Atomic size generally decreases:",
+    "options": [
+      "Across a period",
+      "Down a group",
+      "For all ions equally",
+      "Never"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Across period Zeff increases."
+  },
+  {
+    "id": "uni_chem_053",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Buffer solution resists:",
+    "options": [
+      "Change in temperature only",
+      "Change in pH",
+      "Change in mass",
+      "Change in volume only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Stabilizes pH."
+  },
+  {
+    "id": "uni_chem_054",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Molarity is:",
+    "options": [
+      "Moles of solute / liter of solution",
+      "Moles / kg solvent",
+      "Grams / mole",
+      "Liters / mole"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "mol/L."
+  },
+  {
+    "id": "uni_chem_055",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Molality is:",
+    "options": [
+      "Moles / liter solution",
+      "Moles / kg solvent",
+      "Grams / liter",
+      "Normality only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "mol/kg solvent."
+  },
+  {
+    "id": "uni_chem_056",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Normality relates to:",
+    "options": [
+      "Equivalents per liter",
+      "Only moles of solvent",
+      "Only density",
+      "Only viscosity"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "eq/L."
+  },
+  {
+    "id": "uni_chem_057",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "First organic compound synthesized (Wohler) historically associated with:",
+    "options": [
+      "Urea",
+      "DNA",
+      "PVC",
+      "Nylon only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Urea from ammonium cyanate."
+  },
+  {
+    "id": "uni_chem_058",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Enzyme is a:",
+    "options": [
+      "Biological catalyst",
+      "Strong acid only",
+      "Noble gas",
+      "Radioisotope only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Protein catalyst."
+  },
+  {
+    "id": "uni_chem_059",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Polymer example:",
+    "options": [
+      "Polythene",
+      "NaCl",
+      "H2O",
+      "O2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Long-chain polymer."
+  },
+  {
+    "id": "uni_chem_060",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Monomer of polythene is:",
+    "options": [
+      "Ethene",
+      "Methane",
+      "Benzene",
+      "Glucose"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Ethene (ethylene)."
+  },
+  {
+    "id": "uni_chem_061",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Saponification produces:",
+    "options": [
+      "Soap",
+      "Only glass",
+      "Only steel",
+      "Only ozone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Soap from fats/oils + alkali."
+  },
+  {
+    "id": "uni_chem_062",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Vinegar contains mainly:",
+    "options": [
+      "Acetic acid",
+      "HCl",
+      "H2SO4",
+      "NaOH"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "CH₃COOH dilute."
+  },
+  {
+    "id": "uni_chem_063",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Glucose formula is:",
+    "options": [
+      "C6H12O6",
+      "C12H22O11",
+      "CH4",
+      "C2H5OH"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Monosaccharide."
+  },
+  {
+    "id": "uni_chem_064",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Sucrose is a:",
+    "options": [
+      "Monosaccharide",
+      "Disaccharide",
+      "Amino acid",
+      "Lipid only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Glucose+fructose."
+  },
+  {
+    "id": "uni_chem_065",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Proteins are polymers of:",
+    "options": [
+      "Amino acids",
+      "Glucose only",
+      "Fatty acids only",
+      "Nucleotides only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amino acids."
+  },
+  {
+    "id": "uni_chem_066",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "DNA stores:",
+    "options": [
+      "Genetic information",
+      "Only fats",
+      "Only starch",
+      "Only metals"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Genetic material."
+  },
+  {
+    "id": "uni_chem_067",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Nucleus of atom contains:",
+    "options": [
+      "Electrons only",
+      "Protons and neutrons",
+      "Only photons",
+      "Only shells"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Nucleons."
+  },
+  {
+    "id": "uni_chem_068",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Electron was discovered by:",
+    "options": [
+      "Thomson",
+      "Chadwick",
+      "Rutherford only for nucleus idea",
+      "Bohr only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "J.J. Thomson."
+  },
+  {
+    "id": "uni_chem_069",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Neutron was discovered by:",
+    "options": [
+      "Thomson",
+      "Chadwick",
+      "Dalton",
+      "Mendeleev"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "James Chadwick."
+  },
+  {
+    "id": "uni_chem_070",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Rutherford’s model concluded atom has:",
+    "options": [
+      "Empty space + dense nucleus",
+      "Plum pudding only",
+      "No nucleus",
+      "Only electrons in nucleus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Nuclear atom."
+  },
+  {
+    "id": "uni_chem_071",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Bohr model explains mainly:",
+    "options": [
+      "Hydrogen spectrum",
+      "Nuclear fission fully",
+      "All molecular shapes alone",
+      "Metallic bonding alone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "H atom spectrum."
+  },
+  {
+    "id": "uni_chem_072",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "s orbital shape is:",
+    "options": [
+      "Dumbbell",
+      "Spherical",
+      "Double dumbbell",
+      "Uncertain always"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Spherical."
+  },
+  {
+    "id": "uni_chem_073",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "p orbital shape is:",
+    "options": [
+      "Spherical",
+      "Dumbbell",
+      "Linear only always",
+      "Tetrahedral only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Dumbbell."
+  },
+  {
+    "id": "uni_chem_074",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Maximum electrons in shell n is:",
+    "options": [
+      "n²",
+      "2n²",
+      "n",
+      "2n"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2n²."
+  },
+  {
+    "id": "uni_chem_075",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Valence electrons of sodium (Z=11) are:",
+    "options": [
+      "1",
+      "2",
+      "8",
+      "11"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Configuration ends in 3s¹."
+  },
+  {
+    "id": "uni_chem_076",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Noble gas configuration is:",
+    "options": [
+      "Stable octet (often)",
+      "Always reactive",
+      "Always radioactive",
+      "Always metal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Filled shells stability."
+  },
+  {
+    "id": "uni_chem_077",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "H2SO4 is:",
+    "options": [
+      "Sulphuric acid",
+      "Nitric acid",
+      "Hydrochloric acid",
+      "Acetic acid"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sulfuric acid."
+  },
+  {
+    "id": "uni_chem_078",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "HNO3 is:",
+    "options": [
+      "Sulphuric acid",
+      "Nitric acid",
+      "Hydrochloric acid",
+      "Carbonicanhydride"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Nitric acid."
+  },
+  {
+    "id": "uni_chem_079",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "NH3 is:",
+    "options": [
+      "Ammonia",
+      "Methane",
+      "Ozone",
+      "Ethene"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Ammonia."
+  },
+  {
+    "id": "uni_chem_080",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Quicklime is:",
+    "options": [
+      "CaO",
+      "CaCO3",
+      "Ca(OH)2",
+      "CaCl2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Calcium oxide."
+  },
+  {
+    "id": "uni_chem_081",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Slaked lime is:",
+    "options": [
+      "CaO",
+      "Ca(OH)2",
+      "CaCO3",
+      "NaOH"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Calcium hydroxide."
+  },
+  {
+    "id": "uni_chem_082",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Limestone is mainly:",
+    "options": [
+      "CaCO3",
+      "NaCl",
+      "SiO2 only",
+      "Fe2O3 only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Calcium carbonate."
+  },
+  {
+    "id": "uni_chem_083",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Glass mainly contains:",
+    "options": [
+      "Silica",
+      "Only gold",
+      "Only helium",
+      "Only ozone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "SiO₂ based."
+  },
+  {
+    "id": "uni_chem_084",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Bronze is alloy of:",
+    "options": [
+      "Cu and Sn",
+      "Cu and Zn",
+      "Fe and Cr only",
+      "Al and Mg only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Copper + tin."
+  },
+  {
+    "id": "uni_chem_085",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Brass is alloy of:",
+    "options": [
+      "Cu and Sn",
+      "Cu and Zn",
+      "Fe and C only",
+      "Au and Ag only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Copper + zinc."
+  },
+  {
+    "id": "uni_chem_086",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Steel is mainly:",
+    "options": [
+      "Iron with carbon",
+      "Only copper",
+      "Only aluminum",
+      "Only silicon"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fe + C."
+  },
+  {
+    "id": "uni_chem_087",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Ore of aluminum is:",
+    "options": [
+      "Bauxite",
+      "Hematite",
+      "Cinnabar",
+      "Rock salt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bauxite."
+  },
+  {
+    "id": "uni_chem_088",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Hematite is ore of:",
+    "options": [
+      "Al",
+      "Fe",
+      "Cu",
+      "Zn"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Iron ore."
+  },
+  {
+    "id": "uni_chem_089",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Cinnabar is ore of:",
+    "options": [
+      "Hg",
+      "Fe",
+      "Al",
+      "Na"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury sulfide."
+  },
+  {
+    "id": "uni_chem_090",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Roasting is heating in:",
+    "options": [
+      "Excess air",
+      "Absence of air always",
+      "Only vacuum",
+      "Only hydrogen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Often excess air."
+  },
+  {
+    "id": "uni_chem_091",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Calcination is heating in:",
+    "options": [
+      "Limited/no air",
+      "Always pure O2 blast only",
+      "Only water",
+      "Only acid"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Limited air."
+  },
+  {
+    "id": "uni_chem_092",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Electrolysis of water gives:",
+    "options": [
+      "H2 and O2",
+      "Only N2",
+      "Only CO2",
+      "Only Cl2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hydrogen and oxygen."
+  },
+  {
+    "id": "uni_chem_093",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Anode is:",
+    "options": [
+      "Positive electrode",
+      "Negative electrode",
+      "Neutral always",
+      "Solvent"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Oxidation at anode."
+  },
+  {
+    "id": "uni_chem_094",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Cathode is:",
+    "options": [
+      "Positive electrode",
+      "Negative electrode",
+      "Gas only",
+      "Salt only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Reduction at cathode."
+  },
+  {
+    "id": "uni_chem_095",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Faraday’s laws relate to:",
+    "options": [
+      "Electrolysis",
+      "Only optics",
+      "Only sound",
+      "Only gravity"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Electrochemical deposition."
+  },
+  {
+    "id": "uni_chem_096",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Ideal gas equation is:",
+    "options": [
+      "PV=nRT",
+      "V=IR",
+      "F=ma",
+      "E=mc²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "PV=nRT."
+  },
+  {
+    "id": "uni_chem_097",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Charles’s law: at constant P, V is proportional to:",
+    "options": [
+      "T",
+      "1/T",
+      "P²",
+      "n² only"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "V ∝ T."
+  },
+  {
+    "id": "uni_chem_098",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Boyle’s law: at constant T, P is proportional to:",
+    "options": [
+      "V",
+      "1/V",
+      "T",
+      "n only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "P ∝ 1/V."
+  },
+  {
+    "id": "uni_chem_099",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "STP temperature is:",
+    "options": [
+      "0°C",
+      "25°C",
+      "100°C",
+      "−273°C"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "0°C and 1 atm traditionally."
+  },
+  {
+    "id": "uni_chem_100",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Heavy water is:",
+    "options": [
+      "D2O",
+      "H2O2",
+      "H2O",
+      "O3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Deuterium oxide."
+  },
+  {
+    "id": "uni_chem_101",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "H2O2 is:",
+    "options": [
+      "Hydrogen peroxide",
+      "Heavy water",
+      "Ozone",
+      "Ammonia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hydrogen peroxide."
+  },
+  {
+    "id": "uni_chem_102",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Temporary hardness is due to:",
+    "options": [
+      "Bicarbonates of Ca/Mg",
+      "Only NaCl",
+      "Only sugars",
+      "Only oils"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bicarbonates."
+  },
+  {
+    "id": "uni_chem_103",
+    "categoryId": "university_test",
+    "subjectId": "uni_chemistry",
+    "question": "Permanent hardness is due to:",
+    "options": [
+      "Sulphates/chlorides of Ca/Mg",
+      "Only CO2",
+      "Only O2",
+      "Only N2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sulphates/chlorides."
+  }
+]
